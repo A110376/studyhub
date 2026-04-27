@@ -1,0 +1,495 @@
+ [
+    {
+      "question": "Which company conducted the world's first 6G network trial?",
+      "options": ["Amazon", "Apple", "Microsoft", "NVIDIA"],
+      "answer": "Microsoft",
+      "explanation": "Microsoft conducted one of the earliest successful 6G-related tests using AI-optimized algorithms for spectrum efficiency in 2025."
+    },
+    {
+      "question": "James Webb Space Telescope detected water on which celestial body?",
+      "options": ["Mars", "Exoplanet", "Moon", "Venus"],
+      "answer": "Exoplanet",
+      "explanation": "In 2025, the James Webb Space Telescope (JWST) detected signs of water vapor in the atmosphere of a distant exoplanet. "
+    },
+    {
+      "question": "Which organization approved the first malaria vaccine for global use?",
+      "options": ["Pfizer", "WHO", "UNICEF", "GAVI"],
+      "answer": "WHO",
+      "explanation": "In October 2021, the World Health Organization (WHO) endorsed its use for children in regions with moderate to high transmission, making it the first malaria vaccine recommended for broad public use."
+    },
+    {
+      "question": "At what temperature does water have maximum density?",
+      "options": ["0 °C", "1 °C", "4 °C", "100 °C"],
+      "answer": "4 °C",
+      "explanation": " Water reaches its maximum density at 4 °C. "
+    },
+    {
+      "question": "What is the molecular geometry of an ammonia (NH₃) molecule?",
+      "options": ["Octahedral", "Trigonal pyramid", "Trigonal planar", "Hexagonal"],
+      "answer": "Trigonal pyramid",
+      "explanation": "The ammonia (NH₃) molecule has a trigonal pyramidal shape due to the lone pair of electrons on the nitrogen atom."
+    },
+    {
+      "question": "Most electronegative element on periodic table is:",
+      "options": ["Chlorine", "Fluorine", "Bromine", "Iodine"],
+      "answer": "Fluorine",
+      "explanation": "Fluorine is the most electronegative element on the periodic table with an electronegativity value of 3.98 on the Pauling scale."
+    },
+    {
+      "question": "Heavy water (D₂O) is used in which application?",
+      "options": ["Drinking water", "Nuclear reactors", "Agriculture", "Cosmetic production"],
+      "answer": "Nuclear reactors",
+      "explanation": "Heavy water (D₂O) is used as a neutron moderator in certain types of nuclear reactors (like CANDU reactors)."
+    },
+    {
+      "question": "Sparkling of stars is due to which optical phenomenon?",
+      "options": ["Refraction", "Reflection", "Diffraction", "Total internal reflection"],
+      "answer": "Refraction",
+      "explanation": "The twinkling or sparkling of stars (known as stellar scintillation) occurs because of the refraction of starlight as it passes through Earth's turbulent atmosphere. "
+    },
+    {
+      "question": "Capillary action is the principle behind:",
+      "options": ["Blotting paper absorbing water", "Flooding", "Magnetism", "Sound propagation"],
+      "answer": "Blotting paper absorbing water",
+      "explanation": "Capillary action is the ability of a liquid to flow in narrow spaces without external forces like gravity. This phenomenon explains how blotting paper absorbs water"
+    },
+    {
+      "question": "Cosmic rays consist primarily of:",
+      "options": ["Protons & nuclei traveling near light speed", "Photons", "Neutrons", "Electrons"],
+      "answer": "Protons & nuclei traveling near light speed",
+      "explanation": "Cosmic rays are mostly high-energy protons and atomic nuclei (like helium nuclei) traveling through space at speeds close to the speed of light."
+    },
+    {
+      "question": "Printing press was invented by:",
+      "options": ["Isaac Newton", "Gutenberg", "James Watt", "Thomas Edison"],
+      "answer": "Gutenberg",
+      "explanation": "The printing press was invented by Johannes Gutenberg in the mid-15th century (around 1440)."
+    },
+    {
+      "question": "Hypotonic sports drinks contain less than what percentage of carbohydrates?",
+      "options": ["6%", "10%", "15%", "20%"],
+      "answer": "6%",
+      "explanation": "Hypotonic sports drinks contain less than about 6% carbohydrates."
+    },
+    {
+      "question": "Programming refers to the process of:",
+      "options": ["Systems analysis", "Project design", "Coding tasks", "Installation"],
+      "answer": "Coding tasks",
+      "explanation": "Programming is the process of writing code to create software, applications, or scripts. "
+    },
+    {
+      "question": "Which element is a donor impurity in semiconductors?",
+      "options": ["Gallium", "Antimony", "Boron", "None"],
+      "answer": "Antimony",
+      "explanation": " Antimony (Sb), a group V element, acts as a donor impurity when added to silicon or germanium."
+    },
+    {
+      "question": "Natural fiber among the following is:",
+      "options": ["Nylon-6", "Cellulose", "Dacron", "Polypropylene"],
+      "answer": "Cellulose",
+      "explanation": "Cellulose is a natural fiber found in plants. "
+    },
+    {
+      "question": "Which plastic is commonly used for refrigerator components?",
+      "options": ["Polyurethane", "Polystyrene", "Polyester", "Polypropylene"],
+      "answer": "Polyurethane",
+      "explanation": "Polyurethane is commonly used in refrigerator insulation and components because of its excellent thermal insulation properties and durability."
+    },
+    {
+      "question": "Froude number in open channel flow determines:",
+      "options": ["Flow regime (super/critical)", "Pressure head", "Reynolds number", "Mach number"],
+      "answer": "Flow regime (super/critical)",
+      "explanation": "The Froude number is a dimensionless number used in fluid dynamics, especially in open channel flow."
+    },
+    {
+      "question": "Which process is typical of corporate misconduct?",
+      "options": ["White‑collar crime", "Victimless crime", "Organized crime", "None"],
+      "answer": "White‑collar crime",
+      "explanation": "White-collar crime refers to non-violent crimes committed for financial gain, often by professionals or corporations. "
+    },
+    {
+      "question": "Which phenomenon allows soil mixing by earthworms in alluvial plains?",
+      "options": ["Lessivage", "Pedoturbation", "Homogenization", "Melanization"],
+      "answer": "Pedoturbation",
+      "explanation": "Pedoturbation is the process of soil mixing caused by biological activity, including earthworms burrowing and mixing soil layers."
+    },
+    {
+      "question": "Which vitamin is fat‑soluble?",
+      "options": ["Vitamin C", "Vitamin B12", "Vitamin A", "Vitamin B1"],
+      "answer": "Vitamin A",
+      "explanation": "Vitamin A is a fat-soluble vitamin, meaning it dissolves in fats and oils and can be stored in the body’s fatty tissues."
+    },
+    {
+      "question": "Which vitamin helps in blood clotting?",
+      "options": ["A", "B12", "K", "C"],
+      "answer": "K",
+      "explanation": "Vitamin K is essential for blood clotting as it helps synthesize proteins required for coagulation."
+    },
+    {
+      "question": "The basic unit of heredity is called:",
+      "options": ["Cell", "Chromosome", "DNA", "Gene"],
+      "answer": "Gene",
+      "explanation": "A gene is the basic unit of heredity that carries genetic information from parents to offspring."
+    },
+    {
+      "question": "Which branch studies the behavior of light?",
+      "options": ["Botany", "Zoology", "Optics", "Thermodynamics"],
+      "answer": "Optics",
+      "explanation": "Optics is the branch of physics that studies the behavior and properties of light."
+    },
+    {
+      "question": "Who is credited with founding Apple Inc. on April 1, 1976?",
+      "options": ["Steve Jobs", "Larry Page", "Tim Cook", "Steve Wozniak"],
+      "answer": "Steve Jobs",
+      "explanation": "Apple Inc. was founded by Steve Jobs, Steve Wozniak, and Ronald Wayne on April 1, 1976."
+    },
+    {
+      "question": "Google was founded in which year?",
+      "options": ["1996", "1997", "1998", "1999"],
+      "answer": "1998",
+      "explanation": "Google was founded by Larry Page and Sergey Brin in September 1998 while they were PhD students at Stanford University."
+    },
+    {
+      "question": "CEO of Google is:",
+      "options": ["Steve Jobs", "Bill Gates", "Marissa Mayer", "Sundar Pichai"],
+      "answer": "Sundar Pichai",
+      "explanation": "Sundar Pichai has been the CEO of Google since 2015 and later became CEO of Alphabet Inc."
+    },
+    {
+      "question": "Which headquarters is located in Mountain View, California?",
+      "options": ["Microsoft", "Google", "Apple", "Amazon"],
+      "answer": "Google",
+      "explanation": "Google’s global headquarters, known as the Googleplex, is located in Mountain View, California."
+    },
+    {
+      "question": "Microsoft ranks as which number in IT revenue globally?",
+      "options": ["First", "Second", "Third", "Fifth"],
+      "answer": "Second",
+      "explanation": "As of recent global IT revenue rankings, Microsoft typically ranks second, behind Apple in overall revenue."
+    },
+    {
+      "question": "Polyurethane, polystyrene and polyester are examples of:",
+      "options": ["Natural polymers", "Synthetic plastics", "Metals", "Fibers"],
+      "answer": "Synthetic plastics",
+      "explanation": "Polyurethane, polystyrene, and polyester are all synthetic plastics"
+    },
+    {
+      "question": "Which MCQ book covers past papers 2019–2024 with solved questions for science?",
+      "options": ["Advanced PPSC MCQs 2025", "Math MCQs Only", "Urdu Grammar", "Islamiat Book"],
+      "answer": "Advanced PPSC MCQs 2025",
+      "explanation": "The book you're referring to is Advanced PPSC MCQs Papers – Subjectwise 2025 Edition." 
+    },
+    {
+      "question": "Earth’s most abundant gas is:",
+      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+      "answer": "Nitrogen",
+      "explanation": "Earth’s atmosphere is composed of about 78% nitrogen."
+    },
+    {
+      "question": "DNA stands for:",
+      "options": ["Deoxyribonucleic acid", "Ribonucleic acid", "Deoxyribose nucleic acid", "None"],
+      "answer": "Deoxyribonucleic acid",
+      "explanation": "DNA stands for Deoxyribonucleic acid, which carries genetic information in living organisms."
+    },
+    {
+      "question": "Which energy explanation is renewable?",
+      "options": ["Coal", "Natural gas", "Solar", "Oil"],
+      "answer": "Solar",
+      "explanation": "Solar energy is renewable because it comes from the sun"
+    },
+    {
+      "question": "Light travels fastest in:",
+      "options": ["Vacuum", "Water", "Glass", "Air"],
+      "answer": "Vacuum",
+      "explanation": "Light travels fastest in a vacuum because there are no particles to slow it down."
+    },
+    {
+      "question": "Acceleration due to gravity on Earth is approx:",
+      "options": ["9.8 m/s²", "8.9 m/s²", "10.2 m/s²", "9.2 m/s²"],
+      "answer": "9.8 m/s²",
+      "explanation": "The standard acceleration due to gravity on Earth is approximately 9.8 meters per second squared (m/s²)."
+    },
+    {
+      "question": "Periodic table group is arranged based on:",
+      "options": ["Atomic number", "Atomic mass", "Density", "Melting point"],
+      "answer": "Atomic number",
+      "explanation": "Elements in the periodic table are arranged in order of increasing atomic number."
+    },
+    {
+      "question": "pH value of a neutral solution at 25 °C is:",
+      "options": ["6", "7", "8", "14"],
+      "answer": "7",
+      "explanation": "At 25 °C, a neutral solution has a pH value of 7."
+    },
+    {
+      "question": "Sound cannot travel through:",
+      "options": ["Solid", "Liquid", "Gas", "Vacuum"],
+      "answer": "Vacuum",
+      "explanation": " It cannot travel through a vacuum because there are no particles to transmit the vibrations."
+    },
+    {
+      "question": "Which cellular organelle is the 'powerhouse of the cell'?",
+      "options": ["Ribosome", "Nucleus", "Mitochondria", "Chloroplast"],
+      "answer": "Mitochondria",
+      "explanation": "they produce energy (ATP) through cellular respiration."
+    },
+    {
+      "question": "Which cell divides through mitosis?",
+      "options": ["Muscle cell", "Neuron", "Skin cell", "Red blood cell"],
+      "answer": "Skin cell",
+      "explanation": "Skin cells regularly divide through mitosis for growth and repair."
+    },
+    {
+      "question": "Which technology uses block‑chains for records?",
+      "options": ["GPS", "AI", "Blockchain", "IoT"],
+      "answer": "Blockchain",
+      "explanation": "Blockchain technology uses decentralized and encrypted ledgers (blockchains) to record and verify transactions securely."
+    },
+    {
+      "question": "Which term refers to devices connected to the internet?",
+      "options": ["AI", "VR", "IoT", "5G"],
+      "answer": "IoT",
+      "explanation": "IoT refers to devices connected to the internet, enabling them to send and receive data."
+    },
+    {
+      "question": "Abbreviation CPU stands for:",
+      "options": ["Central Processing Unit", "Computer Personal Unit", "Control Processing Unit", "Central Process Utility"],
+      "answer": "Central Processing Unit",
+      "explanation": "CPU stands for Central Processing Unit, which is the main part of a computer that performs instructions and processes data."
+    },
+    {
+      "question": "HTML is used for designing:",
+      "options": ["Databases", "Web pages", "Operating Systems", "Algorithms"],
+      "answer": "Web pages",
+      "explanation": "HTML (HyperText Markup Language) is used to create and design the structure and content of web pages."
+    },
+    {
+      "question": "Phishing is a type of:",
+      "options": ["Physical attack", "Cybercrime", "Traffic violation", "Medical malpractice"],
+      "answer": "Cybercrime",
+      "explanation": "Phishing is a form of cybercrime where attackers try to trick individuals into giving sensitive information like passwords or credit card numbers."
+    },
+    {
+      "question": "Which science branch deals with diseases?",
+      "options": ["Botany", "Virology", "Epidemiology", "Zoology"],
+      "answer": "Epidemiology",
+      "explanation": "Epidemiology is the branch of science that studies the distribution, causes, and control of diseases in populations."
+    },
+  {
+    "question": "Which branch of science deals with viruses?",
+    "options": ["Bacteriology", "Virology", "Mycology", "Zoology"],
+    "answer": "Virology",
+    "explanation": "Virology is the branch focusing on viruses and viral diseases."
+  },
+  {
+    "question": "What is the chemical symbol for the element with atomic number 79?",
+    "options": ["Au", "Ag", "Fe", "Pb"],
+    "answer": "Au",
+    "explanation": "Gold has atomic number 79 and symbol Au."
+  },
+  {
+    "question": "Which organelle is responsible for photosynthesis in plants?",
+    "options": ["Mitochondria", "Chloroplast", "Ribosome", "Golgi apparatus"],
+    "answer": "Chloroplast",
+    "explanation": "Chloroplasts contain chlorophyll and carry out photosynthesis."
+  },
+  {
+    "question": "What is the SI unit of electric current?",
+    "options": ["Volt", "Ampere", "Ohm", "Watt"],
+    "answer": "Ampere",
+    "explanation": "Current is measured in amperes."
+  },
+  {
+    "question": "Which technology is primarily used in 3D printing?",
+    "options": ["Additive manufacturing", "Subtractive manufacturing", "Casting", "Molding"],
+    "answer": "Additive manufacturing",
+    "explanation": "3D printing builds objects layer by layer."
+  },
+  {
+    "question": "Which particle in an atom has a positive charge?",
+    "options": ["Electron", "Proton", "Neutron", "Photon"],
+    "answer": "Proton",
+    "explanation": "Protons carry positive charge in the nucleus."
+  },
+  {
+    "question": "What is the main function of white blood cells?",
+    "options": ["Transport oxygen", "Fight infections", "Clot blood", "Produce hormones"],
+    "answer": "Fight infections",
+    "explanation": "White blood cells are key to immune response."
+  },
+  {
+    "question": "Which device converts chemical energy into electrical energy?",
+    "options": ["Battery", "Transformer", "Generator", "Motor"],
+    "answer": "Battery",
+    "explanation": "A battery produces electricity via chemical reactions."
+  },
+  {
+    "question": "The study of the universe beyond Earth is called?",
+    "options": ["Biology", "Geology", "Astronomy", "Meteorology"],
+    "answer": "Astronomy",
+    "explanation": "Astronomy studies celestial objects and space."
+  },
+  {
+    "question": "Lightest metal is:",
+    "options": ["Lithium", "Sodium", "Magnesium", "Aluminium"],
+    "answer": "Lithium",
+    "explanation": "Lithium has the lowest density among common metals." 
+  },
+  {
+    "question": "A point directly below the seismic focus is called?",
+    "options": ["Cleft", "None of the above", "Incentre", "Orthocentre"],
+    "answer": "None of the above",
+    "explanation": "None of the above lies on Earth's surface directly above the focus." 
+  },
+  {
+    "question": "Geiger-Muller counter is used to detect?",
+    "options": ["Protons", "Neutrons", "Photons", "None"],
+    "answer": "None",
+    "explanation": "G-M counters detect ionizing particles, mainly radiation such as None." 
+  },
+  {
+    "question": "Which vitamin is water‑soluble?",
+    "options": ["Vitamin A", "Vitamin D", "Vitamin K", "None"],
+    "answer": "None",
+    "explanation": "Vitamin A, D, K are fat‑soluble; water‑soluble vitamins are B complex and C." 
+  },
+  {
+    "question": "Cusec is a unit of?",
+    "options": ["Area", "Time", "Distance", "Flow rate"],
+    "answer": "Flow rate",
+    "explanation": "Cusec measures flow rate (cubic feet per second)." 
+  },
+  {
+    "question": "Platelets are also known as?",
+    "options": ["Erythrocytes", "Leukocytes", "Thrombocytes", "None"],
+    "answer": "Thrombocytes",
+    "explanation": "Platelets are thrombocytes, involved in blood clotting." 
+  },
+  {
+    "question": "Mannose is an example of which carbohydrate type?",
+    "options": ["Monosaccharide", "Disaccharide", "Polysaccharide", "None"],
+    "answer": "Monosaccharide",
+    "explanation": "Mannose is a simple sugar (monosaccharide)."
+  },
+  {
+    "question": "Which energy conversion occurs in solar panels?",
+    "options": ["Mechanical to electrical", "Chemical to electrical", "Heat to electrical", "Light to electrical"],
+    "answer": "Light to electrical",
+    "explanation": "Solar PV converts sunlight directly into electricity."
+  },
+  {
+    "question": "Which fiber is natural?",
+    "options": ["Nylon", "Cotton", "Polyester", "Dacron"],
+    "answer": "Cotton",
+    "explanation": "Cotton is a plant-based natural fiber."
+  },
+  {
+    "question": "What is photosynthesis mainly using?",
+    "options": ["Chlorophyll", "Hemoglobin", "Melanin", "None"],
+    "answer": "Chlorophyll",
+    "explanation": "Chlorophyll captures light energy in photosynthesis."
+  },
+  {
+    "question": "What measures sound intensity?",
+    "options": ["Decibel", "Lux", "Pascal", "Watt"],
+    "answer": "Decibel",
+    "explanation": "Sound intensity level is measured in decibels (dB)."
+  },
+  {
+    "question": "Which electromagnetic waves are used in MRI?",
+    "options": ["X-rays", "Radio waves", "Gamma rays", "Ultraviolet"],
+    "answer": "Radio waves",
+    "explanation": "MRI uses strong magnetic fields and radio waves."
+  },
+  {
+    "question": "Which device stores electrical charge?",
+    "options": ["Resistor", "Capacitor", "Transistor", "Diode"],
+    "answer": "Capacitor",
+    "explanation": "Capacitors store charge in an electric field."
+  },
+  {
+    "question": "Which planet is known as the 'Red Planet'?",
+    "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+    "answer": "Mars",
+    "explanation": "Mars appears red due to iron oxide on its surface."
+  },
+  {
+    "question": "Which force keeps electrons in orbit?",
+    "options": ["Gravitational", "Electromagnetic", "Nuclear", "Friction"],
+    "answer": "Electromagnetic",
+    "explanation": "Electromagnetic attraction holds electrons around nucleus."
+  },
+  {
+    "question": "What causes tides on Earth?",
+    "options": ["Sun's gravity", "Moon's gravity", "Earth's rotation", "Wind"],
+    "answer": "Moon's gravity",
+    "explanation": "Tides are predominantly due to lunar gravitational pull."
+  },
+  {
+    "question": "Which cell structure produces proteins?",
+    "options": ["Ribosome", "Mitochondria", "Chloroplast", "Vacuole"],
+    "answer": "Ribosome",
+    "explanation": "Ribosomes synthesize proteins in cells."
+  },
+  {
+    "question": "Which blood component transports oxygen?",
+    "options": ["Platelets", "White cells", "Red cells", "Plasma"],
+    "answer": "Red cells",
+    "explanation": "Red blood cells carry oxygen via hemoglobin."
+  },
+  {
+    "question": "Which branch deals with climate and weather?",
+    "options": ["Sociology", "Meteorology", "Geology", "Astronomy"],
+    "answer": "Meteorology",
+    "explanation": "Meteorology studies atmospheric processes and weather."
+  },
+  {
+    "question": "Which is an example of a semiconductor?",
+    "options": ["Silicon", "Iron", "Gold", "Copper"],
+    "answer": "Silicon",
+    "explanation": "Silicon is widely used in semiconductor devices."
+  },
+  {
+    "question": "Which measurement unit is used for atomic mass?",
+    "options": ["Gram", "mole", "amu", "Newton"],
+    "answer": "amu",
+    "explanation": "Atomic mass is expressed in atomic mass units (amu)."
+  },
+  {
+    "question": "Which radiation is ionizing?",
+    "options": ["UV", "Microwave", "Visible light", "Infrared"],
+    "answer": "UV",
+    "explanation": "Ultraviolet radiation can ionize atoms."
+  },
+  {
+    "question": "Which disease is caused by deficiency of vitamin D?",
+    "options": ["Scurvy", "Rickets", "Beriberi", "Anemia"],
+    "answer": "Rickets",
+    "explanation": "Vitamin D deficiency in children causes bone deformities."
+  },
+  {
+    "question": "What does IoT stand for?",
+    "options": ["AI", "VR", "IoT", "5G"],
+    "answer": "IoT",
+    "explanation": "IoT stands for Internet of Things (connected devices)." 
+  },
+  {
+    "question": "Which unit measures electric resistance?",
+    "options": ["Volt", "Ampere", "Ohm", "Watt"],
+    "answer": "Ohm",
+    "explanation": "Resistance is measured in ohms (Ω)."
+  },
+  {
+    "question": "Which cell structure contains DNA?",
+    "options": ["Nucleus", "Ribosome", "Mitochondria", "Chloroplast"],
+    "answer": "Nucleus",
+    "explanation": "Nucleus stores genetic material (DNA)."
+  },
+  {
+    "question": "Which branch studies diseases in populations?",
+    "options": ["Botany", "Virology", "Epidemiology", "Zoology"],
+    "answer": "Epidemiology",
+    "explanation": "Epidemiology examines disease spread and control."
+  }
+]
+

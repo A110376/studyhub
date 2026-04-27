@@ -1,0 +1,39 @@
+{
+  "slug": "food-safety-officer",
+  "title": "Food Safety Officer Mock Test",
+  "duration_minutes": 90,
+  "marks_per_correct": 1,
+  "negative_mark_per_wrong": 0.25,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which agency is primarily responsible for food safety in Pakistan?",
+      "options": ["WHO", "FDA Pakistan", "Food Authority", "UNICEF"],
+      "correct": 2
+    },
+    {
+      "id": 2,
+      "question": "What is the safe temperature to store perishable food?",
+      "options": ["0-5°C", "10-15°C", "20-25°C", "30-35°C"],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": "What is the main cause of foodborne illnesses?",
+      "options": ["Bacteria", "Vitamins", "Sugar", "Oils"],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is a common chemical food contaminant?",
+      "options": ["Lead", "Water", "Salt", "Sugar"],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": "Hazard Analysis and Critical Control Points (HACCP) is used for?",
+      "options": ["Food safety management", "Cooking techniques", "Marketing food", "Food packaging design"],
+      "correct": 0
+    }
+  ]
+}

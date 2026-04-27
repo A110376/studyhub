@@ -1,0 +1,709 @@
+[
+  {
+    "question": "What is the primary objective of Pakistan's defence policy?",
+    "options": [
+      "National security",
+      "Economic growth",
+      "Cultural preservation",
+      "Diplomatic relations"
+    ],
+    "answer": "National security"
+  },
+  {
+    "question": "Who is the Chief of Army Staff (COAS) of Pakistan Army?",
+    "options": [
+      "General Qamar Javed Bajwa",
+      "General Asim Munir",
+      "General Raheel Sharif",
+      "General Pervez Musharraf"
+    ],
+    "answer": "General Asim Munir"
+  },
+  {
+    "question": "What is the primary role of Pakistan Navy?",
+    "options": [
+      "Land defence",
+      "Maritime security",
+      "Air defence",
+      "Cyber warfare"
+    ],
+    "answer": "Maritime security"
+  },
+  {
+    "question": "What is the primary mission of Pakistan Air Force?",
+    "options": [
+      "Air superiority",
+      "Ground support",
+      "Maritime patrol",
+      "Cyber defence"
+    ],
+    "answer": "Air superiority"
+  },
+  {
+    "question": "What is the name of Pakistan's nuclear doctrine?",
+    "options": [
+      "Full Spectrum Deterrence",
+      "Strategic Stability",
+      "Nuclear Triad",
+      "Minimum Credible Deterrence"
+    ],
+    "answer": "Full Spectrum Deterrence"
+  },
+  {
+    "question": "When did Pakistan conduct its first nuclear test?",
+    "options": ["1998", "1999", "2000", "2001"],
+    "answer": "1998"
+  },
+  {
+    "question": "What is the major source of Pakistan's defence budget?",
+    "options": ["Tax revenue", "Foreign aid", "Loans", "Private investment"],
+    "answer": "Tax revenue"
+  },
+  {
+    "question": "In which document is Pakistan's defence policy outlined?",
+    "options": [
+      "National Security Policy",
+      "Defence White Paper",
+      "Strategic Defence Review",
+      "Defence Planning Document"
+    ],
+    "answer": "National Security Policy"
+  },
+  {
+    "question": "What is the main focus of Pakistan's defence policy?",
+    "options": [
+      "Conventional warfare",
+      "Nuclear deterrence",
+      "Cyber warfare",
+      "Economic sanctions"
+    ],
+    "answer": "Nuclear deterrence",
+    "explanation": "The main focus of Pakistan's defence policy is on nuclear deterrence."
+  },
+  {
+    "question": "On which concept is Pakistan's defence strategy based?",
+    "options": ["Offensive", "Defensive", "Hybrid", "Preemptive strike"],
+    "answer": "Defensive",
+    "explanation": "Pakistan's defence strategy is primarily defensive, focusing on securing its borders."
+  },
+  {
+    "question": "Which region is considered the primary threat zone in Pakistan's defence policy?",
+    "options": [
+      "Eastern border with India",
+      "Western border with Afghanistan",
+      "Southern border with Iran",
+      "Northern border with China"
+    ],
+    "answer": "Eastern border with India",
+    "explanation": "Pakistan's defence policy identifies the eastern border with India as the primary threat zone."
+  },
+  {
+    "question": "Which aspect is emphasized in Pakistan's defence policy?",
+    "options": [
+      "Self-reliance",
+      "Foreign alliances",
+      "Arms control",
+      "Peacekeeping missions"
+    ],
+    "answer": "Self-reliance",
+    "explanation": "Pakistan's defence policy emphasizes self-reliance to strengthen its defence capabilities."
+  },
+  {
+    "question": "Which technology is incorporated in Pakistan's defence policy?",
+    "options": [
+      "Artificial Intelligence",
+      "Cyber warfare capabilities",
+      "Space technology",
+      "Quantum computing"
+    ],
+    "answer": "Cyber warfare capabilities",
+    "explanation": "Pakistan's defence policy incorporates cyber warfare capabilities to counter digital threats."
+  },
+  {
+    "question": "Which international treaty is considered in Pakistan's defence policy?",
+    "options": [
+      "Non-Proliferation Treaty",
+      "Comprehensive Test Ban Treaty",
+      "Chemical Weapons Convention",
+      "Biological Weapons Convention"
+    ],
+    "answer": "Comprehensive Test Ban Treaty",
+    "explanation": "Pakistan's defence policy considers the Comprehensive Test Ban Treaty, but Pakistan has not signed it."
+  },
+  {
+    "question": "Which aspect is prioritized in Pakistan's defence policy?",
+    "options": [
+      "Nuclear arsenal expansion",
+      "Conventional force modernization",
+      "Cyber defence",
+      "Space defence"
+    ],
+    "answer": "Conventional force modernization",
+    "explanation": "Conventional force modernization is prioritized in Pakistan's defence policy to strengthen conventional forces."
+  },
+  {
+    "question": "Which region is given strategic importance in Pakistan's defence policy?",
+    "options": ["Central Asia", "Middle East", "South Asia", "Southeast Asia"],
+    "answer": "South Asia",
+    "explanation": "South Asia is given strategic importance in Pakistan's defence policy, especially regarding relations with India."
+  },
+  {
+    "question": "Which aspect is ignored in Pakistan's defence policy?",
+    "options": [
+      "Nuclear weapons",
+      "Conventional forces",
+      "Cyber warfare",
+      "Economic sanctions"
+    ],
+    "answer": "Economic sanctions",
+    "explanation": "Economic sanctions are ignored in Pakistan's defence policy, although they indirectly affect the country."
+  },
+  {
+    "question": "Which aspect is considered underdeveloped in Pakistan's defence policy?",
+    "options": [
+      "Cyber warfare capabilities",
+      "Space defence",
+      "Nuclear arsenal",
+      "Conventional forces"
+    ],
+    "answer": "Space defence",
+    "explanation": "Space defence is still considered underdeveloped in Pakistan's defence policy and work is ongoing."
+  },
+  {
+    "question": "How many branches are there in Pakistan's Armed Forces?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "3",
+    "explanation": "Pakistan Armed Forces have three main branches: Army, Navy, and Air Force."
+  },
+  {
+    "question": "What is the name of the largest infantry unit of the Pakistan Army?",
+    "options": [
+      "Punjab Regiment",
+      "Baloch Regiment",
+      "Sindh Regiment",
+      "Azad Kashmir Regiment"
+    ],
+    "answer": "Punjab Regiment",
+    "explanation": "Punjab Regiment is the largest and oldest infantry regiment of the Pakistan Army."
+  },
+  {
+    "question": "What is the primary mission of Pakistan Navy's submarines?",
+    "options": [
+      "Surface warfare",
+      "Underwater reconnaissance",
+      "Strategic deterrence",
+      "Air defence"
+    ],
+    "answer": "Strategic deterrence",
+    "explanation": "Pakistan Navy's submarines are used for strategic deterrence and underwater operations."
+  },
+  {
+    "question": "Which are the most advanced fighter aircraft of the Pakistan Air Force?",
+    "options": ["F-16", "JF-17 Thunder", "Mirage III", "Chengdu J-10"],
+    "answer": "JF-17 Thunder",
+    "explanation": "JF-17 Thunder is the latest multi-role fighter aircraft of Pakistan Air Force, developed in collaboration with China."
+  },
+  {
+    "question": "According to Pakistan Defence Production, where is the largest defense manufacturing complex located?",
+    "options": ["Taxila", "Kahuta", "Sialkot", "Gujranwala"],
+    "answer": "Taxila",
+    "explanation": "Taxila Defense Complex is the largest defense manufacturing facility in Pakistan."
+  },
+  {
+    "question": "What is the name of Pakistan's military intelligence agency?",
+    "options": ["ISI", "MI", "CIA", "RAW"],
+    "answer": "ISI",
+    "explanation": "ISI (Inter-Services Intelligence) is Pakistan's military intelligence agency."
+  },
+  {
+    "question": "Which is the largest cantonment of Pakistan Army in Punjab?",
+    "options": ["Rawalpindi", "Lahore", "Faisalabad", "Multan"],
+    "answer": "Rawalpindi",
+    "explanation": "Rawalpindi Cantonment is the largest cantonment in Punjab and is also the headquarters of Pakistan Army."
+  },
+  {
+    "question": "By what term is Pakistan's nuclear deterrence strategy referred to?",
+    "options": [
+      "Minimum Credible Deterrence",
+      "Full Spectrum Deterrence",
+      "Mutually Assured Destruction",
+      "First Strike Policy"
+    ],
+    "answer": "Minimum Credible Deterrence",
+    "explanation": "Pakistan's nuclear deterrence strategy is known as 'Minimum Credible Deterrence.'"
+  },
+  {
+    "question": "What constitutes the largest part of Pakistan's defence exports?",
+    "options": ["Small arms", "Armored vehicles", "Aircraft", "Naval vessels"],
+    "answer": "Small arms",
+    "explanation": "Small arms and light weapons make up the largest share of Pakistan's defence exports."
+  },
+  {
+    "question": "Where is the basic training center for Pakistan Army's infantry located?",
+    "options": ["Mangla", "Cherat", "Quetta", "Kakul"],
+    "answer": "Cherat",
+    "explanation": "The Infantry Training Center of Pakistan Army is located in Cherat."
+  },
+  {
+    "question": "What type of aircraft does Pakistan Navy have?",
+    "options": [
+      "Fighter jets",
+      "Maritime patrol aircrafts",
+      "Bomber jets",
+      "Transport aircrafts"
+    ],
+    "answer": "Maritime patrol aircrafts",
+    "explanation": "Pakistan Navy operates maritime patrol aircrafts used for monitoring maritime areas."
+  },
+  {
+    "question": "When is Defence Day celebrated in Pakistan?",
+    "options": ["6 September", "14 August", "23 March", "10 October"],
+    "answer": "6 September",
+    "explanation": "Defence Day is celebrated on 6th September in Pakistan in memory of the 1965 war."
+  },
+  {
+    "question": "Where is the largest Pakistan Air Force base located?",
+    "options": ["Sargodha", "Kamra", "Jacobabad", "Masroor"],
+    "answer": "Sargodha",
+    "explanation": "Sargodha Airbase is the largest base of the Pakistan Air Force."
+  },
+  {
+    "question": "What is Pakistan's largest missile system?",
+    "options": ["Ghauri", "Shaheen", "Babur", "Nasr"],
+    "answer": "Shaheen",
+    "explanation": "Shaheen missile is Pakistan's largest ballistic missile system."
+  },
+  {
+    "question": "What is the primary role of Pakistan Army's armored corps?",
+    "options": [
+      "Infantry support",
+      "Tank warfare",
+      "Artillery support",
+      "Air defence"
+    ],
+    "answer": "Tank warfare",
+    "explanation": "The primary role of Pakistan Army's armored corps is tank warfare."
+  },
+  {
+    "question": "When did Pakistan Air Force start operating its first fighter jet?",
+    "options": ["1955", "1947", "1965", "1971"],
+    "answer": "1955",
+    "explanation": "Pakistan Air Force began operating its first fighter jet in 1955."
+  },
+  {
+    "question": "Pakistan Navy's submarines were developed in collaboration with which country?",
+    "options": ["China", "USA", "Russia", "France"],
+    "answer": "China",
+    "explanation": "Pakistan Navy's submarines were developed in collaboration with China."
+  },
+  {
+    "question": "What is special about Pakistan Army's artillery units?",
+    "options": [
+      "Long range capability",
+      "Rapid deployment",
+      "Air defence",
+      "Cyber warfare"
+    ],
+    "answer": "Long range capability",
+    "explanation": "Pakistan Army's artillery units provide long-range firepower."
+  },
+  {
+    "question": "What is the name of Pakistan's strategic command control system?",
+    "options": [
+      "National Command Authority",
+      "Strategic Command",
+      "Military Command Center",
+      "Defence Control Board"
+    ],
+    "answer": "National Command Authority",
+    "explanation": "The National Command Authority controls Pakistan's strategic nuclear forces."
+  },
+  {
+    "question": "Which special force of Punjab Police is involved in defence-related operations?",
+    "options": [
+      "Elite Force",
+      "Rapid Response Force",
+      "Special Protection Unit",
+      "Counter Terrorism Department"
+    ],
+    "answer": "Elite Force",
+    "explanation": "Punjab Police's Elite Force is known for defence and counter-terrorism operations."
+  },
+  {
+    "question": "In Pakistan's defence modernization, which sector receives the highest investment?",
+    "options": ["Air Force", "Navy", "Army", "Cyber security"],
+    "answer": "Army",
+    "explanation": "Most investment in Pakistan's defence modernization is made to enhance the Army's capabilities."
+  },
+  {
+    "question": "Which country is the largest market for Pakistan's defence exports?",
+    "options": ["Turkey", "Saudi Arabia", "Indonesia", "UAE"],
+    "answer": "Saudi Arabia",
+    "explanation": "Saudi Arabia is the largest market for Pakistan's defence exports."
+  },
+  {
+    "question": "According to Pakistan's defence policy, who is considered the biggest external threat?",
+    "options": ["India", "Afghanistan", "Iran", "China"],
+    "answer": "India",
+    "explanation": "India is considered the biggest external threat in Pakistan's defence policy."
+  },
+  {
+    "question": "What is the role of Pakistan's Strategic Plans Division?",
+    "options": [
+      "Nuclear weapons management",
+      "Conventional forces management",
+      "Military training",
+      "Diplomatic liaison"
+    ],
+    "answer": "Nuclear weapons management",
+    "explanation": "The Strategic Plans Division is responsible for managing and securing Pakistan's nuclear arsenal."
+  },
+  {
+    "question": "What is the name of Pakistan's military academy?",
+    "options": [
+      "Pakistan Military Academy",
+      "Defence Services Academy",
+      "National Defence College",
+      "Military Training College"
+    ],
+    "answer": "Pakistan Military Academy",
+    "explanation": "Pakistan Military Academy, located in Kakul, is the training center for officers."
+  },
+  {
+    "question": "Where is the largest Pakistan Army military training center located in Punjab?",
+    "options": ["Mangla", "Chaklala", "Risalpur", "Faisalabad"],
+    "answer": "Mangla",
+    "explanation": "Mangla Army Training Center is the largest training center in Punjab."
+  },
+  {
+    "question": "What type of destroyers does Pakistan Navy possess?",
+    "options": [
+      "F-22P Frigates",
+      "Arleigh Burke-class",
+      "Type 45",
+      "Kolkata-class"
+    ],
+    "answer": "F-22P Frigates",
+    "explanation": "Pakistan Navy has F-22P Frigates that serve as its destroyers."
+  },
+  {
+    "question": "What is the biggest principle of Pakistan's defence policy?",
+    "options": [
+      "Peaceful coexistence",
+      "Offensive strategy",
+      "Diplomatic isolation",
+      "Non-alignment"
+    ],
+    "answer": "Peaceful coexistence",
+    "explanation": "The biggest principle of Pakistan's defence policy is to promote regional peace and peaceful coexistence."
+  },
+  {
+    "question": "When did Pakistan Air Force start using drone technology?",
+    "options": ["2010", "2005", "2015", "2020"],
+    "answer": "2010",
+    "explanation": "Pakistan Air Force started using drone technology around 2010."
+  },
+  {
+    "question": "What is the primary role of Punjab Rangers?",
+    "options": [
+      "Border security",
+      "Counter-terrorism",
+      "Maritime security",
+      "Air defence"
+    ],
+    "answer": "Border security",
+    "explanation": "Punjab Rangers are responsible for the security of the Punjab-India border."
+  },
+  {
+    "question": "What is the major component of Pakistan's defence exports in aerospace products?",
+    "options": [
+      "Trainer aircrafts",
+      "Commercial jets",
+      "Helicopters",
+      "Cargo planes"
+    ],
+    "answer": "Trainer aircrafts",
+    "explanation": "Trainer aircrafts make up the largest share of Pakistan's aerospace exports."
+  },
+  {
+    "question": "What is the name of Pakistan Navy's Marine Commandos unit?",
+    "options": ["SEALs", "SAS", "SIT", "Special Service Group Navy (SSGN)"],
+    "answer": "Special Service Group Navy (SSGN)",
+    "explanation": "Pakistan Navy's Marine Commandos are known as the Special Service Group Navy (SSGN)."
+  },
+  {
+    "question": "How is cyber security treated in Pakistan's defence policy?",
+    "options": [
+      "As a priority",
+      "Neglected",
+      "Secondary concern",
+      "Not mentioned"
+    ],
+    "answer": "As a priority",
+    "explanation": "Cyber security is considered an important and priority area in Pakistan's defence policy."
+  },
+  {
+    "question": "Where is the largest hub for Pakistan's military logistics?",
+    "options": ["Rawalpindi", "Karachi", "Lahore", "Quetta"],
+    "answer": "Rawalpindi",
+    "explanation": "Rawalpindi is the largest hub for military logistics in Pakistan."
+  },
+  {
+    "question": "Who is considered a regional strategic partner in Pakistan's defence policy?",
+    "options": ["China", "USA", "Russia", "Turkey"],
+    "answer": "China",
+    "explanation": "China is considered the most important regional strategic partner of Pakistan."
+  },
+  {
+    "question": "What is the largest air defence system operated by Pakistan Army?",
+    "options": ["MIM-23 Hawk", "S-300", "Iron Dome", "Patriot"],
+    "answer": "MIM-23 Hawk",
+    "explanation": "Pakistan Army operates MIM-23 Hawk as its largest air defence system."
+  },
+  {
+    "question": "What is the key focus of Pakistan's defence export policy?",
+    "options": [
+      "Self-reliance",
+      "International cooperation",
+      "Revenue generation",
+      "Diplomatic leverage"
+    ],
+    "answer": "Self-reliance",
+    "explanation": "Pakistan's defence export policy emphasizes self-reliance and developing indigenous defense capabilities."
+  },
+  {
+    "question": "How many main branches are there in Pakistan Armed Forces?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "3",
+    "explanation": "Pakistan Armed Forces consist of the Army, Navy, and Air Force."
+  },
+  {
+    "question": "Which is the largest infantry regiment of the Pakistan Army?",
+    "options": [
+      "Punjab Regiment",
+      "Baloch Regiment",
+      "Sindh Regiment",
+      "Azad Kashmir Regiment"
+    ],
+    "answer": "Punjab Regiment",
+    "explanation": "Punjab Regiment is the largest infantry regiment in the Pakistan Army."
+  },
+  {
+    "question": "What is the primary mission of Pakistan Navy’s submarines?",
+    "options": [
+      "Surface warfare",
+      "Underwater surveillance",
+      "Strategic deterrence",
+      "Air defense"
+    ],
+    "answer": "Strategic deterrence",
+    "explanation": "Submarines are used mainly for strategic deterrence in Pakistan Navy."
+  },
+  {
+    "question": "What is the most advanced fighter jet in Pakistan Air Force?",
+    "options": ["F-16", "JF-17 Thunder", "Mirage III", "Chengdu J-10"],
+    "answer": "JF-17 Thunder",
+    "explanation": "JF-17 Thunder is a modern fighter jointly developed by Pakistan and China."
+  },
+  {
+    "question": "Where is Pakistan’s largest defense industry complex located?",
+    "options": ["Taxila", "Kahuta", "Sialkot", "Gujranwala"],
+    "answer": "Taxila",
+    "explanation": "Taxila hosts Pakistan’s largest defense industry complex."
+  },
+  {
+    "question": "What is the name of Pakistan’s military intelligence agency?",
+    "options": ["ISI", "MI", "CIA", "RAW"],
+    "answer": "ISI",
+    "explanation": "ISI (Inter-Services Intelligence) is Pakistan’s premier military intelligence agency."
+  },
+  {
+    "question": "Where is the largest Pakistan Army cantonment located in Punjab?",
+    "options": ["Rawalpindi", "Lahore", "Faisalabad", "Multan"],
+    "answer": "Rawalpindi",
+    "explanation": "Rawalpindi is the largest and most important Pakistan Army cantonment."
+  },
+  {
+    "question": "What is the name of Pakistan’s nuclear strategy?",
+    "options": [
+      "Minimum credible deterrence",
+      "Full deterrence",
+      "Mutual destruction",
+      "First strike"
+    ],
+    "answer": "Minimum credible deterrence",
+    "explanation": "Pakistan maintains a minimum credible deterrence policy to prevent war escalation."
+  },
+  {
+    "question": "What constitutes the largest portion of Pakistan’s defense exports?",
+    "options": ["Small arms", "Armored vehicles", "Aircraft", "Naval vessels"],
+    "answer": "Small arms",
+    "explanation": "Small arms make up the biggest share of Pakistan’s defense exports."
+  },
+  {
+    "question": "What is the primary training center of the Pakistan Army called?",
+    "options": ["Mangla", "Cherat", "Quetta", "Kakul"],
+    "answer": "Cherat",
+    "explanation": "Cherat is the main infantry training center of the Pakistan Army."
+  },
+  {
+    "question": "What type of aircraft does Pakistan Navy mostly operate?",
+    "options": [
+      "Fighter jets",
+      "Maritime patrol aircraft",
+      "Bombers",
+      "Transport planes"
+    ],
+    "answer": "Maritime patrol aircraft",
+    "explanation": "Pakistan Navy’s aircraft mainly conduct maritime surveillance."
+  },
+  {
+    "question": "When is Pakistan Defense Day observed?",
+    "options": ["6th September", "14th August", "23rd March", "10th October"],
+    "answer": "6th September",
+    "explanation": "Defense Day commemorates the 1965 war and is observed on 6th September."
+  },
+  {
+    "question": "Where is Pakistan Air Force’s largest airbase located?",
+    "options": ["Sargodha", "Kamra", "Jacobabad", "Masroor"],
+    "answer": "Sargodha",
+    "explanation": "Sargodha hosts the largest airbase of the Pakistan Air Force."
+  },
+  {
+    "question": "What is the name of Pakistan’s largest missile system?",
+    "options": ["Ghauri", "Shaheen", "Babur", "Nasr"],
+    "answer": "Shaheen",
+    "explanation": "Shaheen is Pakistan’s long-range ballistic missile."
+  },
+  {
+    "question": "What is the primary role of Pakistan Army’s armored corps?",
+    "options": [
+      "Infantry support",
+      "Tank warfare",
+      "Artillery support",
+      "Air defense"
+    ],
+    "answer": "Tank warfare",
+    "explanation": "The armored corps specializes in tank-based warfare."
+  },
+  {
+    "question": "Pakistan Navy’s submarines are developed with the assistance of which country?",
+    "options": ["China", "USA", "Russia", "France"],
+    "answer": "China",
+    "explanation": "Pakistan’s submarines were developed with Chinese assistance."
+  },
+  {
+    "question": "In which defense sector does Pakistan invest the most?",
+    "options": ["Army", "Navy", "Air Force", "Cybersecurity"],
+    "answer": "Army",
+    "explanation": "The majority of Pakistan’s defense budget goes to the Army."
+  },
+  {
+    "question": "Which organization controls Pakistan’s nuclear command and control?",
+    "options": [
+      "Strategic Plans Division",
+      "Military Command",
+      "Navy Command",
+      "Defense Control Board"
+    ],
+    "answer": "Strategic Plans Division",
+    "explanation": "The Strategic Plans Division manages Pakistan’s nuclear arsenal."
+  },
+  {
+    "question": "Where is Pakistan’s largest military academy located?",
+    "options": [
+      "Pakistan Military Academy",
+      "Defence Services Academy",
+      "National Defence College",
+      "Military Training College"
+    ],
+    "answer": "Pakistan Military Academy",
+    "explanation": "PMA trains Pakistan Army officers."
+  },
+  {
+    "question": "Which country is the largest market for Pakistan’s defense exports?",
+    "options": ["Turkey", "Saudi Arabia", "Indonesia", "UAE"],
+    "answer": "Saudi Arabia",
+    "explanation": "Saudi Arabia is the biggest buyer of Pakistan’s defense products."
+  },
+  {
+    "question": "Which special police force in Punjab is known as the 'Elite Force'?",
+    "options": ["Punjab", "Sindh", "Khyber Pakhtunkhwa", "Balochistan"],
+    "answer": "Punjab",
+    "explanation": "The Elite Force is a special unit of Punjab Police."
+  },
+  {
+    "question": "Where is the headquarters of Pakistan Ordnance Factories (POF) located?",
+    "options": ["Wah Cantt", "Sialkot", "Karachi", "Lahore"],
+    "answer": "Wah Cantt",
+    "explanation": "Wah Cantt houses the headquarters of POF."
+  },
+  {
+    "question": "Which missile is Pakistan’s short-range ballistic missile?",
+    "options": ["Nasr", "Shaheen", "Ghauri", "Babur"],
+    "answer": "Nasr",
+    "explanation": "Nasr is a short-range ballistic missile."
+  },
+  {
+    "question": "Which company manufactures tanks and armored vehicles in Pakistan?",
+    "options": [
+      "Heavy Industries Taxila",
+      "Pakistan Ordnance Factories",
+      "NESCOM",
+      "Pakistan Aeronautical Complex"
+    ],
+    "answer": "Heavy Industries Taxila",
+    "explanation": "Heavy Industries Taxila produces tanks and armored vehicles."
+  },
+  {
+    "question": "Which drone is locally produced in Pakistan?",
+    "options": ["Shahpar", "Reaper", "Predator", "Global Hawk"],
+    "answer": "Shahpar",
+    "explanation": "Shahpar is Pakistan’s first indigenous drone."
+  },
+  {
+    "question": "What is the official name of Pakistan Navy’s special forces ‘SEALs’?",
+    "options": [
+      "Special Service Group Navy (SSGN)",
+      "Elite Force",
+      "Rapid Response Force",
+      "Special Protection Unit"
+    ],
+    "answer": "Special Service Group Navy (SSGN)",
+    "explanation": "SEALs are officially called SSGN."
+  },
+  {
+    "question": "What is Pakistan Army’s largest air defense system?",
+    "options": ["MIM-23 Hawk", "S-300", "Iron Dome", "Patriot"],
+    "answer": "MIM-23 Hawk",
+    "explanation": "MIM-23 Hawk is the main air defense system."
+  },
+  {
+    "question": "What is the main goal of Pakistan’s defense export policy?",
+    "options": [
+      "Self-reliance",
+      "International cooperation",
+      "Increase revenue",
+      "Diplomatic gains"
+    ],
+    "answer": "Self-reliance",
+    "explanation": "Pakistan’s defense export policy aims to promote self-reliance."
+  },
+  {
+    "question": "Which organization oversees Pakistan’s nuclear weapons?",
+    "options": [
+      "Strategic Plans Division",
+      "Pakistan Army",
+      "Pakistan Navy",
+      "Pakistan Air Force"
+    ],
+    "answer": "Strategic Plans Division",
+    "explanation": "The Strategic Plans Division supervises nuclear weapons."
+  },
+  {
+    "question": "Which is Pakistan Army’s elite infantry training center?",
+    "options": ["Cherat", "Mangla", "Kakul", "Quetta"],
+    "answer": "Cherat",
+    "explanation": "Cherat is the infantry’s elite training center."
+  }
+]

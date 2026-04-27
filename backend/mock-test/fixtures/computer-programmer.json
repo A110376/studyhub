@@ -1,0 +1,39 @@
+{
+  "slug": "computer-programmer",
+  "title": "Computer Programmer Mock Test",
+  "duration_minutes": 90,
+  "marks_per_correct": 1,
+  "negative_mark_per_wrong": 0.25,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Which language is primarily used for web development?",
+      "options": ["Python", "JavaScript", "C++", "Java"],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": "Which data structure uses LIFO (Last In First Out)?",
+      "options": ["Queue", "Stack", "Array", "Linked List"],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "question": "What does SQL stand for?",
+      "options": ["Structured Query Language", "Simple Query Logic", "Standard Question List", "Server Query Language"],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": "Which of the following is a Python web framework?",
+      "options": ["Django", "React", "Angular", "Spring"],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": "Which operator is used for assignment in most programming languages?",
+      "options": ["==", "=", "++", "+="],
+      "correct": 1
+    }
+  ]
+}

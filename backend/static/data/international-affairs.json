@@ -1,0 +1,524 @@
+[
+  {
+    "question": "Which country hosted the G20 Summit in 2023?",
+    "options": ["India", "Brazil", "Indonesia", "Saudi Arabia"],
+    "answer": "India",
+    "explanation": "India hosted the 2023 G20 Summit, focusing on global economic recovery and sustainable development."
+  },
+  {
+    "question": "In 2022, which country signed a historic peace agreement ending decades of conflict?",
+    "options": ["Ethiopia", "Colombia", "Afghanistan", "Myanmar"],
+    "answer": "Ethiopia",
+    "explanation": "Ethiopia signed a peace agreement in 2022 to end the Tigray conflict after years of civil war."
+  },
+  {
+    "question": "Who was elected as the Secretary-General of the United Nations in 2021?",
+    "options": ["Antonio Guterres", "Ban Ki-moon", "Kofi Annan", "No new appointment"],
+    "answer": "No new appointment",
+    "explanation": "Antonio Guterres continued as UN Secretary-General since 2017 and remained in position through 2021."
+  },
+  {
+    "question": "Which two countries signed a landmark peace deal called the Abraham Accords in 2020?",
+    "options": ["Israel and UAE", "Israel and Saudi Arabia", "Israel and Qatar", "Israel and Egypt"],
+    "answer": "Israel and UAE",
+    "explanation": "The Abraham Accords, signed in 2020, normalized relations between Israel and the UAE."
+  },
+  {
+    "question": "In 2021, which country rejoined the Paris Climate Agreement after withdrawing earlier?",
+    "options": ["United States", "Brazil", "China", "Russia"],
+    "answer": "United States",
+    "explanation": "The US rejoined the Paris Agreement in 2021 under President Joe Biden."
+  },
+  {
+    "question": "Which country became the first to land a rover on Mars in 2021?",
+    "options": ["United States", "China", "India", "Russia"],
+    "answer": "China",
+    "explanation": "China's Tianwen-1 mission successfully landed a rover on Mars in May 2021."
+  },
+  {
+    "question": "The United Kingdom formally left the European Union in which year?",
+    "options": ["2019", "2020", "2021", "2018"],
+    "answer": "2020",
+    "explanation": "The UK officially exited the EU on January 31, 2020, marking Brexit."
+  },
+  {
+    "question": "In 2022, which country hosted the Winter Olympics?",
+    "options": ["China", "Japan", "South Korea", "Russia"],
+    "answer": "China",
+    "explanation": "Beijing, China, hosted the 2022 Winter Olympics."
+  },
+  {
+    "question": "Which country took over the rotating presidency of the United Nations Security Council in January 2023?",
+    "options": ["Pakistan", "Brazil", "France", "Japan"],
+    "answer": "Pakistan",
+    "explanation": "Pakistan held the UNSC presidency in January 2023, leading key discussions."
+  },
+  {
+    "question": "Which country became the first to approve a COVID-19 vaccine in 2020?",
+    "options": ["United Kingdom", "United States", "China", "Russia"],
+    "answer": "United Kingdom",
+    "explanation": "The UK was the first country to approve the Pfizer-BioNTech COVID-19 vaccine in December 2020."
+  },
+  {
+    "question": "Which major power withdrew troops from Afghanistan in 2021?",
+    "options": ["United States", "Russia", "China", "NATO"],
+    "answer": "United States",
+    "explanation": "The US completed its troop withdrawal from Afghanistan in August 2021, ending its 20-year military presence."
+  },
+  {
+    "question": "The AUKUS security pact signed in 2021 includes which countries?",
+    "options": ["Australia, UK, USA", "Australia, Canada, UK", "USA, Canada, UK", "USA, UK, New Zealand"],
+    "answer": "Australia, UK, USA",
+    "explanation": "AUKUS is a trilateral pact between Australia, the United Kingdom, and the United States focused on Indo-Pacific security."
+  },
+  {
+    "question": "Who became the President of France in 2022?",
+    "options": ["Emmanuel Macron", "Marine Le Pen", "François Hollande", "Nicolas Sarkozy"],
+    "answer": "Emmanuel Macron",
+    "explanation": "Emmanuel Macron was re-elected President of France in 2022."
+  },
+  {
+    "question": "Which Middle Eastern country experienced a major political crisis in 2020 with the assassination of its top general?",
+    "options": ["Iran", "Iraq", "Syria", "Lebanon"],
+    "answer": "Iraq",
+    "explanation": "Iran's General Qassem Soleimani was killed in a US drone strike in Baghdad, Iraq, in January 2020."
+  },
+  {
+    "question": "Which two countries signed a historic agreement to normalize relations in 2020 besides Israel and UAE?",
+    "options": ["Israel and Bahrain", "Israel and Saudi Arabia", "Israel and Oman", "Israel and Qatar"],
+    "answer": "Israel and Bahrain",
+    "explanation": "Israel and Bahrain signed a normalization agreement in 2020 under the Abraham Accords."
+  },
+  {
+    "question": "The Global Climate Summit COP26 was held in which city in 2021?",
+    "options": ["Glasgow", "Paris", "New York", "Madrid"],
+    "answer": "Glasgow",
+    "explanation": "COP26 was held in Glasgow, Scotland, in 2021, focusing on climate action commitments."
+  },
+  {
+    "question": "In 2021, which Asian country became the largest recipient of COVID-19 vaccines through COVAX?",
+    "options": ["India", "Indonesia", "Pakistan", "Bangladesh"],
+    "answer": "Pakistan",
+    "explanation": "Pakistan received a large number of COVID-19 vaccines through COVAX to support its immunization program."
+  },
+  {
+    "question": "Who was the US President during the withdrawal of US troops from Afghanistan in 2021?",
+    "options": ["Donald Trump", "Joe Biden", "Barack Obama", "George W. Bush"],
+    "answer": "Joe Biden",
+    "explanation": "President Joe Biden ordered the final withdrawal of US troops from Afghanistan in 2021."
+  },
+  {
+    "question": "Which international organization launched the 'Digital Economy Report 2021'?",
+    "options": ["United Nations", "World Bank", "International Monetary Fund", "UNCTAD"],
+    "answer": "UNCTAD",
+    "explanation": "The United Nations Conference on Trade and Development (UNCTAD) published the Digital Economy Report 2021."
+  },
+  {
+    "question": "Which country became the newest member of the United Nations in 2020?",
+    "options": ["South Sudan", "Kosovo", "Palestine", "None"],
+    "answer": "None",
+    "explanation": "No new country joined the UN in 2020; South Sudan is the newest member since 2011."
+  },
+  {
+    "question": "In 2023, which country’s space agency launched a mission to explore Venus?",
+    "options": ["NASA (USA)", "ESA (Europe)", "ISRO (India)", "Roscosmos (Russia)"],
+    "answer": "NASA (USA)",
+    "explanation": "NASA launched the DAVINCI+ mission in 2023 to study Venus' atmosphere."
+  },
+  {
+    "question": "What is the name of the trade agreement signed by 15 Asia-Pacific countries in 2020?",
+    "options": ["RCEP", "CPTPP", "NAFTA", "ASEAN"],
+    "answer": "RCEP",
+    "explanation": "The Regional Comprehensive Economic Partnership (RCEP) was signed by 15 Asia-Pacific countries in 2020."
+  },
+  {
+    "question": "Which country withdrew from the Open Skies Treaty in 2020?",
+    "options": ["Russia", "United States", "China", "France"],
+    "answer": "United States",
+    "explanation": "The US withdrew from the Open Skies Treaty in 2020 citing Russian non-compliance."
+  },
+  {
+    "question": "Which country faced a military coup in February 2021?",
+    "options": ["Myanmar", "Thailand", "Bangladesh", "Sri Lanka"],
+    "answer": "Myanmar",
+    "explanation": "Myanmar's military staged a coup in February 2021, ousting the elected government."
+  },
+  {
+    "question": "Which international body declared COVID-19 a global pandemic in March 2020?",
+    "options": ["World Health Organization", "United Nations", "CDC", "IMF"],
+    "answer": "World Health Organization",
+    "explanation": "WHO declared COVID-19 a global pandemic on March 11, 2020."
+  },
+  {
+    "question": "Which country hosted the 2021 United Nations Climate Change Conference (COP26)?",
+    "options": ["UK", "USA", "France", "Italy"],
+    "answer": "UK",
+    "explanation": "The UK hosted COP26 in Glasgow in 2021."
+  },
+  {
+    "question": "Which international alliance launched a new military strategy in 2022 focusing on China and Russia?",
+    "options": ["NATO", "ASEAN", "OPEC", "G7"],
+    "answer": "NATO",
+    "explanation": "NATO updated its strategic concept in 2022 focusing on threats from China and Russia."
+  },
+  {
+    "question": "The US and China held a virtual summit to ease tensions in which year?",
+    "options": ["2021", "2020", "2022", "2019"],
+    "answer": "2021",
+    "explanation": "In 2021, Presidents Biden and Xi held a virtual summit to discuss bilateral relations."
+  },
+  {
+    "question": "Which Middle Eastern country was removed from the US list of state sponsors of terrorism in 2021?",
+    "options": ["Sudan", "Iran", "Syria", "North Korea"],
+    "answer": "Sudan",
+    "explanation": "Sudan was removed from the US list in 2021 as part of peace normalization efforts."
+  },
+  {
+    "question": "Which country became the first in the world to approve a malaria vaccine in 2021?",
+    "options": ["Ghana", "Nigeria", "Kenya", "Uganda"],
+    "answer": "Ghana",
+    "explanation": "Ghana became the first to approve and roll out the malaria vaccine in 2021."
+  },
+  {
+    "question": "Which country experienced a massive explosion in Beirut in 2020?",
+    "options": ["Lebanon", "Syria", "Jordan", "Israel"],
+    "answer": "Lebanon",
+    "explanation": "A devastating explosion in Beirut's port occurred in August 2020."
+  },
+  {
+    "question": "Which country led the initiative to provide COVID-19 vaccines to developing countries through COVAX?",
+    "options": ["United States", "India", "China", "Russia"],
+    "answer": "India",
+    "explanation": "India was a major supplier of vaccines through COVAX to many countries."
+  },
+  {
+    "question": "In 2023, which country was elected as a non-permanent member of the UN Security Council?",
+    "options": ["Pakistan", "Bangladesh", "Nepal", "Sri Lanka"],
+    "answer": "Pakistan",
+    "explanation": "Pakistan was elected as a non-permanent member of UNSC in 2023."
+  },
+  {
+    "question": "Which country signed a free trade agreement with the UK in 2021 after Brexit?",
+    "options": ["India", "Australia", "Canada", "Japan"],
+    "answer": "India",
+    "explanation": "India and UK signed a trade agreement post-Brexit in 2021."
+  },
+  {
+    "question": "Which country completed the first successful human spaceflight mission in 2021?",
+    "options": ["China", "USA", "Russia", "India"],
+    "answer": "China",
+    "explanation": "China's Shenzhou-12 mission marked a successful human spaceflight in 2021."
+  },
+  {
+    "question": "Which country became the first to declare a climate emergency in 2020?",
+    "options": ["New Zealand", "United Kingdom", "Canada", "France"],
+    "answer": "New Zealand",
+    "explanation": "New Zealand declared a climate emergency in 2020 to prioritize climate policies."
+  },
+  {
+    "question": "Which country resumed diplomatic relations with Israel in 2021?",
+    "options": ["Morocco", "Tunisia", "Egypt", "Jordan"],
+    "answer": "Morocco",
+    "explanation": "Morocco restored diplomatic ties with Israel in 2021 following the Abraham Accords."
+  },
+  {
+    "question": "Which country hosted the COP27 climate summit in 2022?",
+    "options": ["Egypt", "Morocco", "South Africa", "Kenya"],
+    "answer": "Egypt",
+    "explanation": "Egypt hosted COP27 in Sharm El Sheikh in 2022."
+  },
+  {
+    "question": "Which country launched the world’s first fully electric passenger aircraft prototype in 2021?",
+    "options": ["United Kingdom", "United States", "Germany", "France"],
+    "answer": "United Kingdom",
+    "explanation": "The UK developed and launched the first all-electric passenger aircraft prototype."
+  },
+  {
+    "question": "Which country took over the presidency of the BRICS group in 2023?",
+    "options": ["India", "China", "Russia", "Brazil"],
+    "answer": "India",
+    "explanation": "India assumed BRICS presidency in 2023, focusing on economic cooperation."
+  },
+  {
+    "question": "Which country held the chairmanship of the Organization of Islamic Cooperation (OIC) in 2024?",
+    "options": ["Saudi Arabia", "Pakistan", "Turkey", "Qatar"],
+    "answer": "Saudi Arabia",
+    "explanation": "Saudi Arabia chaired the OIC in 2024, steering various Islamic world agendas."
+  },
+  {
+    "question": "Which country declared a state of emergency due to a COVID-19 surge in early 2021?",
+    "options": ["India", "Brazil", "United States", "Russia"],
+    "answer": "India",
+    "explanation": "India faced a severe COVID-19 wave in 2021 and declared emergency measures."
+  },
+  {
+    "question": "Which country hosted the COP28 climate conference in 2023?",
+    "options": ["United Arab Emirates", "Qatar", "Kuwait", "Oman"],
+    "answer": "United Arab Emirates",
+    "explanation": "COP28 was held in Dubai, UAE, focusing on climate action progress."
+  },
+  {
+    "question": "Which country was the first to approve the Pfizer COVID-19 vaccine for children in 2021?",
+    "options": ["United States", "United Kingdom", "Canada", "Germany"],
+    "answer": "United States",
+    "explanation": "The US FDA approved Pfizer vaccine for children aged 12 and above in 2021."
+  },
+  {
+    "question": "Which country successfully landed the first rover on the moon’s far side in 2019 but continued lunar missions through 2025?",
+    "options": ["China", "Russia", "USA", "India"],
+    "answer": "China",
+    "explanation": "China’s Chang’e 4 mission landed on the moon’s far side and continued lunar exploration."
+  },
+  {
+    "question": "In 2020, which international agreement aimed to protect 30% of Earth's land and oceans by 2030?",
+    "options": ["30x30 Initiative", "Paris Agreement", "Kyoto Protocol", "Green Deal"],
+    "answer": "30x30 Initiative",
+    "explanation": "The 30x30 Initiative aims to conserve 30% of global land and marine areas by 2030."
+  },
+  {
+    "question": "Which country hosted the G20 Summit in 2022?",
+    "options": ["Indonesia", "India", "Italy", "Brazil"],
+    "answer": "Indonesia",
+    "explanation": "Indonesia hosted the G20 Summit in Bali in 2022."
+  },
+  {
+    "question": "Who became the first female Prime Minister of Finland in 2019?",
+    "options": ["Sanna Marin", "Angela Merkel", "Jacinda Ardern", "Erna Solberg"],
+    "answer": "Sanna Marin",
+    "explanation": "Sanna Marin became Finland’s Prime Minister in 2019 at age 34."
+  },
+  {
+    "question": "Which country launched the world's first nuclear-powered cargo ship in 2023?",
+    "options": ["Russia", "China", "Japan", "South Korea"],
+    "answer": "Russia",
+    "explanation": "Russia launched the nuclear-powered cargo ship 'Sevmorput' in 2023."
+  },
+  {
+    "question": "What major reform did the United Nations make in 2021 regarding its Security Council?",
+    "options": ["Added new permanent members", "Expanded veto powers", "No reform made", "Changed voting procedures"],
+    "answer": "No reform made",
+    "explanation": "There was no major reform of the UN Security Council in 2021 despite ongoing debates."
+  },
+  {
+    "question": "Which country became the first to eliminate trachoma as a public health problem in 2021?",
+    "options": ["Nepal", "Ghana", "Ethiopia", "Bangladesh"],
+    "answer": "Nepal",
+    "explanation": "Nepal was certified by WHO for eliminating trachoma in 2021."
+  },
+  {
+    "question": "Which country won the Eurovision Song Contest in 2022?",
+    "options": ["Ukraine", "Italy", "France", "Sweden"],
+    "answer": "Ukraine",
+    "explanation": "Ukraine won Eurovision 2022 with the song 'Stefania'."
+  },
+  {
+    "question": "Which African country launched the first COVID-19 vaccine production plant in 2021?",
+    "options": ["South Africa", "Nigeria", "Kenya", "Egypt"],
+    "answer": "South Africa",
+    "explanation": "South Africa set up vaccine manufacturing facilities to combat COVID-19."
+  },
+  {
+    "question": "Who was appointed the Secretary-General of the United Nations in 2021?",
+    "options": ["António Guterres", "Ban Ki-moon", "Kofi Annan", "Boutros Boutros-Ghali"],
+    "answer": "António Guterres",
+    "explanation": "António Guterres began his second term as UN Secretary-General in 2022."
+  },
+  {
+    "question": "Which country held the presidency of the European Union Council in the second half of 2022?",
+    "options": ["Czech Republic", "France", "Germany", "Portugal"],
+    "answer": "Czech Republic",
+    "explanation": "The Czech Republic held the EU Council presidency from July to December 2022."
+  },
+  {
+    "question": "Which country won the 2023 ICC Cricket World Cup?",
+    "options": ["India", "Australia", "England", "New Zealand"],
+    "answer": "England",
+    "explanation": "England won the 2023 ICC Cricket World Cup."
+  },
+  {
+    "question": "What significant climate event took place at COP26 in 2021?",
+    "options": ["Agreement to phase out coal", "Introduction of carbon tax", "Ban on plastic", "New emission targets by USA and China"],
+    "answer": "New emission targets by USA and China",
+    "explanation": "USA and China announced new joint climate efforts during COP26."
+  },
+  {
+    "question": "Who became the first woman to win the Nobel Prize in Physics in 2023?",
+    "options": ["Donna Strickland", "Andrea Ghez", "Claire F. Gmachl", "Anne L’Huillier"],
+    "answer": "Anne L’Huillier",
+    "explanation": "Anne L’Huillier won the 2023 Nobel Prize for her research in laser physics."
+  },
+  {
+    "question": "Which country became the first to achieve net zero carbon emissions in 2023?",
+    "options": ["Bhutan", "Costa Rica", "Iceland", "Denmark"],
+    "answer": "Bhutan",
+    "explanation": "Bhutan announced it had achieved net zero carbon emissions in 2023."
+  },
+  {
+    "question": "Which Asian country passed a law banning single-use plastic bags in 2022?",
+    "options": ["India", "Thailand", "Vietnam", "Malaysia"],
+    "answer": "India",
+    "explanation": "India passed laws to phase out single-use plastic bags in 2022."
+  },
+  {
+    "question": "Which country hosted the 2023 World Athletics Championships?",
+    "options": ["USA", "Hungary", "China", "Qatar"],
+    "answer": "Hungary",
+    "explanation": "Hungary hosted the 2023 World Athletics Championships in Budapest."
+  },
+  {
+    "question": "Which country became the first in the world to vaccinate over 90% of its population against COVID-19?",
+    "options": ["Portugal", "Singapore", "Israel", "United Arab Emirates"],
+    "answer": "Portugal",
+    "explanation": "Portugal achieved over 90% COVID-19 vaccination coverage in 2022."
+  },
+  {
+    "question": "Which technology company announced a breakthrough in quantum computing in 2023?",
+    "options": ["Google", "IBM", "Microsoft", "Intel"],
+    "answer": "Google",
+    "explanation": "Google announced advances in quantum supremacy in 2023."
+  },
+  {
+    "question": "Which country led the formation of the Asian Infrastructure Investment Bank (AIIB)?",
+    "options": ["China", "India", "Japan", "South Korea"],
+    "answer": "China",
+    "explanation": "China led the formation of AIIB to fund infrastructure across Asia."
+  },
+  {
+    "question": "Which country hosted the 2024 UEFA European Football Championship?",
+    "options": ["Germany", "France", "England", "Spain"],
+    "answer": "Germany",
+    "explanation": "Germany is set to host UEFA Euro 2024."
+  },
+  {
+    "question": "Which country’s stock market became the largest in Africa by market capitalization in 2022?",
+    "options": ["South Africa", "Nigeria", "Egypt", "Kenya"],
+    "answer": "Nigeria",
+    "explanation": "Nigeria's stock market overtook South Africa in market capitalization in 2022."
+  },
+  {
+    "question": "Which country successfully landed the first spacecraft on the far side of the Moon?",
+    "options": ["China", "USA", "Russia", "India"],
+    "answer": "China",
+    "explanation": "China’s Chang’e 4 mission landed on the Moon’s far side in 2019."
+  },
+  {
+    "question": "Which country was the largest emitter of CO2 emissions in 2022?",
+    "options": ["China", "USA", "India", "Russia"],
+    "answer": "China",
+    "explanation": "China remained the largest global emitter of CO2 in 2022."
+  },
+  {
+    "question": "Which country legalized euthanasia nationwide in 2023?",
+    "options": ["Canada", "New Zealand", "Netherlands", "Spain"],
+    "answer": "Spain",
+    "explanation": "Spain legalized euthanasia nationwide in 2023."
+  },
+  {
+    "question": "Who won the 2023 Booker Prize for literature?",
+    "options": ["Shehan Karunatilaka", "Bernardine Evaristo", "Margaret Atwood", "Kazuo Ishiguro"],
+    "answer": "Shehan Karunatilaka",
+    "explanation": "Shehan Karunatilaka won the 2023 Booker Prize for 'The Seven Moons of Maali Almeida.'"
+  },
+  {
+    "question": "Which country successfully tested a hypersonic missile in 2022?",
+    "options": ["Russia", "China", "USA", "North Korea"],
+    "answer": "Russia",
+    "explanation": "Russia tested a new hypersonic missile called Zircon in 2022."
+  },
+  {
+    "question": "Which country hosted the 2022 Commonwealth Games?",
+    "options": ["England", "Australia", "India", "New Zealand"],
+    "answer": "England",
+    "explanation": "Birmingham, England, hosted the 2022 Commonwealth Games."
+  },
+  {
+    "question": "Which country’s parliament approved a law to legalize recreational cannabis in 2023?",
+    "options": ["Mexico", "Canada", "Germany", "Luxembourg"],
+    "answer": "Germany",
+    "explanation": "Germany moved to legalize recreational cannabis in 2023."
+  },
+  {
+    "question": "Which country launched the first all-electric commercial aircraft flight in 2023?",
+    "options": ["Switzerland", "USA", "Norway", "Canada"],
+    "answer": "Switzerland",
+    "explanation": "Switzerland launched the first all-electric commercial aircraft flight."
+  },
+  {
+    "question": "Who became the youngest person to win a Nobel Prize in 2023?",
+    "options": ["Alessandro Volta", "Malala Yousafzai", "Kailash Satyarthi", "Oliver Hart"],
+    "answer": "Oliver Hart",
+    "explanation": "Oliver Hart won a Nobel Prize in Economics in 2023 at a relatively young age."
+  },
+  {
+    "question": "Which country launched the Artemis II mission, the first crewed mission of NASA’s Artemis program?",
+    "options": ["United States", "Russia", "China", "India"],
+    "answer": "United States",
+    "explanation": "Artemis II, NASA’s first crewed lunar mission, is planned by the US."
+  },
+  {
+    "question": "Which country introduced a digital currency called the 'Digital Yuan'?",
+    "options": ["China", "South Korea", "Japan", "Singapore"],
+    "answer": "China",
+    "explanation": "China launched trials of the Digital Yuan as a state-backed digital currency."
+  },
+  {
+    "question": "Which country hosted the 2022 FIFA Women’s World Cup?",
+    "options": ["Australia and New Zealand", "USA", "France", "Germany"],
+    "answer": "Australia and New Zealand",
+    "explanation": "Australia and New Zealand co-hosted the 2023 FIFA Women’s World Cup."
+  },
+  {
+    "question": "Which country led the global initiative to phase out hydrofluorocarbons (HFCs) by 2030?",
+    "options": ["United States", "European Union", "India", "China"],
+    "answer": "United States",
+    "explanation": "The US led the Kigali Amendment to phase out HFCs."
+  },
+  {
+    "question": "Which country implemented the first national AI strategy in 2020?",
+    "options": ["China", "United Kingdom", "Canada", "France"],
+    "answer": "China",
+    "explanation": "China was first to implement a comprehensive national AI development plan."
+  },
+  {
+    "question": "Which country experienced the worst locust invasion in 2020 in decades?",
+    "options": ["Kenya", "Somalia", "Ethiopia", "India"],
+    "answer": "Kenya",
+    "explanation": "Kenya faced a severe locust invasion threatening agriculture in 2020."
+  },
+  {
+    "question": "Which country became the first to approve lab-grown meat for commercial sale in 2023?",
+    "options": ["Singapore", "USA", "Japan", "Israel"],
+    "answer": "Singapore",
+    "explanation": "Singapore approved lab-grown meat products for sale, a world first."
+  },
+  {
+    "question": "Which country successfully tested the world's largest solar power plant in 2022?",
+    "options": ["India", "China", "USA", "Australia"],
+    "answer": "India",
+    "explanation": "India inaugurated the world’s largest solar power plant in Rajasthan."
+  },
+  {
+    "question": "Which country became the first to use blockchain technology for national elections?",
+    "options": ["Estonia", "Switzerland", "USA", "South Korea"],
+    "answer": "Estonia",
+    "explanation": "Estonia has used blockchain technology in its election systems since 2019."
+  },
+  {
+    "question": "Which country signed the Abraham Accords normalization agreement with Israel in 2020?",
+    "options": ["United Arab Emirates", "Saudi Arabia", "Qatar", "Bahrain"],
+    "answer": "United Arab Emirates",
+    "explanation": "UAE normalized diplomatic relations with Israel through the Abraham Accords."
+  },
+  {
+    "question": "Which country’s space agency launched the Chandrayaan-3 lunar mission in 2023?",
+    "options": ["India", "China", "Russia", "Japan"],
+    "answer": "India",
+    "explanation": "ISRO launched Chandrayaan-3 to explore the Moon in 2023."
+  },
+  {
+    "question": "Which country passed legislation to become carbon neutral by 2050 in 2020?",
+    "options": ["Japan", "France", "South Korea", "Germany"],
+    "answer": "South Korea",
+    "explanation": "South Korea passed a Green New Deal targeting carbon neutrality by 2050."
+  }
+]

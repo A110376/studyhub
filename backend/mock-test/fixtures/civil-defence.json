@@ -1,0 +1,39 @@
+{
+  "slug": "civil-defence",
+  "title": "Civil Defence Mock Test",
+  "duration_minutes": 90,
+  "marks_per_correct": 1,
+  "negative_mark_per_wrong": 0.25,
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the main purpose of civil defence?",
+      "options": ["Military training", "Protect civilians in emergencies", "Law enforcement", "Political campaigns"],
+      "correct": 1
+    },
+    {
+      "id": 2,
+      "question": "Which type of disaster requires immediate evacuation plans?",
+      "options": ["Flood", "Computer malfunction", "Traffic jam", "Election day"],
+      "correct": 0
+    },
+    {
+      "id": 3,
+      "question": "Fire safety protocols are part of:",
+      "options": ["Civil defence", "Banking regulations", "Road construction", "Agriculture policies"],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": "Which equipment is essential for first responders in civil defence?",
+      "options": ["Helmet and gloves", "Laptop", "Printer", "Camera"],
+      "correct": 0
+    },
+    {
+      "id": 5,
+      "question": "Civil defence volunteers primarily work under which authority?",
+      "options": ["Local government", "Private company", "International NGO", "Political party"],
+      "correct": 0
+    }
+  ]
+}

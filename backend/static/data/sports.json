@@ -1,0 +1,641 @@
+[
+  {
+    "question": "Which team won the 2025 Pakistan Super League title?",
+    "options": ["Islamabad United", "Multan Sultans", "Lahore Qalandars", "Quetta Gladiators"],
+    "answer": "Lahore Qalandars",
+    "explanation": "Lahore Qalandars won the final by 6 wickets against Quetta Gladiators on 25 May 2025." 
+  },
+  {
+    "question": "Who was Player of the Tournament in PSL X (2025)?",
+    "options": ["Shaheen Afridi", "Sahibzada Farhan", "Hassan Nawaz", "Fakhar Zaman"],
+    "answer": "Hassan Nawaz",
+    "explanation": "Hassan Nawaz (Quetta Gladiators) was Player of the Tournament and Batsman of the Tournament." 
+  },
+  {
+    "question": "Who took the most wickets in PSL 2025?",
+    "options": ["Shaheen Afridi", "Abrar Ahmed", "Hasan Ali", "Faheem Ashraf"],
+    "answer": "Shaheen Afridi",
+    "explanation": "Shaheen Afridi (Lahore Qalandars) took 19 wickets, the highest in PSL‑10." 
+  },
+  {
+    "question": "Which player scored the most runs in PSL 2025?",
+    "options": ["Fakhar Zaman", "Sahibzada Farhan", "Abdullah Shafique", "James Vince"],
+    "answer": "Sahibzada Farhan",
+    "explanation": "Sahibzada Farhan (Islamabad United) scored 449 runs, the most in PSL‑10." 
+  },
+  {
+    "question": "Where was the opening ceremony of PSL X (2025) held?",
+    "options": ["Karachi", "Lahore", "Islamabad", "Rawalpindi"],
+    "answer": "Rawalpindi",
+    "explanation": "The opening ceremony on 11 April 2025 was held at Rawalpindi Cricket Stadium." 
+  },
+  {
+    "question": "Who composed the PSL X anthem “X Dekho”?",
+    "options": ["Ali Zafar", "Shae Gill", "Young Stunners", "Ali Zafar & Shae Gill"],
+    "answer": "Ali Zafar & Shae Gill",
+    "explanation": "The anthem featured performances by Ali Zafar and Shae Gill." 
+  },
+  {
+    "question": "How many teams participated in PSL X?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "6",
+    "explanation": "PSL X featured six franchise teams competing." 
+  },
+  {
+    "question": "PSL X final was played at which stadium?",
+    "options": ["Multan Cricket Stadium", "National Stadium Karachi", "Gaddafi Stadium", "Rawalpindi Stadium"],
+    "answer": "Gaddafi Stadium",
+    "explanation": "The final on 25 May 2025 was played at Gaddafi Stadium, Lahore." 
+  },
+  {
+    "question": "Which bowler was named Bowler of the Tournament in PSL X?",
+    "options": ["Abrar Ahmed", "Shaheen Afridi", "Hasan Ali", "Faheem Ashraf"],
+    "answer": "Shaheen Afridi",
+    "explanation": "Shaheen Afridi was awarded Bowler of the Tournament for his 19 wickets." 
+  },
+  {
+    "question": "Who led Lahore Qalandars in PSL 2025?",
+    "options": ["Shaheen Afridi", "Fakhar Zaman", "Abdullah Shafique", "Kusal Perera"],
+    "answer": "Shaheen Afridi",
+    "explanation": "Shaheen Afridi was the captain of Lahore Qalandars in PSL X." 
+  },
+  {
+    "question": "What was the count of PSL titles won by Lahore Qalandars after 2025?",
+    "options": ["2", "3", "4", "5"],
+    "answer": "3",
+    "explanation": "With the 2025 win, Lahore Qalandars became the second team to win three PSL titles." 
+  },
+  {
+    "question": "The trophy unveiled for PSL X was named?",
+    "options": ["Star Trophy", "Luminara Trophy", "Elite Trophy", "Golden Pearl Trophy"],
+    "answer": "Luminara Trophy",
+    "explanation": "The new PSL X trophy, unveiled on 13 March 2025, was called the Luminara Trophy." 
+  },
+  {
+    "question": "Which domestic event replaced Hanif Mohammad Trophy qualifier spots in 2025‑26?",
+    "options": ["Quaid-e-Azam Trophy", "Pakistan Cup", "Hanif Mohammad Trophy", "National T20 Cup"],
+    "answer": "Hanif Mohammad Trophy",
+    "explanation": "Top performers from Hanif Mohammad Trophy qualified for Quaid‑e‑Azam Trophy 2025‑26." 
+  },
+  {
+    "question": "For 2025‑26, how many teams played in Quaid‑e‑Azam Trophy?",
+    "options": ["8", "10", "12", "18"],
+    "answer": "8",
+    "explanation": "PCB reduced the number of teams in the Quaid‑e‑Azam Trophy to eight from 18." 
+  },
+  {
+    "question": "Prime Minister’s University Sports Olympiad started in which city?",
+    "options": ["Lahore", "Islamabad", "Karachi", "Peshawar"],
+    "answer": "Islamabad",
+    "explanation": "The inaugural PM US Olympiad was held in Islamabad in November 2024." 
+  },
+  {
+    "question": "In which year was the first University Sports Olympiad held in Pakistan?",
+    "options": ["2023", "2024", "2025", "2022"],
+    "answer": "2024",
+    "explanation": "The first PM University Sports Olympiad was organized in November 2024." 
+  },
+  {
+    "question": "Which event is organized under Prime Minister’s Youth Programme?",
+    "options": ["PSL", "Pakistan Cup", "University Sports Olympiad", "National Games"],
+    "answer": "University Sports Olympiad",
+    "explanation": "The PM’s Youth Programme launched the University Sports Olympiad in 2024." 
+  },
+  {
+    "question": "Which country has won the ICC T20 World Cup 2024?",
+    "options": ["Pakistan", "India", "England", "Australia"],
+    "answer": "Australia",
+    "explanation": "Australia won the ICC T20 World Cup held in 2024." 
+  },
+  {
+    "question": "Who is Pakistan Cricket Board chairman since February 2024?",
+    "options": ["Ramiz Raja", "Najam Sethi", "Mohsin Naqvi", "Shoaib Malik"],
+    "answer": "Mohsin Naqvi",
+    "explanation": "Mohsin Naqvi has been chairman of PCB since 6 Feb 2024." 
+  },
+  {
+    "question": "Which Pakistani bowler took a hat‑trick in T20 international cricket?",
+    "options": ["Shoaib Akhtar", "Umer Gul", "Faheem Ashraf", "Saeed Ajmal"],
+    "answer": "Faheem Ashraf",
+    "explanation": "Faheem Ashraf is the only option listed who has taken a T20I hat‑trick." 
+  },
+  {
+    "question": "Jansher Khan is associated with which sport?",
+    "options": ["Squash", "Cricket", "Badminton", "Tennis"],
+    "answer": "Squash",
+    "explanation": "Jansher Khan is a legendary Pakistani squash player." 
+  },
+  {
+    "question": "Which country won the FIFA World Cup in 2010?",
+    "options": ["Brazil", "Germany", "Australia", "Spain"],
+    "answer": "Spain",
+    "explanation": "Spain won the 2010 FIFA World Cup." 
+  },
+  {
+    "question": "Which cricket World Cup has Pakistan won?",
+    "options": ["1999", "1992", "1991", "2007"],
+    "answer": "1992",
+    "explanation": "Pakistan won the Cricket World Cup in 1992." 
+  },
+  {
+    "question": "The length of the cricket pitch is?",
+    "options": ["20 yards", "22 yards", "24 yards", "26 yards"],
+    "answer": "22 yards",
+    "explanation": "A standard cricket pitch length is 22 yards." 
+  },
+  {
+    "question": "Wimbledon is associated with which type of tennis?",
+    "options": ["Grass tennis", "Clay tennis", "Hard court tennis", "Artificial turf"],
+    "answer": "Grass tennis",
+    "explanation": "Wimbledon is played on grass courts." 
+  },
+  {
+    "question": "Table tennis is classified as which type of game?",
+    "options": ["Indoor game", "Outdoor game", "Field game", "None"],
+    "answer": "Indoor game",
+    "explanation": "Table tennis is typically played indoors." 
+  },
+  {
+    "question": "The Swaythling Cup is associated with which sport?",
+    "options": ["Golf", "Hockey", "Table tennis", "Rugby"],
+    "answer": "Table tennis",
+    "explanation": "Swaythling Cup is the men's team championships trophy in table tennis." 
+  },
+  {
+    "question": "Which veteran cricket tournament semi-final was canceled in July 2025, granting Pakistan a direct berth to the final?",
+    "options": ["Asia Cup Legends", "World Championship of Legends", "Masters T20", "Veterans Cup"],
+    "answer": "World Championship of Legends",
+    "explanation": "India Champions withdrew from WCL semi-final vs Pakistan; Pakistan advanced to final by default.",
+    "source": "turn0news13"
+  },
+  {
+    "question": "Why did India exit the WCL semi-final against Pakistan in Birmingham in 2025?",
+    "options": ["COVID-19 outbreak", "Political tensions", "Scheduling conflict", "Weather disruption"],
+    "answer": "Political tensions",
+    "explanation": "India Champions pulled out citing interstate tensions, canceling match.",
+    "source": "turn0news13"
+  },
+  {
+    "question": "Which Pakistan cricket board decision resulted after the WCL controversy?",
+    "options": ["Ban 'Pakistan' name in leagues", "Stop private leagues", "Rename PSL", "Cancel WCL"],
+    "answer": "Ban 'Pakistan' name in leagues",
+    "explanation": "PCB banned use of 'Pakistan' in private leagues post WCL scandal.",
+    "source": "turn0news12"
+  },
+  {
+    "question": "Who became the all‑time leading wicket‑taker in PSL history during PSL 2025?",
+    "options": ["Shaheen Afridi", "Hasan Ali", "Wahab Riaz", "Abrar Ahmed"],
+    "answer": "Hasan Ali",
+    "explanation": "Hasan Ali surpassed Wahab Riaz’s record during PSL 10.",
+    "source": "turn0search4"
+  },
+  {
+    "question": "How many wickets did Hasan Ali take in PSL 2025 to become the leading wicket‑taker of the tournament?",
+    "options": ["19", "17", "13", "15"],
+    "answer": "13",
+    "explanation": "He took 13 wickets in six matches during PSL X campaign.",
+    "source": "turn0search6"
+  },
+  {
+    "question": "Which player scored the highest runs in PSL 2025?",
+    "options": ["Sahibzada Farhan", "Fakhar Zaman", "Hassan Nawaz", "Abdullah Shafique"],
+    "answer": "Sahibzada Farhan",
+    "explanation": "Farhan scored 449 runs, topping the run charts.",
+    "source": "turn0search22"
+  },
+  {
+    "question": "Who was named Player of the Tournament in PSL 2025?",
+    "options": ["Hassan Nawaz", "Shaheen Afridi", "Sikandar Raza", "Abdul Samad"],
+    "answer": "Hassan Nawaz",
+    "explanation": "Nawaz was awarded both Player and Batsman of the Tournament.",
+    "source": "turn0search22"
+  },
+  {
+    "question": "Where was the PSL 2025 opening ceremony held?",
+    "options": ["Lahore", "Islamabad", "Rawalpindi", "Karachi"],
+    "answer": "Rawalpindi",
+    "explanation": "PSL’s 10th edition began in Rawalpindi Cricket Stadium on 11 April 2025.",
+    "source": "turn0search25"
+  },
+  {
+    "question": "Which musicians performed at PSL 2025 anthem launch?",
+    "options": ["Ali Zafar", "Shae Gill", "Young Stunners", "Ali Zafar & Shae Gill"],
+    "answer": "Ali Zafar & Shae Gill",
+    "explanation": "Both collaborated and performed at opening ceremony.",
+    "source": "turn0search25"
+  },
+  {
+    "question": "Which country hosted Pakistan’s first Olympic gold medal in an individual sport in 2024?",
+    "options": ["France", "USA", "Japan", "UK"],
+    "answer": "France",
+    "explanation": "Arshad Nadeem won javelin gold at Paris 2024 Olympics.",
+    "source": "turn0search23"
+  },
+  {
+    "question": "Who won the first Olympic gold medal for Pakistan in an individual discipline since 1984?",
+    "options": ["Jehanara Nabi", "Arshad Nadeem", "Gulfam Joseph", "Kishmala Talat"],
+    "answer": "Arshad Nadeem",
+    "explanation": "He took javelin gold in Paris, Pakistan’s first gold since 1984.",
+    "source": "turn0search23"
+  },
+  {
+    "question": "What milestone did Pakistan football achieve in March 2025 under FIFA?",
+    "options": ["Hosted QWC", "Entered top 100", "Ban lifted", "New coach"],
+    "answer": "Ban lifted",
+    "explanation": "FIFA lifted suspension on Pakistan Football Federation after reforms.",
+    "source": "turn0news21"
+  },
+  {
+    "question": "Pakistan’s participation in Asia Cup and Junior Hockey World Cup in India in 2025 was pending due to?",
+    "options": ["Budget cuts", "Security review", "Player boycott", "Climate"],
+    "answer": "Security review",
+    "explanation": "Pakistan decided to assess security before sending hockey team.",
+    "source": "turn0news19"
+  },
+  {
+    "question": "Pakistan performed admirably in a friendly hockey match but lost 4‑3 to which country in March 2025?",
+    "options": ["India", "Germany", "Australia", "China"],
+    "answer": "Germany",
+    "explanation": "Game ended 4‑3 to Germany in Pakistan–Germany Friendship Cup.",
+    "source": "turn0reddit28"
+  },
+  {
+    "question": "What is the national multi-sport event launched in Pakistan universities in 2024?",
+    "options": ["National Games", "Youth Olympiad", "PM University Sports Olympiad", "Campus Cup"],
+    "answer": "PM University Sports Olympiad",
+    "explanation": "Launched in Islamabad Nov 2024 under PM Youth Programme.",
+    "source": "turn0search26"
+  },
+  {
+    "question": "In what year did the Prime Minister’s University Sports Olympiad begin?",
+    "options": ["2022", "2023", "2024", "2025"],
+    "answer": "2024",
+    "explanation": "The inaugural event was held in November 2024.",
+    "source": "turn0search26"
+  },
+  {
+    "question": "Where was the PM University Sports Olympiad first held?",
+    "options": ["Lahore", "Islamabad", "Karachi", "Peshawar"],
+    "answer": "Islamabad",
+    "explanation": "Held at liaison Gymnasium, Islamabad in 2024.",
+    "source": "turn0search26"
+  },
+  {
+    "question": "How many teams played in PSL 2025?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "6",
+    "explanation": "PSL X featured six franchise teams.",
+    "source": "turn0search25"
+  },
+  {
+    "question": "Which match-winning all‑rounder flew in last minute to play in the 2025 PSL final?",
+    "options": ["Muhammad Haris", "Sikandar Raza", "Shaheen Afridi", "James Vince"],
+    "answer": "Sikandar Raza",
+    "explanation": "Raza arrived just before toss and sealed the title-winning chase.",
+    "source": "turn0search2"
+  },
+  {
+    "question": "Which bowler won Bowler of the Tournament award in PSL 2025?",
+    "options": ["Shaheen Afridi", "Hasan Ali", "Abrar Ahmed", "Faheem Ashraf"],
+    "answer": "Shaheen Afridi",
+    "explanation": "Afridi took most wickets (19) and earned bowler of the tournament.",
+    "source": "turn0search22"
+  },
+  {
+    "question": "Which emerging player award was given at the end of PSL 2025?",
+    "options": ["Muhammad Naeem", "Hasan Nawaz", "Saim Ayub", "Abdul Samad"],
+    "answer": "Muhammad Naeem",
+    "explanation": "He was recognized as the emerging player at closing ceremony.",
+    "source": "turn0search22"
+  },
+  {
+    "question": "Which player was named All‑rounder of the Tournament in PSL 2025?",
+    "options": ["Sikandar Raza", "Shadab Khan", "Faheem Ashraf", "Hassan Nawaz"],
+    "answer": "Sikandar Raza",
+    "explanation": "He made crucial contributions with bat and ball throughout PSL 2025.",
+    "source": "turn0search22"
+  },
+  {
+    "question": "What format did WCL follow in cricket?",
+    "options": ["T20", "ODI", "Vets League", "One-day legends"],
+    "answer": "Vets League",
+    "explanation": "The WCL is a tournament featuring retired legends.",
+    "source": "turn0news13"
+  },
+  {
+    "question": "How did Pakistan qualify to the WCL final in 2025?",
+    "options": ["Won semis", "Walkover", "Coin toss", "Extra innings"],
+    "answer": "Walkover",
+    "explanation": "India withdrew and Pakistan advanced by default.",
+    "source": "turn0news13"
+  },
+  {
+    "question": "Which Pakistani athlete won gold in men’s javelin at Paris 2024?",
+    "options": ["Jehanara Nabi", "Arshad Nadeem", "Gulfam Bashir", "N/A"],
+    "answer": "Arshad Nadeem",
+    "explanation": "He threw 92.97 m to win Pakistan’s first individual Olympic gold.",
+    "source": "turn0search23"
+  },
+  {
+    "question": "Which sport received a dedicated league for girls in Gilgit-Baltistan?",
+    "options": ["Cricket", "Football", "Basketball", "Tennis"],
+    "answer": "Football",
+    "explanation": "Gilgit‑Baltistan Girls Football League encourages female participation.",
+    "source": "turn0news20"
+  },
+  {
+    "question": "Where is the Gilgit-Baltistan Girls Football League held?",
+    "options": ["Lahore", "Passu", "Islamabad", "Gilgit city"],
+    "answer": "Passu",
+    "explanation": "Hosted in a remote village in the Karakoram region.",
+    "source": "turn0news20"
+  },
+  {
+    "question": "Which federation secured constitutional changes enabling FIFA reinstatement in 2025?",
+    "options": ["PCB", "PFF", "PFF", "PSB"],
+    "answer": "PFF",
+    "explanation": "Pakistan Football Federation’s changes led to FIFA lifting suspension.",
+    "source": "turn0news21"
+  },
+  {
+    "question": "Which country's men's cricket team is unlikely to feature cricket at LA 2028 Olympics, per qualification format?",
+    "options": ["Pakistan", "India", "Australia", "West Indies"],
+    "answer": "Pakistan",
+    "explanation": "Continental qualification format may exclude Pakistan.",
+    "source": "turn0news16"
+  },
+  {
+    "question": "Which country is expected to represent Asia in cricket at LA 2028 Olympics?",
+    "options": ["India", "Pakistan", "Sri Lanka", "Bangladesh"],
+    "answer": "India",
+    "explanation": "Asia likely represented by India; Pakistan may not qualify.",
+    "source": "turn0news16"
+  },
+  {
+    "question": "In which league did Hasan Ali become all-time top wicket-taker for Karachi Kings?",
+    "options": ["PSL", "IPL", "T10 League", "BPL"],
+    "answer": "PSL",
+    "explanation": "He surpassed Wahab Riaz as PSL's top wicket-taker.",
+    "source": "turn0search8"
+  },
+  {
+    "question": "Hasan Ali served in which leadership role for Karachi Kings during PSL 2025?",
+    "options": ["Captain", "Vice‑captain", "Coach", "Mentor"],
+    "answer": "Vice‑captain",
+    "explanation": "He was vice‑captain under David Warner.",
+    "source": "turn0search6"
+  },
+  {
+    "question": "Which iconic event marked PSL’s tenth season theme?",
+    "options": ["PSL X themed logo", "Opening ceremony in Pindi", "New trophy", "New anthem"],
+    "answer": "Opening ceremony in Pindi",
+    "explanation": "Rawalpindi hosted first-ever PSL opening ceremony in PSL X.",
+    "source": "turn0search25"
+  },
+  {
+    "question": "Sahibzada Farhan played for which franchise in PSL 2025?",
+    "options": ["Islamabad United", "Karachi Kings", "Quetta Gladiators", "Peshawar Zalmi"],
+    "answer": "Islamabad United",
+    "explanation": "He scored most runs for Islamabad United in PSL 2025.",
+    "source": "turn0search22"
+  },
+  {
+    "question": "Which bilateral cricket series involving Pakistan was officially cancelled due to legend team withdrawal?",
+    "options": ["Asia Cup", "WCL semi-final", "PSL final", "Champions Trophy"],
+    "answer": "WCL semi-final",
+    "explanation": "The WCL legends’ semi‑final was cancelled when India pulled out.",
+    "source": "turn0news13"
+  },
+  {
+    "question": "Which athlete became Pakistan’s first gold medallist in athletics at the Olympics in 2024?",
+    "options": ["Jehanara Nabi", "Arshad Nadeem", "Gulfam Bashir", "Kishmala Talat"],
+    "answer": "Arshad Nadeem",
+    "explanation": "He won gold in javelin throw at Paris 2024 Olympics.",
+    "source": "turn0search23"
+  },
+  {
+    "question": "Who was named Wicket‑keeper of the Tournament in PSL 2025?",
+    "options": ["Mohammad Haris", "Abdul Samad", "Kusal Perera", "Sahibzada Farhan"],
+    "answer": "Mohammad Haris",
+    "explanation": "He received the wicket‑keeper award at PSL closing.",
+    "source": "turn0search22"
+  },
+  {
+    "question": "Which cricket all‑rounder fielding award was given during PSL 2025?",
+    "options": ["Best catch", "Spirit of Cricket", "Fielder of the tournament", "Emerging fielder"],
+    "answer": "Fielder of the tournament",
+    "explanation": "Abdul Samad won the fielder award for outstanding performance.",
+    "source": "turn0search22"
+  },
+  {
+    "question": "Which all‑rounder scored heavily and took wickets but registered second highest wickets (17) in PSL 2025?",
+    "options": ["Faheem Ashraf", "Sikandar Raza", "Hassan Nawaz", "Shaheen Afridi"],
+    "answer": "Faheem Ashraf",
+    "explanation": "Ashraf took 17 wickets and also contributed with bat in PSL 2025."
+  },
+  {
+    "question": "Which change did PCB announce after the WCL incident?",
+    "options": ["Use 'Pakistan' in every league", "Ban 'Pakistan' in private leagues", "Rename board", "Cancel PSL"],
+    "answer": "Ban 'Pakistan' in private leagues",
+    "explanation": "PCB decided to ban usage of 'Pakistan' in unofficial leagues."
+  },
+  {
+    "question": "Which technology‑based sporting initiative was discussed in Reddit comments for Pakistan in 2025?",
+    "options": ["E‑sports academy", "Cricket academy", "Badminton camp", "Boxing centre"],
+    "answer": "E‑sports academy",
+    "explanation": "Plans for e‑sports governance and academies under discussion."
+      },
+  {
+    "question": "Which veteran cricket tournament semi-final was canceled in July 2025, granting Pakistan a direct berth to the final?",
+    "options": ["Asia Cup Legends", "World Championship of Legends", "Masters T20", "Veterans Cup"],
+    "answer": "World Championship of Legends",
+    "explanation": "The India Champions withdrew from the semi-final, so Pakistan advanced by default."
+  },
+  {
+    "question": "Why did India withdraw from the WCL semi-final against Pakistan in Birmingham, 2025?",
+    "options": ["COVID‑19 outbreak", "Political tensions", "Scheduling conflict", "Weather disruption"],
+    "answer": "Political tensions",
+    "explanation": "Withdrawal was attributed to ongoing India‑Pakistan tensions."
+  },
+  {
+    "question": "Which PCB decision followed the WCL controversy in 2025?",
+    "options": ["Ban using 'Pakistan' in private leagues", "Stop private leagues", "Rename PSL", "Cancel WCL"],
+    "answer": "Ban using 'Pakistan' in private leagues",
+    "explanation": "PCB banned use of the country’s name in private cricket leagues."
+  },
+  {
+    "question": "Who became PSL’s all‑time leading wicket‑taker during the 2025 season?",
+    "options": ["Shaheen Afridi", "Hasan Ali", "Wahab Riaz", "Abrar Ahmed"],
+    "answer": "Hasan Ali",
+    "explanation": "Hasan Ali surpassed Wahab Riaz to become PSL’s top wicket‑taker."
+  },
+  {
+    "question": "How many wickets did Hasan Ali take in PSL 2025?",
+    "options": ["19", "17", "13", "15"],
+    "answer": "17",
+    "explanation": "He took 17 wickets—tied with Abbas Afridi for most in the season."
+  },
+  {
+    "question": "Who scored the most runs in PSL 2025?",
+    "options": ["Sahibzada Farhan", "Fakhar Zaman", "Hassan Nawaz", "Abdullah Shafique"],
+    "answer": "Sahibzada Farhan",
+    "explanation": "Farhan topped the charts with 449 runs."
+  },
+  {
+    "question": "Who was Player of the Tournament in PSL 2025?",
+    "options": ["Hassan Nawaz", "Shaheen Afridi", "Sikandar Raza", "Abdul Samad"],
+    "answer": "Hassan Nawaz",
+    "explanation": "Named Player (and Batter) of the Tournament."
+  },
+  {
+    "question": "Where was the PSL 2025 opening ceremony held?",
+    "options": ["Lahore", "Islamabad", "Rawalpindi", "Karachi"],
+    "answer": "Rawalpindi",
+    "explanation": "PSL X began at Rawalpindi Cricket Stadium on April 11."
+  },
+  {
+    "question": "Which artists performed at the PSL 2025 anthem launch?",
+    "options": ["Ali Zafar", "Shae Gill", "Young Stunners", "Ali Zafar & Shae Gill"],
+    "answer": "Ali Zafar & Shae Gill",
+    "explanation": "Both collaborated and performed at the opening ceremony."
+  },
+  {
+    "question": "Which country hosted Pakistan’s first Olympic gold medal in an individual sport in 2024?",
+    "options": ["France", "USA", "Japan", "UK"],
+    "answer": "France",
+    "explanation": "Arshad Nadeem won javelin gold at Paris 2024 Olympics."
+  },
+  {
+    "question": "Who won Pakistan’s first individual Olympic gold medal since 1984?",
+    "options": ["Jehanara Nabi", "Arshad Nadeem", "Gulfam Bashir", "Kishmala Talat"],
+    "answer": "Arshad Nadeem",
+    "explanation": "He threw 92.97 m for javelin gold in 2024."
+  },
+  {
+    "question": "Which milestone did Pakistan football achieve in March 2025?",
+    "options": ["Hosted World Cup", "Entered top 100 rankings", "Ban lifted by FIFA", "Appointed new coach"],
+    "answer": "Ban lifted by FIFA",
+    "explanation": "FIFA lifted PFF suspension after structural reforms."
+  },
+  {
+    "question": "Pakistan’s participation in the 2025 Asia Cup hockey was under review due to?",
+    "options": ["Budget cuts", "Security concerns", "Player boycott", "Climate"],
+    "answer": "Security concerns",
+    "explanation": "Participation pending security assessment for events in India."
+  },
+  {
+    "question": "In March 2025, Pakistan lost a friendly hockey match 4–3 to which country?",
+    "options": ["India", "Germany", "Australia", "China"],
+    "answer": "Germany",
+    "explanation": "Pakistan lost 4–3 in the Germany‑Pakistan Friendship Cup."
+  },
+  {
+    "question": "What multi‑sport national event was launched by the PM’s Youth Programme in 2024?",
+    "options": ["Pakistan National Games", "University Sports Olympiad", "Youth Championships", "Campus Cup"],
+    "answer": "University Sports Olympiad",
+    "explanation": "Inaugural event held in Islamabad in November 2024."
+  },
+  {
+    "question": "In which year did the Prime Minister’s University Sports Olympiad begin?",
+    "options": ["2022", "2023", "2024", "2025"],
+    "answer": "2024",
+    "explanation": "The first Olympiad was organized in November 2024."
+  },
+  {
+    "question": "How many teams competed in PSL 2025?",
+    "options": ["5", "6", "7", "8"],
+    "answer": "6",
+    "explanation": "PSL X featured six franchise teams."
+  },
+  {
+    "question": "Which player flew in at the last minute to play in PSL 2025 final?",
+    "options": ["Muhammad Haris", "Sikandar Raza", "Shaheen Afridi", "James Vince"],
+    "answer": "Sikandar Raza",
+    "explanation": "He arrived just before the toss and helped seal the chase."
+  },
+  {
+    "question": "Who was named Bowler of the Tournament in PSL 2025?",
+    "options": ["Shaheen Afridi", "Hasan Ali", "Abrar Ahmed", "Faheem Ashraf"],
+    "answer": "Shaheen Afridi",
+    "explanation": "He took 19 wickets and led Lahore’s attack."
+  },
+  {
+    "question": "Who won Emerging Player award in PSL 2025?",
+    "options": ["Muhammad Naeem", "Sahibzada Farhan", "Saim Ayub", "Abdul Samad"],
+    "answer": "Muhammad Naeem",
+    "explanation": "Honored as the breakout talent of the tournament."
+  },
+  {
+    "question": "Who was named All‑rounder of the Tournament in PSL 2025?",
+    "options": ["Sikandar Raza", "Shadab Khan", "Faheem Ashraf", "Hassan Nawaz"],
+    "answer": "Sikandar Raza",
+    "explanation": "Key contributions with both bat and ball."
+  },
+  {
+    "question": "Which format best describes the WCL in 2025?",
+    "options": ["T20", "ODI", "Veterans League", "Standard one-day"],
+    "answer": "Veterans League",
+    "explanation": "It featured retired legends in a special tournament."
+  },
+  {
+    "question": "How did Pakistan qualify for the WCL final in 2025?",
+    "options": ["Won semi-final", "Walkover", "Coin toss", "Super over"],
+    "answer": "Walkover",
+    "explanation": "Pakistan advanced after India Champions withdrew."
+  },
+  {
+    "question": "Which sport held an international ski tournament in Malam Jabba/Naltar in 2025?",
+    "options": ["Skiing", "Snowboarding", "Ice hockey", "None"],
+    "answer": "Skiing",
+    "explanation": "Winter sports tournaments were planned in Malam Jabba & Naltar."
+  },
+  {
+    "question": "Which volleyball initiative was highlighted in Reddit discussions for 2025?",
+    "options": ["National cricket coaching", "E‑sports academy", "Volleyball league", "Boxing centre"],
+    "answer": "Volleyball league",
+    "explanation": "Plans discussed for a corporate‑sponsored national volleyball league."
+  },
+  {
+    "question": "Which Pakistani woman was inducted into ICC Hall of Fame in June 2025?",
+    "options": ["Sana Mir", "Bismah Maroof", "Elizebath Khan", "Kainat Imtiaz"],
+    "answer": "Sana Mir",
+    "explanation": "First Pakistani female cricketer inducted into ICC Hall of Fame."
+  },
+  {
+    "question": "Which team won the National T20 Cup 2024–25?",
+    "options": ["Karachi Whites", "Peshawar", "Lahore Blues", "Rawalpindi"],
+    "answer": "Lahore Blues",
+    "explanation": "Lahore Blues beat Peshawar in the final by nine wickets."
+  },
+  {
+    "question": "Who was Player of the Series in 2024–25 National T20 Cup?",
+    "options": ["Hasan Ali", "Sahibzada Farhan", "Shadab Khan", "Faheem Ashraf"],
+    "answer": "Sahibzada Farhan",
+    "explanation": "He scored 605 runs—most in the tournament."
+  },
+  {
+    "question": "Who took most wickets in National T20 Cup 2025?",
+    "options": ["Shaheen Afridi", "Hasan Ali", "Abrar Ahmed", "Shadab Khan"],
+    "answer": "Hasan Ali",
+    "explanation": "He grabbed 13 wickets—the highest in the event."
+  },
+  {
+    "question": "Which PSL team did Sahibzada Farhan play for in 2025?",
+    "options": ["Islamabad United", "Karachi Kings", "Quetta Gladiators", "Peshawar Zalmi"],
+    "answer": "Islamabad United",
+    "explanation": "Played as a late replacement and scored most runs."
+  },
+  {
+    "question": "Which tournament was won under floodlights with pink ball for the first time in Pakistan in 2025?",
+    "options": ["Nazim Cup", "President’s Trophy", "Quaid-e-Azam Trophy", "National Cup"],
+    "answer": "President’s Trophy",
+    "explanation": "First first-class tournament played under floodlights with a pink ball."
+  },
+  {
+    "question": "Who was Player of the Series in President’s Trophy 2024–25?",
+    "options": ["Ayaz Tasawwar", "Mushtaq Ahmed", "Muhammad Shahzad", "Niaz Khan"],
+    "answer": "Muhammad Shahzad",
+    "explanation": "He was named Player of the Series in that tournament."
+  }
+]
+

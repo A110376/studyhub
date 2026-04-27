@@ -1,0 +1,609 @@
+{
+  "slug": "assistant-director",
+  "title": "Assistant Director Mock Test",
+  "duration_minutes": 90,
+  "marks_per_correct": 1,
+  "negative_mark_per_wrong": 0.25,
+  "questions": [
+    {
+      "id": 1,
+      "question": "World Humanitarian Summit Conference was held on 23-24 May,2016:",
+      "options": ["Cairo,Egypt", "New York,US", "Istanbul,Turkey", "Paris,France"],
+      "correct": "Istanbul,Turkey"
+    },
+    {
+      "id": 2,
+      "question": "Synonym of Malice is:",
+      "options": ["Kind", "Pleasant Surprise", "Desire", "Hatred"],
+      "correct": "Hatred"
+    },
+    {
+      "id": 3,
+      "question": "Who was the first Secretary General of UN?",
+      "options": ["U Thant", "Dag HammarksJold", "Kurt Waldheim", "Trygve Lie"],
+      "correct": "Trygve Lie"
+    },
+    {
+      "id": 4,
+      "question": "The first Round Table Conference was held in:",
+      "options": ["Britain", "Dehli", "Calcutta", "London"],
+      "correct": "London"
+    },
+    {
+      "id": 5,
+      "question": "Complete the idiom Hell hath nofury like _____?",
+      "options": ["A women scorned", "A burned women", "A women forgotten", "A Devil's Advocate"],
+      "correct": "A women scorned"
+    },
+    {
+      "id": 6,
+      "question": "How many seats did All India Muslim League win in the Central Legislative Assembly in 1945 election of India?",
+      "options": ["40", "35", "30", "60"],
+      "correct": "30"
+    },
+    {
+      "id": 7,
+      "question": "Find the square of 35",
+      "options": ["4175", "1125", "1225", "1245"],
+      "correct": "1225"
+    },
+    {
+      "id": 8,
+      "question": "Gandhi raised the slogan of Quit India which slogan did Quaid-e-Azam raise to counter it?",
+      "options": ["Drive and Rule", "Divide and Quit", "Rule and Divie", "None of these"],
+      "correct": "Divide and Quit"
+    },
+    {
+      "id": 9,
+      "question": "Yaum-e-Taqbeer in Pakistan is celebrated on:",
+      "options": ["6 September", "16 December", "23 March", "28 May"],
+      "correct": "28 May"
+    },
+    {
+      "id": 10,
+      "question": "The largest Cricket Stadium of world is:",
+      "options": ["Melbourne Cricket Ground,Australia", "Eden Garden Kolkata", "The oval. London", "Gaddafi Stadium Lahore"],
+      "correct": "Melbourne Cricket Ground,Australia"
+    },
+    {
+      "id": 11,
+      "question": "In which Surah obligation are described?",
+      "options": ["Al-Baqrah", "Al-Maida", "Al-Noor", "Al-An'aam"],
+      "correct": "Al-Maida"
+    },
+    {
+      "id": 12,
+      "question": "Which one of the following is considered to be one of the Father of internet?",
+      "options": ["Bill Gates", "Vinton Gray Cerf", "Charlie Babbage", "Steve jobs"],
+      "correct": "Vinton Gray Cerf"
+    },
+    {
+      "id": 13,
+      "question": "The Federally Administrated Tribal Areas (FATA) consist of:",
+      "options": ["Five Agencies", "Six Agencies", "Seven Agencies", "Eight Agencies"],
+      "correct": "Seven Agencies"
+    },
+    {
+      "id": 14,
+      "question": "Qazaf means:",
+      "options": ["False accusation of adultery", "False accusation of robbery", "False accusation of rape", "False accusation of murder"],
+      "correct": "False accusation of adultery"
+    },
+    {
+      "id": 15,
+      "question": "if A and B together can complete a job in 15 days and B alone can complete it in 20 days.In how many days can Aomplete job?",
+      "options": ["60", "45", "40", "30"],
+      "correct": "60"
+    },
+    {
+      "id": 16,
+      "question": "Choose the synonym of:Sepulchral?",
+      "options": ["Cheerful", "Mournful", "Resonant", "Roaring"],
+      "correct": "Mournful"
+    },
+    {
+      "id": 17,
+      "question": "Complete the idiom The more thing change,the more they _____?",
+      "options": ["Begin to improve", "Repeat history", "Stay the same", "Resist change"],
+      "correct": "Stay the same"
+    },
+    {
+      "id": 18,
+      "question": "In information Technology What does HTML stand for?",
+      "options": ["Hyper Text Method Language", "Hyper Text Markup in Language", "Hyper Text Markup Logic", "Hyperlink Text Markup language"],
+      "correct": "Hyper Text Markup in Language"
+    },
+    {
+      "id": 19,
+      "question": "Head office of Asia infrastructure investment bank is located in ____ city?",
+      "options": ["Shanghai", "Doha", "Canton", "Beijing"],
+      "correct": "Beijing"
+    },
+    {
+      "id": 20,
+      "question": "Ceasefire UN military observe group in India and Pakistan established to report on violation.",
+      "options": ["1947", "1949", "1950", "1951"],
+      "correct": "1949"
+    },
+    {
+      "id": 21,
+      "question": "What in the average (arthimetic mean) of positive integers from 1 to 100 ,inclusive?",
+      "options": ["49", "49.5", "50", "50.5"],
+      "correct": "50.5"
+    },
+    {
+      "id": 22,
+      "question": "Complete the series 14,20,20,40,32,64?",
+      "options": ["56", "52", "90", "126"],
+      "correct": "56"
+    },
+    {
+      "id": 23,
+      "question": " The Ruling Muslim Dynasty of IN dia from 1320 to 1414 AD was:---?",
+      "options": ["Slave Dynasty", "Tagluq", "Lodhi", "KHilji"],
+      "correct": "Tagluq"
+    },
+    {
+      "id": 24,
+      "question": "The tragic incient of Karbala took place during the month of Muharram in the ___ Hijri ?",
+      "options": ["55 AH", "70 AH", "61 AH", "72 AH"],
+      "correct": "61 AH"
+    },
+    {
+      "id": 25,
+      "question": "Confucianism as the religious mythology originated in:?",
+      "options": ["Japan", "Greece", "China", "Nepal"],
+      "correct": "China"
+    },
+    {
+      "id": 26,
+      "question": "Dr.Muhammad Younus,Nobel Prize winner,is known all over the world as?",
+      "options": ["Deputy Chairman of Planning ", "Finance Minister with Hasin", "Vice Chancellor of Dhaka University", "Founder Of Grameen Bank"],
+      "correct": "Founder Of Grameen Bank"
+    },
+    {
+      "id": 27,
+      "question": "if there is no sun , the color of sky would be?",
+      "options": ["Orange", "Blue", "Yellow", "None of these"],
+      "correct": "None of these"
+    },
+    {
+      "id": 28,
+      "question": "When the stock market is rising it is called ___?",
+      "options": ["Bullish", "Berish", "Hot", "Rising up"],
+      "correct": "Bullish"
+    },
+    {
+      "id": 29,
+      "question": "Find the odd man out> 1,5,7,11,12,13,17?",
+      "options": ["7", "1", "12", "17"],
+      "correct": "12"
+    },
+    {
+      "id": 30,
+      "question": " Nanga Parbat, one of the most dangerous mountain to climb,is the ___ highest mountain ?",
+      "options": ["4th", "6th", "8th", "9th"],
+      "correct": "9th"
+    },
+    {
+      "id": 31,
+      "question": "Imam Ghazali was born and died in which city of Iran?",
+      "options": ["Qom", "Tous", "Mashhad", "Meshapur"],
+      "correct": "Tous"
+    },
+    {
+      "id": 32,
+      "question": "Which of the following is responsible for the largest amount of Oxygen of Earth?",
+      "options": ["Algae", "Trees", "Peat bogs", "Grass"],
+      "correct": "Algae"
+    },
+    {
+      "id": 33,
+      "question": "Which is the longest bone of human body?",
+      "options": ["Tibia", "Femure", "Fibufa", "Nebula"],
+      "correct": "Femure"
+    },
+    {
+      "id": 34,
+      "question": "Warsak Dam has been built on the river?",
+      "options": ["Indus", "Korang", "Kabul", "Hingoi"],
+      "correct": "Kabul"
+    },
+    {
+      "id": 35,
+      "question": "In which para of Holy Quran Surah Al-Momin is located?",
+      "options": ["24", "26", "28", "30"],
+      "correct": "24"
+    },
+    {
+      "id": 36,
+      "question": "Which of the following provision is a part of Objective Resolution?",
+      "options": ["Parliamentary system will be introduced", "Parliament must be unilateral", "president must be muslim", "Fundamental rights of minorities"],
+      "correct": "Fundamental rights of minorities"
+    },
+    {
+      "id": 37,
+      "question": "In which year did pakistan win its first olympic hockey gold medal?",
+      "options": ["1957", "1960", "1964", "1965"],
+      "correct": "1960"
+    },
+    {
+      "id": 38,
+      "question": "Which was the last major expedition led by Holy Prophet(SAWW)?",
+      "options": ["Tabook", "Conquest", "Khyber", "Badar"],
+      "correct": "Tabook"
+    },
+    {
+      "id": 39,
+      "question": "Who is the author of book Das Kapital?",
+      "options": ["Karl Marx", "Rousseau", "Hitler", "Lenin"],
+      "correct": "Karl Marx"
+    },
+    {
+      "id": 40,
+      "question": "Fill in the blank:He is a Mindful ____  his status?",
+      "options": ["For", "To", "With", "Of"],
+      "correct": "To"
+    },
+    {
+      "id": 41,
+      "question": "The famous Qissa Khawani Bazaar is located in:?",
+      "options": ["Quetta", "Multan", "Hyderabad", "Peshawar"],
+      "correct": "Peshawar"
+    },
+    {
+      "id": 42,
+      "question": "A portuguese explorer discovered the sea route from Europe to India?",
+      "options": ["Fir Francis Drake", "Captain John Cook", "Christopher Columbus", "Vasco Da Gama"],
+      "correct": "Vasco Da Gama"
+    },
+    {
+      "id": 43,
+      "question": "5/6+5/9=?",
+      "options": ["3/2", "25/54", "2/3", "30/25"],
+      "correct": "3/2"
+    },
+    {
+      "id": 44,
+      "question": "Harappa is tthe city in punjab about 24 km South West of?",
+      "options": ["Sahiwal", "Multan", "Narowal", "Lahore"],
+      "correct": "Sahiwal"
+    },
+    {
+      "id": 45,
+      "question": "Synonym of Carnivores is:",
+      "options": ["Dangerous", "Wild", "Meat eater", "trees"],
+      "correct": "Meat eater"
+    },
+    {
+      "id": 46,
+      "question": "What is the Anonym of Opaque?",
+      "options": ["Misty", "Shiny", "Covered", "Transparent"],
+      "correct": "Transparent"
+    },
+    {
+      "id": 47,
+      "question": "The headquarter of international court of justice is situated in:?",
+      "options": ["Hague", "Lisbon", "Geneva", "London"],
+      "correct": "Hague"
+    },
+    {
+      "id": 48,
+      "question": "I n which province is the town Dalbandin located?",
+      "options": ["Punjab", "Sindh", "KPK", "Balochistan"],
+      "correct": "Balochistan"
+    },
+    {
+      "id": 49,
+      "question": "Lack of vitamin c causes:?",
+      "options": ["Scurvy", "Beriberi", "Blindness", "Teeth decay"],
+      "correct": "Scurvy"
+    },
+    {
+      "id": 50,
+      "question": "What is the meaning of itikaf?",
+      "options": ["Ablution", "Prostration", "Seclusion", "Cleaning"],
+      "correct": "Seclusion"
+    },
+    {
+      "id": 51,
+      "question": "Opposite Democracy is :---",
+      "options": ["Aristocracy", "Theocracy", "Dictatorship", "Gather"],
+      "correct": "Dictatorship"
+    },
+    {
+      "id": 52,
+      "question": "Synonym of Melancholy is",
+      "options": ["Dissolve", "Sadness", "Joy", "petty"],
+      "correct": "Sadness"
+    },
+    {
+      "id": 53,
+      "question": "Which country was invaded twice by Germany in 20th century and itself had brutally colonized",
+      "options": ["Belgium", "Poland", "France", "UK"],
+      "correct": "Belgium"
+    },
+    {
+      "id": 54,
+      "question": "The Capital city of Albania is:",
+      "options": ["Tirana", "Belgrade", "Srebrenica", "Pristina"],
+      "correct": "Tirana"
+    },
+    {
+      "id": 55,
+      "question": "In which year Nelson Mandela of south Africa awarded Nishan-E-pakistan?",
+      "options": ["1990", "1992", "1994", "1996"],
+      "correct": "1992"
+    },
+    {
+      "id": 56,
+      "question": "Enormous mean",
+      "options": ["Hard", "Huge", "Amazing", "Many"],
+      "correct": "Huge"
+    },
+    {
+      "id": 57,
+      "question": "Islam was declared as the state Religion under the:",
+      "options": ["Constitution of 1953", "Constitution of 1962", "Constitution of 1973", "8TH Amendment"],
+      "correct": "Constitution of 1973"
+    },
+    {
+      "id": 58,
+      "question": "Fill in the blank with appropriate preposition: They have no one to blame for the trouble _______ themselves?",
+      "options": ["Expect", "Expect for", "Neither A and B", "None of these"],
+      "correct": "Expect"
+    },
+    {
+      "id": 59,
+      "question": "Identify the correct meaning of idioms To cool one's heels",
+      "options": ["To be kept waiting", "To be good and delicate", "To have a deal with trouble some person", "To praise someone"],
+      "correct": "To be kept waiting"
+    },
+    {
+      "id": 60,
+      "question": "Who scored the first cricket test century for Pakistan in 1952?",
+      "options": ["Nazar Muhammad", "Hanif Muhammad", "Alimuddin", "Saeed Ahmed"],
+      "correct": "Nazar Muhammad"
+    },
+    {
+      "id": 61,
+      "question": "Optical fiber system is_____",
+      "options": ["Telecommunication system", "Eye operation", "Air raid system", "Defence system"],
+      "correct": "Telecommunication system"
+    },
+    {
+      "id": 62,
+      "question": "Hussain Shaheed Suhrwardy was?",
+      "options": ["Prime minister of Pakistan", "Speak of Constitution assembly", "Ambassador of USA", "CM of UP"],
+      "correct": "Prime minister of Pakistan"
+    },
+    {
+      "id": 63,
+      "question": "The Federally Administrated Tribal Areas (FATA) consist of:",
+      "options": ["Five Agencies", "Six Agencies", "Seven Agencies", "Eight Agencies"],
+      "correct": "Seven Agencies"
+    },
+    {
+      "id": 64,
+      "question": "Qazaf means:",
+      "options": ["False accusation of adultery", "False accusation of robbery", "False accusation of rape", "False accusation of murder"],
+      "correct": "False accusation of adultery"
+    },
+    {
+      "id": 65,
+      "question": "if A and B together can complete a job in 15 days and B alone can complete it in 20 days.In how many days can Aomplete job?",
+      "options": ["60", "45", "40", "30"],
+      "correct": "60"
+    },
+    {
+      "id": 66,
+      "question": "Choose the synonym of:Sepulchral?",
+      "options": ["Cheerful", "Mournful", "Resonant", "Roaring"],
+      "correct": "Mournful"
+    },
+    {
+      "id": 67,
+      "question": "Complete the idiom The more thing change,the more they _____?",
+      "options": ["Begin to improve", "Repeat history", "Stay the same", "Resist change"],
+      "correct": "Stay the same"
+    },
+    {
+      "id": 68,
+      "question": "In information Technology What does HTML stand for?",
+      "options": ["Hyper Text Method Language", "Hyper Text Markup in Language", "Hyper Text Markup Logic", "Hyperlink Text Markup language"],
+      "correct": "Hyper Text Markup in Language"
+    },
+    {
+      "id": 69,
+      "question": "Head office of Asia infrastructure investment bank is located in ____ city?",
+      "options": ["Shanghai", "Doha", "Canton", "Beijing"],
+      "correct": "Beijing"
+    },
+    {
+      "id": 70,
+      "question": "Ceasefire UN military observe group in India and Pakistan established to report on violation.",
+      "options": ["1947", "1949", "1950", "1951"],
+      "correct": "1949"
+    },
+    {
+      "id": 71,
+      "question": "What in the average (arthimetic mean) of positive integers from 1 to 100 ,inclusive?",
+      "options": ["49", "49.5", "50", "50.5"],
+      "correct": "50.5"
+    },
+    {
+      "id": 72,
+      "question": "Complete the series 14,20,20,40,32,64?",
+      "options": ["56", "52", "90", "126"],
+      "correct": "56"
+    },
+    {
+      "id": 73,
+      "question": " The Ruling Muslim Dynasty of IN dia from 1320 to 1414 AD was:---?",
+      "options": ["Slave Dynasty", "Tagluq", "Lodhi", "KHilji"],
+      "correct": "Tagluq"
+    },
+    {
+      "id": 74,
+      "question": "The tragic incient of Karbala took place during the month of Muharram in the ___ Hijri ?",
+      "options": ["55 AH", "70 AH", "61 AH", "72 AH"],
+      "correct": "61 AH"
+    },
+    {
+      "id": 75,
+      "question": "Confucianism as the religious mythology originated in:?",
+      "options": ["Japan", "Greece", "China", "Nepal"],
+      "correct": "China"
+    },
+    {
+      "id": 76,
+      "question": "Dr.Muhammad Younus,Nobel Prize winner,is known all over the world as?",
+      "options": ["Deputy Chairman of Planning ", "Finance Minister with Hasin", "Vice Chancellor of Dhaka University", "Founder Of Grameen Bank"],
+      "correct": "Founder Of Grameen Bank"
+    },
+    {
+      "id": 77,
+      "question": "if there is no sun , the color of sky would be?",
+      "options": ["Orange", "Blue", "Yellow", "None of these"],
+      "correct": "None of these"
+    },
+    {
+      "id": 78,
+      "question": "When the stock market is rising it is called ___?",
+      "options": ["Bullish", "Berish", "Hot", "Rising up"],
+      "correct": "Bullish"
+    },
+    {
+      "id": 79,
+      "question": "Find the odd man out> 1,5,7,11,12,13,17?",
+      "options": ["7", "1", "12", "17"],
+      "correct": "12"
+    },
+    {
+      "id": 80,
+      "question": " Nanga Parbat, one of the most dangerous mountain to climb,is the ___ highest mountain ?",
+      "options": ["4th", "6th", "8th", "9th"],
+      "correct": "9th"
+    },
+    {
+      "id": 81,
+      "question": "Imam Ghazali was born and died in which city of Iran?",
+      "options": ["Qom", "Tous", "Mashhad", "Meshapur"],
+      "correct": "Tous"
+    },
+    {
+      "id": 82,
+      "question": "Which of the following is responsible for the largest amount of Oxygen of Earth?",
+      "options": ["Algae", "Trees", "Peat bogs", "Grass"],
+      "correct": "Algae"
+    },
+    {
+      "id": 83,
+      "question": "Which is the longest bone of human body?",
+      "options": ["Tibia", "Femure", "Fibufa", "Nebula"],
+      "correct": "Femure"
+    },
+    {
+      "id": 84,
+      "question": "Warsak Dam has been built on the river?",
+      "options": ["Indus", "Korang", "Kabul", "Hingoi"],
+      "correct": "Kabul"
+    },
+    {
+      "id": 85,
+      "question": "In which para of Holy Quran Surah Al-Momin is located?",
+      "options": ["24", "26", "28", "30"],
+      "correct": "24"
+    },
+    {
+      "id": 86,
+      "question": "Which of the following provision is a part of Objective Resolution?",
+      "options": ["Parliamentary system will be introduced", "Parliament must be unilateral", "president must be muslim", "Fundamental rights of minorities"],
+      "correct": "Fundamental rights of minorities"
+    },
+    {
+      "id": 87,
+      "question": "In which year did pakistan win its first olympic hockey gold medal?",
+      "options": ["1957", "1960", "1964", "1965"],
+      "correct": "1960"
+    },
+    {
+      "id": 88,
+      "question": "Which was the last major expedition led by Holy Prophet(SAWW)?",
+      "options": ["Tabook", "Conquest", "Khyber", "Badar"],
+      "correct": "Tabook"
+    },
+    {
+      "id": 89,
+      "question": "Who is the author of book Das Kapital?",
+      "options": ["Karl Marx", "Rousseau", "Hitler", "Lenin"],
+      "correct": "Karl Marx"
+    },
+    {
+      "id": 90,
+      "question": "Fill in the blank:He is a Mindful ____  his status?",
+      "options": ["For", "To", "With", "Of"],
+      "correct": "To"
+    },
+    {
+      "id": 91,
+      "question": "The famous Qissa Khawani Bazaar is located in:?",
+      "options": ["Quetta", "Multan", "Hyderabad", "Peshawar"],
+      "correct": "Peshawar"
+    },
+    {
+      "id": 92,
+      "question": "A portuguese explorer discovered the sea route from Europe to India?",
+      "options": ["Fir Francis Drake", "Captain John Cook", "Christopher Columbus", "Vasco Da Gama"],
+      "correct": "Vasco Da Gama"
+    },
+    {
+      "id": 93,
+      "question": "5/6+5/9=?",
+      "options": ["3/2", "25/54", "2/3", "30/25"],
+      "correct": "3/2"
+    },
+    {
+      "id": 94,
+      "question": "Harappa is tthe city in punjab about 24 km South West of?",
+      "options": ["Sahiwal", "Multan", "Narowal", "Lahore"],
+      "correct": "Sahiwal"
+    },
+    {
+      "id": 95,
+      "question": "Synonym of Carnivores is:",
+      "options": ["Dangerous", "Wild", "Meat eater", "trees"],
+      "correct": "Meat eater"
+    },
+    {
+      "id": 96,
+      "question": "What is the Anonym of Opaque?",
+      "options": ["Misty", "Shiny", "Covered", "Transparent"],
+      "correct": "Transparent"
+    },
+    {
+      "id": 97,
+      "question": "The headquarter of international court of justice is situated in:?",
+      "options": ["Hague", "Lisbon", "Geneva", "London"],
+      "correct": "Hague"
+    },
+    {
+      "id": 98,
+      "question": "I n which province is the town Dalbandin located?",
+      "options": ["Punjab", "Sindh", "KPK", "Balochistan"],
+      "correct": "Balochistan"
+    },
+    {
+      "id": 99,
+      "question": "Lack of vitamin c causes:?",
+      "options": ["Scurvy", "Beriberi", "Blindness", "Teeth decay"],
+      "correct": "Scurvy"
+    },
+    {
+      "id": 100,
+      "question": "What is the meaning of itikaf?",
+      "options": ["Ablution", "Prostration", "Seclusion", "Cleaning"],
+      "correct": "Seclusion"
+    }
+  ]
+}

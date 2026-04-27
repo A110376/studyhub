@@ -1,0 +1,39 @@
+{
+  "slug": "lecturer-urdu",
+  "title": "Lecturer Urdu Mock Test",
+  "duration_minutes": 90,
+  "marks_per_correct": 1,
+  "negative_mark_per_wrong": 0.25,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Urdu adab ka sab se bara shair kaun hai?",
+      "options": ["Mirza Ghalib", "Allama Iqbal", "Faiz Ahmed Faiz", "Saadat Hasan Manto"],
+      "correct": 0
+    },
+    {
+      "id": 2,
+      "question": "Urdu ki mashhoor novel 'Umrao Jaan Ada' ke musannif kaun hain?",
+      "options": ["Mir Taqi Mir", "Mirza Hadi Ruswa", "Iqbal", "Manto"],
+      "correct": 1
+    },
+    {
+      "id": 3,
+      "question": "Allama Iqbal ki mashhoor shairi ka rang kya hai?",
+      "options": ["Falsafi", "Romantic", "Historical", "Satirical"],
+      "correct": 0
+    },
+    {
+      "id": 4,
+      "question": "Urdu zuban ka asal asal mein darja kya hai?",
+      "options": ["Hindi se", "Persian aur Arabic se", "English se", "Turkish se"],
+      "correct": 1
+    },
+    {
+      "id": 5,
+      "question": "Faiz Ahmed Faiz ki shairi ka aik aham pehlu kya hai?",
+      "options": ["Romance", "Socio-political themes", "Travel", "Religion"],
+      "correct": 1
+    }
+  ]
+}
