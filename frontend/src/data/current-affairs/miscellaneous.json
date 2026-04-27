@@ -1,0 +1,584 @@
+[
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Au", "Ag", "Fe", "Pb"],
+      "answer": "Au",
+      "explanation": "The chemical symbol for gold is Au."
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": ["William Shakespeare", "Charles Dickens", "Jane Austen", "Mark Twain"],
+      "answer": "William Shakespeare",
+      "explanation": "'Romeo and Juliet' is a famous tragedy by Shakespeare."
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+      "answer": "Mars",
+      "explanation": "Mars is called the Red Planet due to its reddish appearance."
+    },
+    {
+      "question": "What is the capital city of Australia?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+      "answer": "Canberra",
+      "explanation": "Canberra is the capital of Australia."
+    },
+    {
+      "question": "Which gas do plants primarily use for photosynthesis?",
+      "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+      "answer": "Carbon Dioxide",
+      "explanation": "Plants use carbon dioxide during photosynthesis."
+    },
+    {
+      "question": "Who is known as the 'Father of the Nation' in Pakistan?",
+      "options": ["Muhammad Ali Jinnah", "Allama Iqbal", "Liaquat Ali Khan", "Zulfikar Ali Bhutto"],
+      "answer": "Muhammad Ali Jinnah",
+      "explanation": "Jinnah is called the 'Father of the Nation' in Pakistan."
+    },
+    {
+      "question": "Which device is used to measure atmospheric pressure?",
+      "options": ["Barometer", "Thermometer", "Hygrometer", "Anemometer"],
+      "answer": "Barometer",
+      "explanation": "A barometer measures atmospheric pressure."
+    },
+    {
+      "question": "What is the largest organ in the human body?",
+      "options": ["Skin", "Liver", "Heart", "Brain"],
+      "answer": "Skin",
+      "explanation": "The skin is the largest organ in the body."
+    },
+    {
+      "question": "Which element has the atomic number 1?",
+      "options": ["Hydrogen", "Helium", "Oxygen", "Carbon"],
+      "answer": "Hydrogen",
+      "explanation": "Hydrogen's atomic number is 1."
+    },
+    {
+      "question": "Who discovered penicillin?",
+      "options": ["Alexander Fleming", "Marie Curie", "Louis Pasteur", "Isaac Newton"],
+      "answer": "Alexander Fleming",
+      "explanation": "Fleming discovered penicillin in 1928."
+    },
+    {
+      "question": "Which language has the most native speakers worldwide?",
+      "options": ["Mandarin Chinese", "English", "Spanish", "Hindi"],
+      "answer": "Mandarin Chinese",
+      "explanation": "Mandarin Chinese has the highest number of native speakers."
+    },
+    {
+      "question": "What is the boiling point of water at sea level in Celsius?",
+      "options": ["100°C", "90°C", "80°C", "120°C"],
+      "answer": "100°C",
+      "explanation": "Water boils at 100°C at standard atmospheric pressure."
+    },
+    {
+      "question": "Which is the smallest prime number?",
+      "options": ["2", "1", "3", "5"],
+      "answer": "2",
+      "explanation": "2 is the smallest and the only even prime number."
+    },
+    {
+      "question": "What is the currency of Japan?",
+      "options": ["Yen", "Won", "Dollar", "Rupee"],
+      "answer": "Yen",
+      "explanation": "The official currency of Japan is Yen."
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Leonardo da Vinci", "Vincent Van Gogh", "Pablo Picasso", "Claude Monet"],
+      "answer": "Leonardo da Vinci",
+      "explanation": "Leonardo da Vinci painted the Mona Lisa."
+    },
+    {
+      "question": "Which organ is primarily responsible for filtering blood in the human body?",
+      "options": ["Kidneys", "Lungs", "Liver", "Heart"],
+      "answer": "Kidneys",
+      "explanation": "Kidneys filter waste products from blood."
+    },
+    {
+      "question": "What is the main ingredient in traditional Japanese miso soup?",
+      "options": ["Soybean paste", "Rice", "Seaweed", "Fish stock"],
+      "answer": "Soybean paste",
+      "explanation": "Miso paste, made from fermented soybeans, is the key ingredient."
+    },
+    {
+      "question": "Which continent is the largest by land area?",
+      "options": ["Asia", "Africa", "Europe", "North America"],
+      "answer": "Asia",
+      "explanation": "Asia is the largest continent."
+    },
+    {
+      "question": "Which planet has the most moons?",
+      "options": ["Saturn", "Jupiter", "Mars", "Earth"],
+      "answer": "Saturn",
+      "explanation": "Saturn currently has the highest number of moons."
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "options": ["Diamond", "Quartz", "Gold", "Iron"],
+      "answer": "Diamond",
+      "explanation": "Diamond is the hardest natural material."
+    },
+    {
+      "question": "Which year did World War II end?",
+      "options": ["1945", "1939", "1942", "1950"],
+      "answer": "1945",
+      "explanation": "World War II ended in 1945."
+    },
+    {
+      "question": "What is the largest mammal in the world?",
+      "options": ["Blue whale", "Elephant", "Giraffe", "Hippopotamus"],
+      "answer": "Blue whale",
+      "explanation": "Blue whale is the largest mammal on Earth."
+    },
+    {
+      "question": "Which organ in the human body produces insulin?",
+      "options": ["Pancreas", "Liver", "Kidney", "Heart"],
+      "answer": "Pancreas",
+      "explanation": "The pancreas produces insulin."
+    },
+    {
+      "question": "What is the main language spoken in Brazil?",
+      "options": ["Portuguese", "Spanish", "English", "French"],
+      "answer": "Portuguese",
+      "explanation": "Portuguese is the official language of Brazil."
+    },
+    {
+      "question": "Which metal is liquid at room temperature?",
+      "options": ["Mercury", "Gold", "Copper", "Silver"],
+      "answer": "Mercury",
+      "explanation": "Mercury is liquid at room temperature."
+    },
+    {
+      "question": "Which country hosted the first modern Olympic Games?",
+      "options": ["Greece", "France", "United States", "England"],
+      "answer": "Greece",
+      "explanation": "The first modern Olympics were held in Athens, Greece, in 1896."
+    },
+    {
+      "question": "What is the tallest mountain in the world?",
+      "options": ["Mount Everest", "K2", "Kangchenjunga", "Lhotse"],
+      "answer": "Mount Everest",
+      "explanation": "Mount Everest is the highest peak above sea level."
+    },
+    {
+      "question": "Who developed the theory of relativity?",
+      "options": ["Albert Einstein", "Isaac Newton", "Galileo Galilei", "Nikola Tesla"],
+      "answer": "Albert Einstein",
+      "explanation": "Einstein developed the theory of relativity."
+    },
+    {
+      "question": "Which ocean is the largest by surface area?",
+      "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+      "answer": "Pacific Ocean",
+      "explanation": "The Pacific Ocean is the largest ocean."
+    },
+    {
+      "question": "Which country is known as the Land of the Rising Sun?",
+      "options": ["Japan", "China", "South Korea", "Thailand"],
+      "answer": "Japan",
+      "explanation": "Japan is called the Land of the Rising Sun."
+    },
+    {
+      "question": "What is the freezing point of water in Fahrenheit?",
+      "options": ["32°F", "0°F", "100°F", "212°F"],
+      "answer": "32°F",
+      "explanation": "Water freezes at 32 degrees Fahrenheit."
+    },
+    {
+      "question": "Which organ is responsible for pumping blood in the body?",
+      "options": ["Heart", "Lungs", "Brain", "Kidneys"],
+      "answer": "Heart",
+      "explanation": "The heart pumps blood through the body."
+    },
+    {
+      "question": "What is the main gas found in the Earth's atmosphere?",
+      "options": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Hydrogen"],
+      "answer": "Nitrogen",
+      "explanation": "About 78% of Earth's atmosphere is nitrogen."
+    },
+    {
+      "question": "Who invented the telephone?",
+      "options": ["Alexander Graham Bell", "Thomas Edison", "Nikola Tesla", "Guglielmo Marconi"],
+      "answer": "Alexander Graham Bell",
+      "explanation": "Bell is credited with inventing the telephone."
+    },
+    {
+      "question": "Which city is known as the Big Apple?",
+      "options": ["New York City", "Los Angeles", "Chicago", "Miami"],
+      "answer": "New York City",
+      "explanation": "New York City is nicknamed the Big Apple."
+    },
+    {
+      "question": "What is the largest desert in the world?",
+      "options": ["Sahara", "Gobi", "Arctic", "Antarctic"],
+      "answer": "Antarctic",
+      "explanation": "The Antarctic desert is the largest by area."
+    },
+    {
+      "question": "Which planet is closest to the sun?",
+      "options": ["Mercury", "Venus", "Earth", "Mars"],
+      "answer": "Mercury",
+      "explanation": "Mercury is the closest planet to the sun."
+    },
+    {
+      "question": "What is the capital city of Canada?",
+      "options": ["Toronto", "Ottawa", "Vancouver", "Montreal"],
+      "answer": "Ottawa",
+      "explanation": "Ottawa is the capital of Canada."
+    },
+    {
+      "question": "Which vitamin is produced when a person is exposed to sunlight?",
+      "options": ["Vitamin D", "Vitamin A", "Vitamin C", "Vitamin B12"],
+      "answer": "Vitamin D",
+      "explanation": "Sunlight helps the skin produce vitamin D."
+    },
+    {
+      "question": "Which animal is known as the King of the Jungle?",
+      "options": ["Lion", "Tiger", "Elephant", "Leopard"],
+      "answer": "Lion",
+      "explanation": "The lion is often called the King of the Jungle."
+    },
+    {
+      "question": "What does DNA stand for?",
+      "options": ["Deoxyribonucleic Acid", "Dinucleic Acid", "Dioxynucleic Acid", "Deoxynitric Acid"],
+      "answer": "Deoxyribonucleic Acid",
+      "explanation": "DNA stands for Deoxyribonucleic Acid."
+    },
+    {
+      "question": "Which city hosted the 2016 Summer Olympics?",
+      "options": ["Rio de Janeiro", "Tokyo", "London", "Beijing"],
+      "answer": "Rio de Janeiro",
+      "explanation": "The 2016 Summer Olympics were held in Rio de Janeiro, Brazil."
+    },
+    {
+      "question": "What is the main source of energy for the Earth?",
+      "options": ["The Sun", "The Moon", "Geothermal energy", "Wind"],
+      "answer": "The Sun",
+      "explanation": "The Sun is the primary source of energy for Earth."
+    },
+    {
+      "question": "Which of the following is not a primary color?",
+      "options": ["Green", "Red", "Blue", "Yellow"],
+      "answer": "Green",
+      "explanation": "Green is a secondary color made from blue and yellow."
+    },
+    {
+      "question": "Which invention is Thomas Edison famous for?",
+      "options": ["Light bulb", "Telephone", "Radio", "Automobile"],
+      "answer": "Light bulb",
+      "explanation": "Edison is credited with inventing the practical light bulb."
+    },
+    {
+      "question": "What is the tallest animal in the world?",
+      "options": ["Giraffe", "Elephant", "Kangaroo", "Camel"],
+      "answer": "Giraffe",
+      "explanation": "Giraffes are the tallest land animals."
+    },
+    {
+      "question": "Which sea creature has three hearts?",
+      "options": ["Octopus", "Shark", "Whale", "Dolphin"],
+      "answer": "Octopus",
+      "explanation": "An octopus has three hearts."
+    },
+    {
+      "question": "Which metal is commonly used in electrical wiring?",
+      "options": ["Copper", "Iron", "Aluminum", "Silver"],
+      "answer": "Copper",
+      "explanation": "Copper is a good conductor of electricity."
+    },
+    {
+      "question": "Which country is famous for the Eiffel Tower?",
+      "options": ["France", "Italy", "Spain", "Germany"],
+      "answer": "France",
+      "explanation": "The Eiffel Tower is located in Paris, France."
+    },
+    {
+      "question": "What is the main ingredient of glass?",
+      "options": ["Sand", "Limestone", "Clay", "Salt"],
+      "answer": "Sand",
+      "explanation": "Glass is primarily made from silica sand."
+    },
+    {
+      "question": "Who was the first person to walk on the moon?",
+      "options": ["Neil Armstrong", "Buzz Aldrin", "Yuri Gagarin", "Michael Collins"],
+      "answer": "Neil Armstrong",
+      "explanation": "Neil Armstrong was the first to set foot on the moon in 1969."
+    },
+    {
+      "question": "Which scientist is known for the laws of motion?",
+      "options": ["Isaac Newton", "Albert Einstein", "Galileo Galilei", "Nikola Tesla"],
+      "answer": "Isaac Newton",
+      "explanation": "Isaac Newton formulated the three laws of motion."
+    },
+    {
+      "question": "What is the main ingredient in traditional Italian pizza?",
+      "options": ["Flour", "Rice", "Potato", "Corn"],
+      "answer": "Flour",
+      "explanation": "Pizza dough is made primarily from flour."
+    },
+    {
+      "question": "Which animal is known for its ability to change color for camouflage?",
+      "options": ["Chameleon", "Frog", "Lion", "Elephant"],
+      "answer": "Chameleon",
+      "explanation": "Chameleons can change their skin color to blend with surroundings."
+    },
+    {
+      "question": "Which planet is known for its rings?",
+      "options": ["Saturn", "Mars", "Venus", "Jupiter"],
+      "answer": "Saturn",
+      "explanation": "Saturn has prominent and visible rings."
+    },
+    {
+      "question": "What is the freezing point of water in Celsius?",
+      "options": ["0°C", "100°C", "-10°C", "32°C"],
+      "answer": "0°C",
+      "explanation": "Water freezes at 0 degrees Celsius."
+    },
+    {
+      "question": "Which is the longest river in the world?",
+      "options": ["Nile", "Amazon", "Yangtze", "Mississippi"],
+      "answer": "Nile",
+      "explanation": "The Nile is traditionally considered the longest river."
+    },
+    {
+      "question": "Who is the author of 'Harry Potter' series?",
+      "options": ["J.K. Rowling", "Stephen King", "Agatha Christie", "Roald Dahl"],
+      "answer": "J.K. Rowling",
+      "explanation": "J.K. Rowling wrote the Harry Potter books."
+    },
+    {
+      "question": "What is the smallest country in the world?",
+      "options": ["Vatican City", "Monaco", "San Marino", "Liechtenstein"],
+      "answer": "Vatican City",
+      "explanation": "Vatican City is the smallest independent country."
+    },
+    {
+      "question": "Which element is necessary for combustion?",
+      "options": ["Oxygen", "Carbon", "Nitrogen", "Hydrogen"],
+      "answer": "Oxygen",
+      "explanation": "Oxygen supports combustion."
+    },
+    {
+      "question": "What is the largest continent in terms of population?",
+      "options": ["Asia", "Africa", "Europe", "North America"],
+      "answer": "Asia",
+      "explanation": "Asia has the highest population among continents."
+    },
+    {
+      "question": "Which bird is known for its impressive mimicry skills?",
+      "options": ["Parrot", "Eagle", "Owl", "Sparrow"],
+      "answer": "Parrot",
+      "explanation": "Parrots can mimic human speech and sounds."
+    },
+    {
+      "question": "Which is the fastest land animal?",
+      "options": ["Cheetah", "Lion", "Tiger", "Horse"],
+      "answer": "Cheetah",
+      "explanation": "Cheetahs can run up to 75 mph, the fastest on land."
+    },
+    {
+      "question": "Who invented the light bulb?",
+      "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "Benjamin Franklin"],
+      "answer": "Thomas Edison",
+      "explanation": "Edison improved and patented the practical light bulb."
+    },
+    {
+      "question": "What is the capital city of Egypt?",
+      "options": ["Cairo", "Alexandria", "Giza", "Luxor"],
+      "answer": "Cairo",
+      "explanation": "Cairo is the capital of Egypt."
+    },
+    {
+      "question": "Which gas is most abundant in Earth's atmosphere?",
+      "options": ["Nitrogen", "Oxygen", "Carbon Dioxide", "Argon"],
+      "answer": "Nitrogen",
+      "explanation": "Nitrogen makes up about 78% of the atmosphere."
+    },
+    {
+      "question": "Who was the first woman to win a Nobel Prize?",
+      "options": ["Marie Curie", "Rosalind Franklin", "Dorothy Hodgkin", "Ada Lovelace"],
+      "answer": "Marie Curie",
+      "explanation": "Marie Curie was the first woman Nobel laureate."
+    },
+    {
+      "question": "Which country is known as the Land of the Midnight Sun?",
+      "options": ["Norway", "Canada", "Russia", "Sweden"],
+      "answer": "Norway",
+      "explanation": "Norway experiences midnight sun during summer."
+    },
+    {
+      "question": "Which instrument measures temperature?",
+      "options": ["Thermometer", "Barometer", "Hygrometer", "Anemometer"],
+      "answer": "Thermometer",
+      "explanation": "Thermometers measure temperature."
+    },
+    {
+      "question": "What is the main language spoken in Argentina?",
+      "options": ["Spanish", "Portuguese", "English", "French"],
+      "answer": "Spanish",
+      "explanation": "Spanish is the official language of Argentina."
+    },
+    {
+      "question": "What is the capital of Germany?",
+      "options": ["Berlin", "Munich", "Frankfurt", "Hamburg"],
+      "answer": "Berlin",
+      "explanation": "Berlin is the capital city of Germany."
+    },
+    {
+      "question": "Which planet is known as Earth's twin?",
+      "options": ["Venus", "Mars", "Mercury", "Jupiter"],
+      "answer": "Venus",
+      "explanation": "Venus is called Earth's twin due to similar size."
+    },
+    {
+      "question": "Which metal is commonly used to make coins?",
+      "options": ["Copper", "Gold", "Silver", "Iron"],
+      "answer": "Copper",
+      "explanation": "Copper is widely used in coin production."
+    },
+    {
+      "question": "What is the chemical formula for water?",
+      "options": ["H2O", "CO2", "O2", "NaCl"],
+      "answer": "H2O",
+      "explanation": "Water's chemical formula is H2O."
+    },
+    {
+      "question": "Which sea is the saltiest in the world?",
+      "options": ["Dead Sea", "Mediterranean Sea", "Red Sea", "Black Sea"],
+      "answer": "Dead Sea",
+      "explanation": "The Dead Sea has very high salt concentration."
+    },
+    {
+      "question": "Which is the largest planet in our solar system?",
+      "options": ["Jupiter", "Saturn", "Neptune", "Earth"],
+      "answer": "Jupiter",
+      "explanation": "Jupiter is the biggest planet in the solar system."
+    },
+    {
+      "question": "Who is known as the 'Mahatma'?",
+      "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Subhash Chandra Bose", "Bhagat Singh"],
+      "answer": "Mahatma Gandhi",
+      "explanation": "Gandhi was called Mahatma meaning 'Great Soul.'"
+    },
+    {
+      "question": "Which vitamin is essential for blood clotting?",
+      "options": ["Vitamin K", "Vitamin C", "Vitamin D", "Vitamin A"],
+      "answer": "Vitamin K",
+      "explanation": "Vitamin K is necessary for proper blood clotting."
+    },
+    {
+      "question": "Which city is famous for the Taj Mahal?",
+      "options": ["Agra", "Delhi", "Mumbai", "Jaipur"],
+      "answer": "Agra",
+      "explanation": "The Taj Mahal is located in Agra, India."
+    },
+    {
+      "question": "What is the fastest bird in the world?",
+      "options": ["Peregrine Falcon", "Eagle", "Sparrow", "Ostrich"],
+      "answer": "Peregrine Falcon",
+      "explanation": "The peregrine falcon is the fastest bird."
+    },
+    {
+      "question": "Which scientist developed the theory of evolution?",
+      "options": ["Charles Darwin", "Gregor Mendel", "Louis Pasteur", "Isaac Newton"],
+      "answer": "Charles Darwin",
+      "explanation": "Darwin proposed the theory of natural selection."
+    },
+    {
+      "question": "Which is the largest internal organ in the human body?",
+      "options": ["Liver", "Kidneys", "Heart", "Lungs"],
+      "answer": "Liver",
+      "explanation": "The liver is the largest internal organ."
+    },
+    {
+      "question": "What is the study of fossils called?",
+      "options": ["Paleontology", "Geology", "Archaeology", "Anthropology"],
+      "answer": "Paleontology",
+      "explanation": "Paleontology studies fossils."
+    },
+    {
+      "question": "Which element is used in nuclear reactors as fuel?",
+      "options": ["Uranium", "Iron", "Copper", "Gold"],
+      "answer": "Uranium",
+      "explanation": "Uranium is used as nuclear fuel."
+    },
+    {
+      "question": "Which country gifted the Statue of Liberty to the USA?",
+      "options": ["France", "England", "Germany", "Italy"],
+      "answer": "France",
+      "explanation": "France gifted the Statue of Liberty in 1886."
+    },
+    {
+      "question": "What does HTTP stand for in web addresses?",
+      "options": ["HyperText Transfer Protocol", "HyperText Transmission Program", "HighText Transfer Protocol", "Hyperlink Transfer Protocol"],
+      "answer": "HyperText Transfer Protocol",
+      "explanation": "HTTP is the protocol for web communication."
+    },
+    {
+      "question": "Which planet is known as the Morning Star or Evening Star?",
+      "options": ["Venus", "Mars", "Mercury", "Jupiter"],
+      "answer": "Venus",
+      "explanation": "Venus is visible just before sunrise or after sunset."
+    },
+    {
+      "question": "Which country is famous for tulips and windmills?",
+      "options": ["Netherlands", "Belgium", "Denmark", "Sweden"],
+      "answer": "Netherlands",
+      "explanation": "The Netherlands is famous for tulips and windmills."
+    },
+    {
+      "question": "What is the primary source of vitamin C?",
+      "options": ["Citrus fruits", "Carrots", "Meat", "Milk"],
+      "answer": "Citrus fruits",
+      "explanation": "Citrus fruits are rich in vitamin C."
+    },
+    {
+      "question": "Who was the first president of the United States?",
+      "options": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+      "answer": "George Washington",
+      "explanation": "Washington was the first US president."
+    },
+    {
+      "question": "What is the name of the longest bone in the human body?",
+      "options": ["Femur", "Tibia", "Humerus", "Fibula"],
+      "answer": "Femur",
+      "explanation": "The femur is the longest bone."
+    },
+    {
+      "question": "Which planet is known for having a Great Red Spot?",
+      "options": ["Jupiter", "Saturn", "Neptune", "Mars"],
+      "answer": "Jupiter",
+      "explanation": "Jupiter's Great Red Spot is a giant storm."
+    },
+    {
+      "question": "Which city is known as the City of Love?",
+      "options": ["Paris", "Rome", "Venice", "New York"],
+      "answer": "Paris",
+      "explanation": "Paris is famously called the City of Love."
+    },
+    {
+      "question": "Which organ in the body is primarily responsible for digestion?",
+      "options": ["Stomach", "Liver", "Kidney", "Lungs"],
+      "answer": "Stomach",
+      "explanation": "The stomach breaks down food during digestion."
+    },
+    {
+      "question": "Which metal is used to make aircraft bodies due to its light weight?",
+      "options": ["Aluminum", "Steel", "Copper", "Lead"],
+      "answer": "Aluminum",
+      "explanation": "Aluminum is lightweight and used in aircraft."
+    },
+    {
+      "question": "Which is the largest island in the world?",
+      "options": ["Greenland", "Madagascar", "Borneo", "New Guinea"],
+      "answer": "Greenland",
+      "explanation": "Greenland is the world's largest island."
+    },
+    {
+      "question": "What is the most abundant element in the universe?",
+      "options": ["Hydrogen", "Oxygen", "Carbon", "Helium"],
+      "answer": "Hydrogen",
+      "explanation": "Hydrogen is the most abundant element in the universe."
+    }
+  ]

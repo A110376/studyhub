@@ -1,0 +1,524 @@
+[
+  {
+    "question": "Punjab’s FY 2025‑26 budget allocated how much for environment and climate‑change initiatives?",
+    "options": ["Rs 5 bn", "Rs 15 bn", "Rs 40 bn", "Rs 795 bn"],
+    "answer": "Rs 15 bn",
+    "explanation": "Punjab government allocated Rs 15 billion for environment & climate‑change programs in FY 25‑26, covering climate observatory, enforcement, and youth internship schemes."
+  },
+  {
+    "question": "What percentage of Punjab’s Annual Development Programme (ADP) budget was tagged for climate-resilient projects in FY 2025-26?",
+    "options": ["25%", "50%", "64%", "80%"],
+    "answer": "64%",
+    "explanation": "About 64% of Punjab’s ADP (~Rs 1.24 trillion) was allocated to climate change adaptation, mitigation, and protection projects."
+  },
+  {
+    "question": "Which flagship program received a US$ 300 million World Bank concessional loan to support Punjab’s smog mitigation efforts?",
+    "options": ["Living Indus Initiative", "Punjab Clean Air Program", "Suthra Punjab", "Green Agri Mall"],
+    "answer": "Punjab Clean Air Program",
+    "explanation": "World Bank approved a $300 million loan for Punjab Clean Air Program (PCAP) focused on smog mitigation."
+  },
+  {
+    "question": "What subsidy program did Punjab launch to discourage crop residue burning and reduce air pollution?",
+    "options": ["Emissions Testing Subsidy", "Electric Bus Subsidy", "Super Seeder Subsidy", "Plastic Management Subsidy"],
+    "answer": "Super Seeder Subsidy",
+    "explanation": "Punjab launched a Rs 5.6 billion Super Seeder Subsidy to replace stubble burning with mechanized ploughing."
+  },
+  {
+    "question": "What new institutional body was created by Punjab to enforce the single-use plastic ban?",
+    "options": ["Plastic Management Cell", "Environment Protection Force", "Climate Observatory", "Green Building Authority"],
+    "answer": "Plastic Management Cell",
+    "explanation": "Punjab established a Plastic Management Cell under the EPA to enforce the plastic ban."
+  },
+  {
+    "question": "How much budget was allocated for establishing the Climate Observatory in Punjab in FY 25-26?",
+    "options": ["Rs 0.3 bn", "Rs 1 bn", "Rs 3 bn", "Rs 5 bn"],
+    "answer": "Rs 3 bn",
+    "explanation": "Rs 3 billion was allocated to the Climate Observatory project as part of a Rs 5 billion total estimated cost."
+  },
+  {
+    "question": "What amount was budgeted for creating the Environment Protection Force across Punjab in FY 2025-26?",
+    "options": ["Rs 0.5 bn", "Rs 1.948 bn", "Rs 3 bn", "Rs 5 bn"],
+    "answer": "Rs 1.948 bn",
+    "explanation": "Rs 1.948 billion allocated for establishing an Environment Protection Force across 10 zones."
+  },
+  {
+    "question": "Which sector received the highest budget allocation within Punjab’s climate-related ADP for FY 2025-26?",
+    "options": ["Clean energy", "Waste management", "Air quality monitoring", "Water resource management"],
+    "answer": "Air quality monitoring",
+    "explanation": "Significant funds were allocated for air quality monitoring stations and smog mitigation under PCAP."
+  },
+  {
+    "question": "How many electric buses did Punjab plan to introduce as part of its Clean Air efforts in FY 25-26?",
+    "options": ["500", "1,000", "3,000", "6,000"],
+    "answer": "3,000",
+    "explanation": "Punjab planned to introduce 3,000 electric buses to reduce vehicular emissions."
+  },
+  {
+    "question": "What was the primary goal of Punjab’s 'Suthra Punjab' project?",
+    "options": ["Plastic recycling", "Waste management and sanitation", "Water conservation", "Energy efficiency"],
+    "answer": "Waste management and sanitation",
+    "explanation": "'Suthra Punjab' aims to improve solid waste management and sanitation services."
+  },
+  {
+    "question": "How much funding was allocated for the 'Suthra Punjab' project in FY 2025-26?",
+    "options": ["Rs 500 million", "Rs 1.2 billion", "Rs 5 billion", "Rs 15 billion"],
+    "answer": "Rs 1.2 billion",
+    "explanation": "Rs 1.2 billion allocated to Suthra Punjab to enhance solid waste and sanitation infrastructure."
+  },
+  {
+    "question": "Which provincial department is primarily responsible for climate change initiatives in Punjab?",
+    "options": ["Punjab Environmental Protection Agency (EPA)", "Punjab Agriculture Department", "Punjab Water Authority", "Punjab Transport Department"],
+    "answer": "Punjab Environmental Protection Agency (EPA)",
+    "explanation": "Punjab EPA oversees environment protection and climate change mitigation programs."
+  },
+  {
+    "question": "Punjab’s Clean Air Program targets a reduction in smog during which months of the year?",
+    "options": ["April to June", "December to February", "September to November", "July to August"],
+    "answer": "December to February",
+    "explanation": "Smog peaks in winter months; PCAP focuses on December to February for air quality improvements."
+  },
+  {
+    "question": "What technology is Punjab promoting through subsidies to reduce crop residue burning?",
+    "options": ["Super Seeder", "Tractor Plough", "Rotavator", "Zero Tillage Seeder"],
+    "answer": "Super Seeder",
+    "explanation": "Super Seeder technology allows sowing seeds without burning crop residue."
+  },
+  {
+    "question": "Punjab plans to generate how much electricity via renewable sources by 2030 as per its environment policy?",
+    "options": ["5,000 MW", "10,000 MW", "15,000 MW", "20,000 MW"],
+    "answer": "15,000 MW",
+    "explanation": "Punjab aims to generate 15,000 MW from renewables by 2030 under its clean energy roadmap."
+  },
+  {
+    "question": "Which international organization partnered with Punjab for technical and financial assistance in climate projects?",
+    "options": ["United Nations Development Programme (UNDP)", "Asian Development Bank (ADB)", "World Bank", "International Monetary Fund (IMF)"],
+    "answer": "World Bank",
+    "explanation": "World Bank provided concessional loans and technical support for Punjab Clean Air and climate projects."
+  },
+  {
+    "question": "What role does the 'Climate Resilient Punjab' framework play in provincial planning?",
+    "options": ["Promotes industrial growth", "Coordinates climate change adaptation and mitigation", "Expands transport infrastructure", "Develops tourism"],
+    "answer": "Coordinates climate change adaptation and mitigation",
+    "explanation": "The framework integrates climate considerations into all provincial development."
+  },
+  {
+    "question": "Which Pakistani province has allocated the largest percentage of its ADP to climate projects as of FY 2025-26?",
+    "options": ["Punjab", "Sindh", "Khyber Pakhtunkhwa", "Balochistan"],
+    "answer": "Punjab",
+    "explanation": "Punjab leads with 64% of ADP climate-tagged, highest among provinces."
+  },
+  {
+    "question": "Punjab’s plastic ban primarily targets which category of plastics?",
+    "options": ["Single-use plastics", "Industrial plastics", "Agricultural plastics", "Recycled plastics"],
+    "answer": "Single-use plastics",
+    "explanation": "Ban applies to single-use plastics like bags and straws."
+  },
+  {
+    "question": "What educational initiative has Punjab launched to promote environmental awareness among youth?",
+    "options": ["Green Schools Program", "Climate Internship Scheme", "Youth Environmental Corps", "Eco Champions Network"],
+    "answer": "Climate Internship Scheme",
+    "explanation": "Scheme engages youth in environment projects and climate change research."
+  },
+  {
+    "question": "Which agency is responsible for monitoring air quality in Lahore and other major cities in Punjab?",
+    "options": ["Punjab Environmental Protection Agency (EPA)", "Pakistan Meteorological Department", "Punjab Urban Development Authority", "Pakistan Environmental Society"],
+    "answer": "Punjab Environmental Protection Agency (EPA)",
+    "explanation": "Punjab EPA runs air quality monitoring stations."
+  },
+  {
+    "question": "Punjab Clean Air Program’s budget includes funding for which air pollution monitoring equipment?",
+    "options": ["Smog towers", "Air quality monitoring stations", "Industrial emissions sensors", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "PCAP funds include smog towers, AQ monitoring stations, and sensors."
+  },
+  {
+    "question": "The 'Living Indus Initiative' focuses primarily on what environmental challenge?",
+    "options": ["Water security and climate resilience", "Forest conservation", "Urban air pollution", "Marine biodiversity"],
+    "answer": "Water security and climate resilience",
+    "explanation": "Living Indus Initiative targets water conservation and climate adaptation."
+  },
+  {
+    "question": "What innovative project did Punjab launch to treat wastewater for irrigation reuse?",
+    "options": ["K-IV Water Project", "Ravi River Cleanup", "Sustainable Sewage Project", "Green Irrigation Plan"],
+    "answer": "K-IV Water Project",
+    "explanation": "K-IV aims to treat wastewater and supply clean water for irrigation."
+  },
+  {
+    "question": "Punjab’s climate finance strategy includes revenue from which of the following?",
+    "options": ["Carbon credits", "Water tariffs", "Fuel taxes", "Renewable energy certificates"],
+    "answer": "Carbon credits",
+    "explanation": "Punjab aims to generate revenue by trading carbon credits internationally."
+  },
+  {
+    "question": "Which of the following is a key objective of the Environment Protection Force in Punjab?",
+    "options": ["Enforce environmental laws", "Conduct public awareness campaigns", "Support industrial audits", "Manage renewable energy projects"],
+    "answer": "Enforce environmental laws",
+    "explanation": "The force enforces environmental regulations and penalizes violations."
+  },
+  {
+    "question": "How many zones will the Punjab Environment Protection Force cover initially?",
+    "options": ["5", "8", "10", "12"],
+    "answer": "10",
+    "explanation": "The force will operate in 10 zones for effective enforcement."
+  },
+  {
+    "question": "What percentage reduction in air pollution does Punjab target by 2030 under its clean air strategy?",
+    "options": ["10%", "25%", "40%", "50%"],
+    "answer": "40%",
+    "explanation": "Punjab aims to reduce key air pollutants by 40% by 2030."
+  },
+  {
+    "question": "Punjab’s anti-stubble burning subsidy aims to cover what percentage of the cost for farmers?",
+    "options": ["25%", "50%", "75%", "100%"],
+    "answer": "75%",
+    "explanation": "The subsidy covers 75% of Super Seeder machinery costs."
+  },
+  {
+    "question": "The Punjab Climate Change Act was enacted in which year?",
+    "options": ["2017", "2019", "2021", "2023"],
+    "answer": "2017",
+    "explanation": "The Act passed in 2017 to provide legal framework for climate action."
+  },
+  {
+    "question": "Punjab’s Environment Department plans to plant how many trees annually as part of its green initiative?",
+    "options": ["1 million", "5 million", "10 million", "15 million"],
+    "answer": "10 million",
+    "explanation": "The department aims to plant 10 million trees each year."
+  },
+  {
+    "question": "Punjab’s Clean Air Program includes the installation of how many air quality monitoring stations?",
+    "options": ["10", "20", "30", "50"],
+    "answer": "30",
+    "explanation": "PCAP plans 30 AQ monitoring stations in urban and industrial areas."
+  },
+  {
+    "question": "What role do electric buses play in Punjab’s clean air efforts?",
+    "options": ["Replace diesel buses", "Reduce urban air pollution", "Encourage green transport", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Electric buses help replace polluting vehicles and promote clean transport."
+  },
+  {
+    "question": "Which provincial capital city hosts the Punjab Climate Observatory?",
+    "options": ["Lahore", "Multan", "Faisalabad", "Rawalpindi"],
+    "answer": "Lahore",
+    "explanation": "The observatory is located in Lahore to monitor climate data."
+  },
+  {
+    "question": "Punjab’s smog mitigation efforts include collaboration with which federal ministry?",
+    "options": ["Ministry of Climate Change", "Ministry of Environment", "Ministry of Transport", "Ministry of Health"],
+    "answer": "Ministry of Climate Change",
+    "explanation": "Collaboration on policies and funding for smog reduction."
+  },
+  {
+    "question": "Which sector is a priority in Punjab’s adaptation strategy to climate change?",
+    "options": ["Agriculture", "Manufacturing", "Tourism", "Mining"],
+    "answer": "Agriculture",
+    "explanation": "Agriculture is prioritized due to vulnerability to climate impacts."
+  },
+  {
+    "question": "Punjab’s waste-to-energy plants are expected to produce how much electricity by 2030?",
+    "options": ["50 MW", "100 MW", "250 MW", "500 MW"],
+    "answer": "100 MW",
+    "explanation": "Waste-to-energy projects planned to generate 100 MW by 2030."
+  },
+  {
+    "question": "What is the main source of PM2.5 air pollution in Punjab during winter?",
+    "options": ["Crop residue burning", "Industrial emissions", "Vehicle exhaust", "Household heating"],
+    "answer": "Crop residue burning",
+    "explanation": "Crop residue burning is the primary contributor to winter smog."
+  },
+  {
+    "question": "Punjab’s climate change action plans include public awareness campaigns primarily through which medium?",
+    "options": ["TV and radio", "Social media", "Community workshops", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Multiple channels are used to maximize outreach."
+  },
+  {
+    "question": "Punjab’s 'Green Building Code' aims to achieve what main objective?",
+    "options": ["Energy efficiency", "Waste reduction", "Water conservation", "Air pollution control"],
+    "answer": "Energy efficiency",
+    "explanation": "Green Building Code promotes energy-efficient construction."
+  },
+  {
+    "question": "Which Punjab city has the highest number of smog-related emergency hospital admissions in recent years?",
+    "options": ["Lahore", "Faisalabad", "Gujranwala", "Sialkot"],
+    "answer": "Lahore",
+    "explanation": "Lahore suffers the worst smog, leading to more hospital admissions."
+  },
+  {
+    "question": "What technology does Punjab promote to reduce indoor air pollution in rural homes?",
+    "options": ["Improved cookstoves", "Electric heaters", "Solar lamps", "Air purifiers"],
+    "answer": "Improved cookstoves",
+    "explanation": "Efficient cookstoves reduce indoor smoke and health risks."
+  },
+  {
+    "question": "Which international climate agreement is Pakistan a signatory to, influencing Punjab’s climate policies?",
+    "options": ["Kyoto Protocol", "Paris Agreement", "Montreal Protocol", "Doha Amendment"],
+    "answer": "Paris Agreement",
+    "explanation": "Pakistan follows commitments under the Paris Agreement."
+  },
+  {
+    "question": "Punjab’s climate adaptation fund is primarily sourced from which of the following?",
+    "options": ["Provincial budget", "International grants", "Carbon trading", "Public-private partnerships"],
+    "answer": "Provincial budget",
+    "explanation": "Major funding comes from provincial allocations."
+  },
+  {
+    "question": "How does Punjab plan to involve private sector in environmental initiatives?",
+    "options": ["Public-private partnerships", "Tax incentives", "Green bonds", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Multiple approaches encourage private sector involvement."
+  },
+  {
+    "question": "Which major river’s water quality is Punjab actively monitoring under its environmental programs?",
+    "options": ["Indus", "Jhelum", "Chenab", "Ravi"],
+    "answer": "Ravi",
+    "explanation": "Punjab monitors Ravi River water quality for pollution control."
+  },
+  {
+    "question": "Punjab’s FY 2025-26 budget included funds for improving which of the following in urban areas?",
+    "options": ["Public parks", "Waste collection", "Sewage treatment", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Funds target multiple urban environment improvements."
+  },
+  {
+    "question": "Which ministry oversees environmental policy at the federal level in Pakistan?",
+    "options": ["Ministry of Climate Change", "Ministry of Environment", "Ministry of Natural Resources", "Ministry of Science and Technology"],
+    "answer": "Ministry of Climate Change",
+    "explanation": "This ministry coordinates national environment and climate policies."
+  },
+  {
+    "question": "Which renewable energy source is most widely promoted in Punjab’s clean energy plans?",
+    "options": ["Solar", "Wind", "Hydropower", "Biomass"],
+    "answer": "Solar",
+    "explanation": "Solar energy receives the largest focus in Punjab’s renewable plans."
+  },
+  {
+    "question": "Punjab’s urban tree-planting drives aim to increase canopy cover by what percent by 2030?",
+    "options": ["5%", "10%", "15%", "20%"],
+    "answer": "15%",
+    "explanation": "Urban canopy cover targeted to increase by 15% to improve air quality."
+  },
+  {
+    "question": "Which of these sectors does Punjab’s Climate Resilient Punjab framework NOT explicitly target?",
+    "options": ["Health", "Transport", "Agriculture", "Mining"],
+    "answer": "Mining",
+    "explanation": "Mining is not explicitly included in Punjab’s climate resilience plans."
+  },
+  {
+    "question": "Punjab's anti-pollution campaigns often intensify before which seasonal event?",
+    "options": ["Monsoon", "Winter", "Spring", "Summer"],
+    "answer": "Winter",
+    "explanation": "Campaigns increase before winter due to smog and cold air trapping pollutants."
+  },
+  {
+    "question": "Punjab’s 'Plastic Management Cell' is tasked with what primary responsibility?",
+    "options": ["Ban enforcement", "Plastic recycling", "Public education", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "The cell enforces bans, promotes recycling, and educates the public."
+  },
+  {
+    "question": "Punjab’s FY 2025-26 budget includes a focus on which of the following clean technologies?",
+    "options": ["Electric vehicles", "Solar street lights", "Waste-to-energy plants", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Budget provisions include electric vehicles, solar lighting, and waste energy projects."
+  },
+  {
+    "question": "Which organization provides technical support for Punjab’s air quality monitoring network?",
+    "options": ["World Health Organization (WHO)", "Pakistan Meteorological Department", "Punjab EPA", "UN Environment Programme"],
+    "answer": "Pakistan Meteorological Department",
+    "explanation": "PMD assists with technical expertise on air quality monitoring."
+  },
+  {
+    "question": "What role do community-based organizations play in Punjab’s environmental programs?",
+    "options": ["Awareness raising", "Monitoring enforcement", "Implementing projects", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Communities are involved in awareness, monitoring, and project implementation."
+  },
+  {
+    "question": "Which of the following is a major challenge to Punjab’s clean air goals?",
+    "options": ["Cross-border pollution", "Vehicle emissions", "Crop burning", "All of the above"],
+    "answer": "All of the above",
+    "explanation": "Multiple factors including transboundary pollution challenge air quality."
+  },
+  {
+    "question": "Punjab’s environment ministry plans to increase green spaces by what percentage in the next 5 years?",
+    "options": ["10%", "20%", "30%", "40%"],
+    "answer": "20%",
+    "explanation": "Plans aim to increase green spaces in urban areas by 20%."
+  },
+  {
+    "question": "Punjab ki FY 2025-26 budget mein climate change ke liye kitna paisa allocate kiya gaya hai?",
+    "options": ["Rs 10 bn", "Rs 15 bn", "Rs 25 bn", "Rs 50 bn"],
+    "answer": "Rs 15 bn",
+    "explanation": "Punjab ne FY 25-26 mein climate initiatives ke liye Rs 15 billion allocate kiye hain."
+  },
+  {
+    "question": "FY 2025-26 mein Punjab ke Annual Development Programme ka kitna hissa climate resilience projects ke liye hai?",
+    "options": ["45%", "64%", "70%", "85%"],
+    "answer": "64%",
+    "explanation": "Punjab ne apne ADP ka 64% climate-related projects ke liye allocate kiya hai."
+  },
+  {
+    "question": "Punjab Clean Air Program ke liye World Bank ne kitni loan provide ki hai?",
+    "options": ["US$ 100 million", "US$ 200 million", "US$ 300 million", "US$ 400 million"],
+    "answer": "US$ 300 million",
+    "explanation": "World Bank ne Punjab Clean Air Program ke liye $300 million ka concessional loan approve kiya."
+  },
+  {
+    "question": "Crop residue burning rokne ke liye Punjab ne konsa subsidy scheme launch kiya hai?",
+    "options": ["Super Seeder Subsidy", "Electric Tractor Subsidy", "Solar Pump Subsidy", "Plastic Ban Subsidy"],
+    "answer": "Super Seeder Subsidy",
+    "explanation": "Super Seeder Subsidy ke zariye stubble burning ko kam karna target kiya gaya hai."
+  },
+  {
+    "question": "Punjab mein single-use plastic ban enforce karne ke liye konsa naya body banaya gaya hai?",
+    "options": ["Plastic Control Authority", "Plastic Management Cell", "Environmental Protection Squad", "Green Task Force"],
+    "answer": "Plastic Management Cell",
+    "explanation": "Plastic Management Cell ko EPA ke under banaya gaya hai plastic ban enforce karne ke liye."
+  },
+  {
+    "question": "Climate Observatory establish karne ke liye Punjab ne kitna budget allocate kiya hai?",
+    "options": ["Rs 1 billion", "Rs 2 billion", "Rs 3 billion", "Rs 4 billion"],
+    "answer": "Rs 3 billion",
+    "explanation": "Climate Observatory ke liye Rs 3 billion allocate kiye gaye hain."
+  },
+  {
+    "question": "Environment Protection Force ki banawat aur operation ke liye kitna paisa allocate hua hai?",
+    "options": ["Rs 1 billion", "Rs 1.948 billion", "Rs 2.5 billion", "Rs 3 billion"],
+    "answer": "Rs 1.948 billion",
+    "explanation": "Rs 1.948 billion Punjab ne Environment Protection Force ke liye allocate kiye hain."
+  },
+  {
+    "question": "Punjab ke climate-related ADP mein sabse zyada funding kis sector ko di gayi hai?",
+    "options": ["Clean energy", "Water management", "Air quality monitoring", "Waste management"],
+    "answer": "Air quality monitoring",
+    "explanation": "Air quality monitoring aur smog control ko sabse zyada funds mile hain."
+  },
+  {
+    "question": "Clean Air Program ke tehat Punjab kitne electric buses introduce karne ka plan bana raha hai?",
+    "options": ["1,000", "2,000", "3,000", "5,000"],
+    "answer": "3,000",
+    "explanation": "Punjab ne 3,000 electric buses introduce karne ka plan banaya hai taake air pollution kam ho."
+  },
+  {
+    "question": "'Suthra Punjab' project ka primary focus kya hai?",
+    "options": ["Water conservation", "Waste management", "Renewable energy", "Forest conservation"],
+    "answer": "Waste management",
+    "explanation": "'Suthra Punjab' ka maksad solid waste management aur sanitation sudharna hai."
+  },
+  {
+    "question": "'Suthra Punjab' ke liye kitna fund allocate kiya gaya hai FY 2025-26 mein?",
+    "options": ["Rs 500 million", "Rs 1.2 billion", "Rs 2 billion", "Rs 3 billion"],
+    "answer": "Rs 1.2 billion",
+    "explanation": "Rs 1.2 billion 'Suthra Punjab' ke liye allocate kiya gaya hai."
+  },
+  {
+    "question": "Climate change initiatives Punjab mein kis department ke zimme hain?",
+    "options": ["Punjab Agriculture Department", "Punjab EPA", "Punjab Water Authority", "Punjab Transport Department"],
+    "answer": "Punjab EPA",
+    "explanation": "Punjab Environmental Protection Agency climate change projects ki lead karti hai."
+  },
+  {
+    "question": "Punjab Clean Air Program smog mitigation ke liye kis season par focus karta hai?",
+    "options": ["April to June", "December to February", "July to September", "October to November"],
+    "answer": "December to February",
+    "explanation": "Smog zyada winter months mein hota hai isliye December se February tak focus hai."
+  },
+  {
+    "question": "Punjab ne kis technology ko promote karne ke liye subsidy launch ki hai jo crop residue burning ko rokta hai?",
+    "options": ["Super Seeder", "Rotavator", "Zero Tillage Seeder", "Tractor Plough"],
+    "answer": "Super Seeder",
+    "explanation": "Super Seeder technology crop residue burning kam karne mein madad karti hai."
+  },
+  {
+    "question": "Punjab ki renewable energy generation target 2030 tak kya hai?",
+    "options": ["5,000 MW", "10,000 MW", "15,000 MW", "20,000 MW"],
+    "answer": "15,000 MW",
+    "explanation": "Punjab 2030 tak 15,000 MW renewable electricity generate karne ka goal rakhta hai."
+  },
+  {
+    "question": "Climate projects ke liye Punjab ne kaun si international organization se partnership ki hai?",
+    "options": ["UNDP", "Asian Development Bank", "World Bank", "IMF"],
+    "answer": "World Bank",
+    "explanation": "World Bank ne Punjab ke Clean Air projects ke liye funding aur technical support di hai."
+  },
+  {
+    "question": "'Climate Resilient Punjab' framework ka kya maqsad hai?",
+    "options": ["Transport development", "Climate adaptation aur mitigation coordination", "Tourism promotion", "Industrial growth"],
+    "answer": "Climate adaptation aur mitigation coordination",
+    "explanation": "Yeh framework climate changes se deal karne ke liye strategy banata hai."
+  },
+  {
+    "question": "Sabse zyada climate-related ADP allocation kis Pakistani province mein hai FY 2025-26 ke mutabiq?",
+    "options": ["Punjab", "Sindh", "KP", "Balochistan"],
+    "answer": "Punjab",
+    "explanation": "Punjab ne apne ADP ka 64% climate projects ke liye allocate kiya hai jo sabse zyada hai."
+  },
+  {
+    "question": "Punjab ka plastic ban kis qisam ke plastics par apply hota hai?",
+    "options": ["Industrial plastics", "Single-use plastics", "Agricultural plastics", "Recycled plastics"],
+    "answer": "Single-use plastics",
+    "explanation": "Ban sirf single-use plastics jaise bags aur straws par hai."
+  },
+  {
+    "question": "Youth ko environmental awareness dene ke liye Punjab ne kaun sa program launch kiya hai?",
+    "options": ["Climate Internship Scheme", "Green Schools", "Youth Environmental Corps", "Eco Champions"],
+    "answer": "Climate Internship Scheme",
+    "explanation": "Is scheme ke zariye youth ko environment projects mein involve kiya jata hai."
+  },
+  {
+    "question": "Lahore mein air quality monitor karne wali agency kaun si hai?",
+    "options": ["Punjab EPA", "Pakistan Meteorological Department", "Urban Development Authority", "Pakistan Environmental Society"],
+    "answer": "Punjab EPA",
+    "explanation": "Punjab EPA air quality monitoring stations chalata hai."
+  },
+  {
+    "question": "Punjab Clean Air Program ke budget mein air pollution monitor karne ke liye kya shamil hai?",
+    "options": ["Smog towers", "Air quality stations", "Industrial sensors", "Sab kuch"],
+    "answer": "Sab kuch",
+    "explanation": "PCAP mein smog towers, monitoring stations aur sensors sab shamil hain."
+  },
+  {
+    "question": "'Living Indus Initiative' ka focus kya hai?",
+    "options": ["Water security", "Forest conservation", "Urban air pollution", "Marine biodiversity"],
+    "answer": "Water security",
+    "explanation": "Is initiative ka maksad water conservation aur climate resilience hai."
+  },
+  {
+    "question": "Punjab ne wastewater ko irrigation ke liye treat karne ke liye kaunsa project launch kiya hai?",
+    "options": ["K-IV Water Project", "Ravi River Cleanup", "Sewage Treatment Project", "Green Irrigation Plan"],
+    "answer": "K-IV Water Project",
+    "explanation": "K-IV project wastewater treatment aur irrigation ke liye clean water provide karta hai."
+  },
+  {
+    "question": "Punjab climate finance strategy mein revenue kis cheez se aata hai?",
+    "options": ["Carbon credits", "Water tariffs", "Fuel taxes", "Renewable certificates"],
+    "answer": "Carbon credits",
+    "explanation": "Punjab carbon credits trading se revenue generate karta hai."
+  },
+  {
+    "question": "Environment Protection Force ka primary objective kya hai?",
+    "options": ["Environmental law enforcement", "Public awareness", "Industrial audits", "Renewable projects"],
+    "answer": "Environmental law enforcement",
+    "explanation": "Yeh force environmental laws ko enforce karta hai."
+  },
+  {
+    "question": "Punjab Environment Protection Force initially kitne zones mein kaam karegi?",
+    "options": ["5", "8", "10", "12"],
+    "answer": "10",
+    "explanation": "Yeh force 10 zones mein operate karegi."
+  },
+  {
+    "question": "Punjab clean air strategy ke tehat 2030 tak kitni air pollution reduction target ki gayi hai?",
+    "options": ["10%", "25%", "40%", "50%"],
+    "answer": "40%",
+    "explanation": "Punjab ka goal hai ke 2030 tak air pollution 40% kam ho."
+  },
+  {
+    "question": "Super Seeder subsidy kitna cost farmers ke liye cover karti hai?",
+    "options": ["25%", "50%", "75%", "100%"],
+    "answer": "75%",
+    "explanation": "Subsidy 75% machinery cost cover karti hai."
+  }
+]

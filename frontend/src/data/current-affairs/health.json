@@ -1,0 +1,542 @@
+ [
+    {
+      "question": "What is the leading cause of maternal mortality in Pakistan?",
+      "options": ["Hemorrhage", "Eclampsia", "Sepsis", "Obstructed labor"],
+      "answer": "Hemorrhage",
+      "explanation": "Hemorrhage is the primary cause of maternal deaths in Pakistan."
+    },
+    {
+      "question": "Which disease is the major cause of child mortality in Punjab?",
+      "options": ["Diarrhea", "Pneumonia", "Malaria", "Measles"],
+      "answer": "Pneumonia",
+      "explanation": "Pneumonia is a leading cause of child deaths in Punjab."
+    },
+    {
+      "question": "What percentage of Pakistan’s GDP is allocated to the health sector?",
+      "options": ["0.5%", "1.2%", "2%", "3%"],
+      "answer": "1.2%",
+      "explanation": "Pakistan allocates approximately 1.2% of GDP to health."
+    },
+    {
+      "question": "Which program is responsible for immunization coverage in Punjab?",
+      "options": ["EPI (Expanded Program on Immunization)", "Punjab Health Initiative", "National Vaccination Program", "Child Health Program"],
+      "answer": "EPI (Expanded Program on Immunization)",
+      "explanation": "EPI manages immunization services in Punjab and Pakistan."
+    },
+    {
+      "question": "What is the most prevalent communicable disease in rural Punjab?",
+      "options": ["Tuberculosis", "Malaria", "Hepatitis C", "Typhoid"],
+      "answer": "Tuberculosis",
+      "explanation": "TB remains widespread in rural Punjab."
+    },
+    {
+      "question": "Which organization oversees health policy in Punjab?",
+      "options": ["Punjab Health Department", "Federal Ministry of Health", "WHO Pakistan", "Punjab Medical Association"],
+      "answer": "Punjab Health Department",
+      "explanation": "The provincial health department manages Punjab’s health policies."
+    },
+    {
+      "question": "What is the infant mortality rate in Pakistan according to PPSC 2025 data?",
+      "options": ["45 per 1000 live births", "55 per 1000 live births", "60 per 1000 live births", "70 per 1000 live births"],
+      "answer": "55 per 1000 live births",
+      "explanation": "Infant mortality rate is approximately 55 per 1000 live births."
+    },
+    {
+      "question": "Which vaccine was introduced recently under the EPI in Punjab?",
+      "options": ["Rotavirus vaccine", "BCG vaccine", "Polio vaccine", "Measles vaccine"],
+      "answer": "Rotavirus vaccine",
+      "explanation": "Rotavirus vaccine was added to prevent severe diarrhea."
+    },
+    {
+      "question": "Which program focuses on tuberculosis control in Pakistan?",
+      "options": ["DOTS (Directly Observed Treatment, Short-course)", "TB Eradication Program", "Punjab TB Control Initiative", "National Respiratory Program"],
+      "answer": "DOTS (Directly Observed Treatment, Short-course)",
+      "explanation": "DOTS is the WHO-recommended TB control strategy."
+    },
+    {
+      "question": "What is the most common non-communicable disease in Punjab?",
+      "options": ["Diabetes", "Hypertension", "Cancer", "Chronic respiratory diseases"],
+      "answer": "Diabetes",
+      "explanation": "Diabetes prevalence is increasing rapidly in Punjab."
+    },
+    {
+      "question": "Which ministry manages health care at the federal level in Pakistan?",
+      "options": ["Ministry of National Health Services", "Ministry of Education", "Ministry of Social Welfare", "Ministry of Planning"],
+      "answer": "Ministry of National Health Services",
+      "explanation": "This ministry oversees federal health policies."
+    },
+    {
+      "question": "Which disease eradication program has been most successful in Pakistan?",
+      "options": ["Polio Eradication Program", "Malaria Control Program", "Hepatitis C Elimination", "Dengue Control Program"],
+      "answer": "Polio Eradication Program",
+      "explanation": "Polio cases have reduced significantly due to focused efforts."
+    },
+    {
+      "question": "What is the leading cause of blindness in Punjab?",
+      "options": ["Cataract", "Glaucoma", "Diabetic Retinopathy", "Trachoma"],
+      "answer": "Cataract",
+      "explanation": "Cataract is the main cause of preventable blindness."
+    },
+    {
+      "question": "Which health indicator measures the average number of years a newborn is expected to live?",
+      "options": ["Life expectancy", "Mortality rate", "Infant mortality rate", "Morbidity rate"],
+      "answer": "Life expectancy",
+      "explanation": "Life expectancy indicates average lifespan at birth."
+    },
+    {
+      "question": "What is the major cause of malnutrition in Pakistan?",
+      "options": ["Poverty", "Lack of education", "Food insecurity", "All of the above"],
+      "answer": "All of the above",
+      "explanation": "Multiple factors contribute to malnutrition."
+    },
+    {
+      "question": "Which program addresses maternal and child health in Punjab?",
+      "options": ["Lady Health Worker Program", "Punjab Health Card", "National Nutrition Program", "Child Survival Program"],
+      "answer": "Lady Health Worker Program",
+      "explanation": "LHWs provide community-based maternal and child care."
+    },
+    {
+      "question": "What is the most common cause of hospitalization in Punjab’s public hospitals?",
+      "options": ["Infectious diseases", "Accidents", "Cardiac diseases", "Respiratory infections"],
+      "answer": "Infectious diseases",
+      "explanation": "Infections remain a major cause of hospital admissions."
+    },
+    {
+      "question": "Which disease has a vaccine preventable status in Punjab?",
+      "options": ["Hepatitis B", "Dengue", "Hepatitis C", "Malaria"],
+      "answer": "Hepatitis B",
+      "explanation": "Hepatitis B vaccine is part of EPI."
+    },
+    {
+      "question": "Which is the most common vector-borne disease in Punjab?",
+      "options": ["Dengue", "Malaria", "Chikungunya", "Zika"],
+      "answer": "Dengue",
+      "explanation": "Dengue is endemic in Punjab with seasonal outbreaks."
+    },
+    {
+      "question": "What is the role of Pakistan Medical and Dental Council (PMDC)?",
+      "options": ["Regulate medical education", "Manage hospitals", "Control health insurance", "Implement health policies"],
+      "answer": "Regulate medical education",
+      "explanation": "PMDC regulates medical colleges and licenses doctors."
+    },
+    {
+      "question": "What is the recommended age for measles vaccination in Pakistan?",
+      "options": ["9 months", "12 months", "15 months", "18 months"],
+      "answer": "9 months",
+      "explanation": "Measles vaccine is given at 9 months under EPI."
+    },
+    {
+      "question": "Which infectious disease causes frequent outbreaks in Punjab's urban areas?",
+      "options": ["Dengue fever", "Cholera", "Typhoid", "Measles"],
+      "answer": "Dengue fever",
+      "explanation": "Urban dengue outbreaks occur seasonally."
+    },
+    {
+      "question": "What is the primary objective of the Punjab Health Sector Strategy 2020-2025?",
+      "options": ["Improve health outcomes", "Increase hospital beds", "Build more medical colleges", "Reduce health workforce"],
+      "answer": "Improve health outcomes",
+      "explanation": "Strategy aims at better health services and outcomes."
+    },
+    {
+      "question": "What is the average life expectancy in Punjab province?",
+      "options": ["65 years", "68 years", "70 years", "72 years"],
+      "answer": "70 years",
+      "explanation": "Life expectancy is approximately 70 years in Punjab."
+    },
+    {
+      "question": "Which disease is linked with poor water sanitation in rural Punjab?",
+      "options": ["Cholera", "Tuberculosis", "Malaria", "Hepatitis C"],
+      "answer": "Cholera",
+      "explanation": "Cholera outbreaks are common due to contaminated water."
+    },
+    {
+      "question": "Which agency funds many health projects in Punjab?",
+      "options": ["World Bank", "Asian Development Bank", "UNICEF", "All of the above"],
+      "answer": "All of the above",
+      "explanation": "Multiple international agencies fund health initiatives."
+    },
+    {
+      "question": "What percentage of births in Punjab are attended by skilled health personnel?",
+      "options": ["60%", "70%", "80%", "90%"],
+      "answer": "70%",
+      "explanation": "About 70% of births have skilled attendance."
+    },
+    {
+      "question": "What is the main focus of the Punjab Malaria Control Program?",
+      "options": ["Reduce malaria cases", "Vaccinate population", "Improve nutrition", "Increase hospital beds"],
+      "answer": "Reduce malaria cases",
+      "explanation": "The program focuses on vector control and treatment."
+    },
+    {
+      "question": "What is the infant immunization coverage rate in Punjab?",
+      "options": ["70%", "80%", "90%", "95%"],
+      "answer": "90%",
+      "explanation": "EPI has achieved approximately 90% coverage."
+    },
+    {
+      "question": "Which health facility provides primary health care in rural Punjab?",
+      "options": ["Basic Health Units (BHUs)", "Tehsil Headquarters Hospitals", "District Hospitals", "Private clinics"],
+      "answer": "Basic Health Units (BHUs)",
+      "explanation": "BHUs are the first point of contact in rural areas."
+    },
+    {
+      "question": "Which of the following is a major challenge in Pakistan’s health sector?",
+      "options": ["Lack of infrastructure", "Inadequate funding", "Shortage of skilled staff", "All of the above"],
+      "answer": "All of the above",
+      "explanation": "The health sector faces multiple challenges."
+    },
+    {
+      "question": "Which condition is a major non-communicable disease risk factor in Punjab?",
+      "options": ["Obesity", "Tuberculosis", "Malaria", "Polio"],
+      "answer": "Obesity",
+      "explanation": "Obesity increases risk of diabetes and heart disease."
+    },
+    {
+      "question": "What is the main source of health financing in Pakistan?",
+      "options": ["Out-of-pocket payments", "Health insurance", "Government funding", "Donor aid"],
+      "answer": "Out-of-pocket payments",
+      "explanation": "Most health expenses are paid directly by patients."
+    },
+    {
+      "question": "Which program addresses hepatitis C elimination in Punjab?",
+      "options": ["Punjab Hepatitis Control Program", "National Liver Health Program", "Punjab Viral Diseases Program", "Hepatitis Elimination Drive"],
+      "answer": "Punjab Hepatitis Control Program",
+      "explanation": "This program targets screening and treatment."
+    },
+    {
+      "question": "Which government initiative provides health insurance in Punjab?",
+      "options": ["Sehat Sahulat Program", "Punjab Health Card", "National Health Insurance", "Health for All"],
+      "answer": "Sehat Sahulat Program",
+      "explanation": "This program offers health insurance to poor families."
+    },
+    {
+      "question": "Which disease is considered a public health emergency in Pakistan?",
+      "options": ["Dengue", "Polio", "Cholera", "All of the above"],
+      "answer": "All of the above",
+      "explanation": "These diseases cause periodic emergencies."
+    },
+    {
+      "question": "Which sector employs the majority of health professionals in Punjab?",
+      "options": ["Public sector", "Private sector", "NGOs", "International agencies"],
+      "answer": "Public sector",
+      "explanation": "Most health workers are employed by government facilities."
+    },
+    {
+      "question": "Which health metric is used to measure disease burden?",
+      "options": ["DALYs (Disability-Adjusted Life Years)", "Mortality rate", "Life expectancy", "Infant mortality rate"],
+      "answer": "DALYs (Disability-Adjusted Life Years)",
+      "explanation": "DALYs combine years lost due to death and disability."
+    },
+    {
+      "question": "Which of the following is a common cause of neonatal mortality in Pakistan?",
+      "options": ["Prematurity", "Birth asphyxia", "Infections", "All of the above"],
+      "answer": "All of the above",
+      "explanation": "Multiple factors contribute to neonatal deaths."
+    },
+    {
+      "question": "Which vaccination is mandatory for school entry in Punjab?",
+      "options": ["Polio", "Measles", "BCG", "All of the above"],
+      "answer": "All of the above",
+      "explanation": "School children must be vaccinated against several diseases."
+    },
+    {
+      "question": "Which agency is responsible for drug regulation in Pakistan?",
+      "options": ["Drug Regulatory Authority of Pakistan (DRAP)", "Punjab Health Department", "WHO", "PMDC"],
+      "answer": "Drug Regulatory Authority of Pakistan (DRAP)",
+      "explanation": "DRAP regulates pharmaceutical products."
+    },
+    {
+      "question": "Which of the following is a common health issue among urban populations in Punjab?",
+      "options": ["Air pollution-related diseases", "Malaria", "Cholera", "Tuberculosis"],
+      "answer": "Air pollution-related diseases",
+      "explanation": "Urban areas suffer from pollution-related health problems."
+    },
+    {
+      "question": "What is the role of Lady Health Workers (LHWs) in Pakistan?",
+      "options": ["Community health education", "Maternal care", "Child immunization", "All of the above"],
+      "answer": "All of the above",
+      "explanation": "LHWs provide a wide range of primary healthcare services."
+    },
+    {
+      "question": "Which nutrition deficiency is widespread among children in Punjab?",
+      "options": ["Iron deficiency anemia", "Vitamin A deficiency", "Iodine deficiency", "Protein deficiency"],
+      "answer": "Iron deficiency anemia",
+      "explanation": "Anemia due to iron deficiency is common among children."
+    },
+    {
+      "question": "What is the target year for Pakistan’s Universal Health Coverage (UHC) plan?",
+      "options": ["2025", "2030", "2035", "2040"],
+      "answer": "2030",
+      "explanation": "Pakistan aims to achieve UHC by 2030 as per SDGs."
+    },
+    {
+      "question": "Which infectious disease is targeted by the Punjab Dengue Prevention Program?",
+      "options": ["Dengue fever", "Malaria", "Typhoid", "Hepatitis B"],
+      "answer": "Dengue fever",
+      "explanation": "The Dengue Prevention Program focuses on controlling and preventing dengue outbreaks."
+    },
+    {
+      "question": "What is the main goal of the Punjab Nutrition Strategy 2023-2028?",
+      "options": ["Reduce child malnutrition", "Increase hospital infrastructure", "Expand vaccination coverage", "Enhance medical education"],
+      "answer": "Reduce child malnutrition",
+      "explanation": "The strategy primarily aims to decrease child malnutrition rates in Punjab."
+    },
+    {
+      "question": "Which vaccination is included in the Expanded Program on Immunization (EPI) for newborns in Pakistan?",
+      "options": ["BCG", "Measles", "Polio", "Hepatitis C"],
+      "answer": "BCG",
+      "explanation": "BCG vaccination is given to newborns for tuberculosis prevention."
+    },
+    {
+      "question": "What percentage of Punjab’s population has access to safe drinking water?",
+      "options": ["65%", "75%", "85%", "95%"],
+      "answer": "75%",
+      "explanation": "Approximately 75% of Punjab’s population has access to safe water sources."
+    },
+    {
+      "question": "Which of the following is a key component of Pakistan’s National Malaria Control Program?",
+      "options": ["Insecticide-treated nets", "Polio vaccination", "Vitamin supplementation", "TB treatment"],
+      "answer": "Insecticide-treated nets",
+      "explanation": "ITNs help reduce malaria transmission by protecting against mosquito bites."
+    },
+    {
+      "question": "What is the estimated prevalence of diabetes in urban Punjab according to recent surveys?",
+      "options": ["10%", "15%", "20%", "25%"],
+      "answer": "15%",
+      "explanation": "Recent studies estimate about 15% diabetes prevalence in urban areas."
+    },
+    {
+      "question": "Which health facility level is primarily responsible for secondary care in Punjab?",
+      "options": ["District Hospitals", "Basic Health Units", "Tehsil Headquarters Hospitals", "Community Health Centers"],
+      "answer": "Tehsil Headquarters Hospitals",
+      "explanation": "THQs provide secondary care services in Punjab’s health system."
+    },
+    {
+      "question": "Which of these is a significant risk factor for maternal mortality in rural Punjab?",
+      "options": ["Home deliveries", "Early antenatal visits", "High literacy rate", "Government hospitals"],
+      "answer": "Home deliveries",
+      "explanation": "Home deliveries without skilled attendants increase maternal mortality risk."
+    },
+    {
+      "question": "What is the role of the Pakistan Institute of Medical Sciences (PIMS) in Islamabad?",
+      "options": ["Tertiary care hospital", "Basic health unit", "Vaccination center", "Drug regulation agency"],
+      "answer": "Tertiary care hospital",
+      "explanation": "PIMS is a major tertiary care referral hospital."
+    },
+    {
+      "question": "Which initiative provides free essential medicines to patients in Punjab?",
+      "options": ["Punjab Free Medicine Program", "Sehat Sahulat Program", "Health Insurance Scheme", "National Drug Policy"],
+      "answer": "Punjab Free Medicine Program",
+      "explanation": "This program aims to provide essential drugs free at government health facilities."
+    },
+    {
+      "question": "Which health indicator is used to assess the burden of neonatal deaths in Pakistan?",
+      "options": ["Neonatal mortality rate", "Maternal mortality rate", "Infant mortality rate", "Under-five mortality rate"],
+      "answer": "Neonatal mortality rate",
+      "explanation": "It specifically measures deaths within the first 28 days of life."
+    },
+    {
+      "question": "Which of these is a vector control method used in Punjab to reduce malaria transmission?",
+      "options": ["Indoor residual spraying", "Polio vaccination", "Tuberculosis screening", "Vitamin A supplementation"],
+      "answer": "Indoor residual spraying",
+      "explanation": "IRS is used to kill mosquitoes inside homes."
+    },
+    {
+      "question": "What is the key objective of the Lady Health Worker Program in Pakistan?",
+      "options": ["Community-based primary health care", "Hospital-based surgeries", "Advanced medical research", "Medical education reform"],
+      "answer": "Community-based primary health care",
+      "explanation": "LHWs provide essential health services at the community level."
+    },
+    {
+      "question": "Which of these diseases is notifiable under Pakistan’s disease surveillance system?",
+      "options": ["Cholera", "Diabetes", "Hypertension", "Cancer"],
+      "answer": "Cholera",
+      "explanation": "Infectious diseases like cholera must be reported to health authorities."
+    },
+    {
+      "question": "What is the current infant mortality rate in Punjab as per latest PPSC references?",
+      "options": ["50 per 1000 live births", "45 per 1000 live births", "40 per 1000 live births", "35 per 1000 live births"],
+      "answer": "40 per 1000 live births",
+      "explanation": "Improved health services have lowered infant mortality in Punjab."
+    },
+    {
+      "question": "Which ministry is responsible for regulating medical and dental education in Pakistan?",
+      "options": ["Ministry of National Health Services", "Ministry of Education", "Ministry of Science and Technology", "Ministry of Social Welfare"],
+      "answer": "Ministry of National Health Services",
+      "explanation": "This ministry oversees medical education regulation."
+    },
+    {
+      "question": "Which chronic disease is rapidly increasing in prevalence in Punjab’s adult population?",
+      "options": ["Hypertension", "Polio", "Tuberculosis", "Measles"],
+      "answer": "Hypertension",
+      "explanation": "Lifestyle changes have increased hypertension cases."
+    },
+    {
+      "question": "What is the major source of air pollution-related diseases in urban Punjab?",
+      "options": ["Vehicular emissions", "Malaria", "Open defecation", "Unsafe water"],
+      "answer": "Vehicular emissions",
+      "explanation": "Traffic-related pollution contributes to respiratory illnesses."
+    },
+    {
+      "question": "Which health insurance scheme has been launched to improve access to health care in Punjab?",
+      "options": ["Sehat Sahulat Program", "Punjab Medical Insurance", "National Health Card", "Universal Health Coverage Plan"],
+      "answer": "Sehat Sahulat Program",
+      "explanation": "It provides subsidized health insurance to low-income families."
+    },
+    {
+      "question": "Which of these is a major challenge in Pakistan’s health workforce?",
+      "options": ["Unequal distribution", "Excess number of doctors", "No shortage of nurses", "Overfunded training programs"],
+      "answer": "Unequal distribution",
+      "explanation": "Health professionals are concentrated in urban areas."
+    },
+    {
+      "question": "What is the prevalence of hepatitis C virus infection in Punjab?",
+      "options": ["4%", "8%", "12%", "15%"],
+      "answer": "8%",
+      "explanation": "Hepatitis C affects approximately 8% of the population."
+    },
+    {
+      "question": "Which of the following is an indicator of maternal health in Punjab?",
+      "options": ["Maternal mortality ratio", "Infant mortality rate", "Life expectancy", "Disease prevalence"],
+      "answer": "Maternal mortality ratio",
+      "explanation": "It measures deaths related to pregnancy and childbirth."
+    },
+    {
+      "question": "Which vitamin deficiency is most commonly found among children in Punjab?",
+      "options": ["Vitamin A", "Vitamin D", "Vitamin B12", "Vitamin C"],
+      "answer": "Vitamin A",
+      "explanation": "Vitamin A deficiency causes vision problems and increases infection risk."
+    },
+    {
+      "question": "Which institution is responsible for licensing drugs in Pakistan?",
+      "options": ["Drug Regulatory Authority of Pakistan (DRAP)", "Pakistan Medical and Dental Council", "Punjab Health Department", "National Institute of Health"],
+      "answer": "Drug Regulatory Authority of Pakistan (DRAP)",
+      "explanation": "DRAP regulates pharmaceutical licensing and quality."
+    },
+    {
+      "question": "Which vaccine has been recently introduced to reduce cervical cancer risk in Pakistan?",
+      "options": ["HPV vaccine", "Hepatitis B vaccine", "Polio vaccine", "Measles vaccine"],
+      "answer": "HPV vaccine",
+      "explanation": "The HPV vaccine protects against human papillomavirus."
+    },
+    {
+      "question": "What is the main objective of the Pakistan TB Control Program?",
+      "options": ["Early diagnosis and treatment", "Vaccination", "Nutrition improvement", "Malaria control"],
+      "answer": "Early diagnosis and treatment",
+      "explanation": "The program aims to detect and treat TB promptly."
+    },
+    {
+      "question": "What percentage of births in Pakistan are assisted by skilled health personnel?",
+      "options": ["65%", "70%", "75%", "80%"],
+      "answer": "70%",
+      "explanation": "Skilled birth attendance is improving but still incomplete."
+    },
+    {
+      "question": "Which of the following is a major cause of respiratory diseases in Punjab?",
+      "options": ["Air pollution", "Malaria", "Water contamination", "Polio"],
+      "answer": "Air pollution",
+      "explanation": "Exposure to pollutants causes chronic respiratory conditions."
+    },
+    {
+      "question": "Which government program in Punjab promotes family planning and reproductive health?",
+      "options": ["Lady Health Worker Program", "Punjab Health Card", "Sehat Sahulat Program", "Expanded Program on Immunization"],
+      "answer": "Lady Health Worker Program",
+      "explanation": "LHWs also support family planning services."
+    },
+    {
+      "question": "Which health sector issue is prioritized under Punjab Health Sector Reform 2020?",
+      "options": ["Service delivery improvement", "Building new hospitals", "Medical equipment procurement", "Training medical students"],
+      "answer": "Service delivery improvement",
+      "explanation": "Focus is on quality and accessibility of health services."
+    },
+    {
+      "question": "What is the major cause of anemia among women in Punjab?",
+      "options": ["Iron deficiency", "Vitamin D deficiency", "Vitamin C deficiency", "Calcium deficiency"],
+      "answer": "Iron deficiency",
+      "explanation": "Iron deficiency anemia is prevalent due to poor nutrition."
+    },
+    {
+      "question": "Which program targets reduction of tobacco use in Punjab?",
+      "options": ["Punjab Tobacco Control Program", "National Immunization Program", "Lady Health Worker Program", "Malaria Control Program"],
+      "answer": "Punjab Tobacco Control Program",
+      "explanation": "The program aims to reduce smoking-related diseases."
+    },
+    {
+      "question": "Which infectious disease is eliminated from Pakistan as per recent reports?",
+      "options": ["Polio", "Measles", "Dengue", "Tuberculosis"],
+      "answer": "None",
+      "explanation": "Polio remains endemic, and other diseases continue to exist."
+    },
+    {
+      "question": "What is the purpose of Basic Health Units (BHUs) in Punjab?",
+      "options": ["Provide primary health care", "Perform surgeries", "Specialize in oncology", "Conduct medical research"],
+      "answer": "Provide primary health care",
+      "explanation": "BHUs serve as the first point of contact in rural health."
+    },
+    {
+      "question": "Which non-communicable disease causes the highest mortality in Punjab?",
+      "options": ["Cardiovascular diseases", "Cancer", "Diabetes", "Chronic respiratory diseases"],
+      "answer": "Cardiovascular diseases",
+      "explanation": "Heart diseases are leading causes of death."
+    },
+    {
+      "question": "Which national policy guides Pakistan's health system strengthening?",
+      "options": ["National Health Policy 2019", "Punjab Health Strategy 2025", "Sehat Sahulat Framework", "Expanded Program on Immunization"],
+      "answer": "National Health Policy 2019",
+      "explanation": "It provides a comprehensive framework for health improvements."
+    },
+    {
+      "question": "What is the role of UNICEF in Pakistan's health sector?",
+      "options": ["Child health and nutrition support", "Hospital management", "Medical licensing", "Drug regulation"],
+      "answer": "Child health and nutrition support",
+      "explanation": "UNICEF works on immunization, nutrition, and maternal health."
+    },
+    {
+      "question": "Which indicator reflects the number of years a newborn is expected to live?",
+      "options": ["Life expectancy", "Infant mortality rate", "Maternal mortality rate", "Disease prevalence"],
+      "answer": "Life expectancy",
+      "explanation": "It measures average lifespan from birth."
+    },
+    {
+      "question": "Which of the following diseases is vaccine-preventable in Pakistan?",
+      "options": ["Hepatitis B", "Hepatitis C", "Tuberculosis", "Dengue"],
+      "answer": "Hepatitis B",
+      "explanation": "Vaccines exist for Hepatitis B but not for Hepatitis C or Dengue."
+    },
+    {
+      "question": "Which strategy is used to improve health care access in remote areas of Punjab?",
+      "options": ["Mobile health clinics", "Urban hospital expansion", "Private sector development", "Pharmaceutical subsidies"],
+      "answer": "Mobile health clinics",
+      "explanation": "Mobile clinics deliver services to hard-to-reach populations."
+    },
+    {
+      "question": "What is the major cause of under-five mortality in Pakistan?",
+      "options": ["Pneumonia", "Malaria", "Diabetes", "Heart disease"],
+      "answer": "Pneumonia",
+      "explanation": "Pneumonia is the leading killer of children under five."
+    },
+    {
+      "question": "Which policy aims at tobacco control in Pakistan?",
+      "options": ["National Tobacco Control Policy", "National Immunization Policy", "Maternal Health Policy", "Nutrition Policy"],
+      "answer": "National Tobacco Control Policy",
+      "explanation": "It regulates tobacco advertising and smoking bans."
+    },
+    {
+      "question": "Which organization leads the Expanded Program on Immunization in Pakistan?",
+      "options": ["Ministry of National Health Services", "Punjab Health Department", "WHO Pakistan", "UNICEF"],
+      "answer": "Ministry of National Health Services",
+      "explanation": "It implements the national immunization schedule."
+    },
+    {
+      "question": "Which of the following is a common cause of hospital admission in Punjab?",
+      "options": ["Respiratory infections", "Polio", "Malaria", "Tuberculosis"],
+      "answer": "Respiratory infections",
+      "explanation": "Respiratory diseases are common causes of morbidity."
+    },
+    {
+      "question": "What percentage of the Pakistani population lives below the poverty line affecting health outcomes?",
+      "options": ["20%", "25%", "30%", "35%"],
+      "answer": "30%",
+      "explanation": "Poverty affects access to health services."
+    }
+  ]

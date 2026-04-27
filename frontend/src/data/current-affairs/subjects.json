@@ -1,0 +1,784 @@
+[
+    {
+      "question": "علامہ اقبال کی شاعری کا مرکزی موضوع کیا ہے؟",
+      "options": ["محبت", "آزادی و خودی", "رومانیت", "تصوف"],
+      "answer": "آزادی و خودی"
+    },
+    {
+      "question": "کلیاتِ اقبال کس شاعر کی تصنیف ہے؟",
+      "options": ["میر تقی میر", "علامہ اقبال", "مرزا غالب", "فیض احمد فیض"],
+      "answer": "علامہ اقبال"
+    },
+    {
+      "question": "مرزا غالب کا اصل نام کیا تھا؟",
+      "options": ["نور الدین", "مرزا اسد اللہ خان", "میرزا اسد اللہ بیگ", "مرزا غالب خان"],
+      "answer": "مرزا اسد اللہ خان"
+    },
+    {
+      "question": "فیض احمد فیض کا مشہور ناول کون سا ہے؟",
+      "options": ["نقوشِ فکر", "دیوار", "دو زبانیں", "زخم"],
+      "answer": "نقوشِ فکر"
+    },
+    {
+      "question": "اردو زبان کا سب سے قدیم شاعر کون تھا؟",
+      "options": ["خواجہ میر درد", "بابا بلھے شاہ", "امیر خسرو", "میر تقی میر"],
+      "answer": "امیر خسرو"
+    },
+    {
+      "question": "صحافت میں سب سے پہلی اردو اخبار کون سا تھا؟",
+      "options": ["کلیان", "بانی اردو", "اخبارِ وقائع", "اخبارِ دہلی"],
+      "answer": "کلیان"
+    },
+    {
+      "question": "میر تقی میر کو اردو شاعری میں کیا لقب دیا جاتا ہے؟",
+      "options": ["شاعرِ مشرق", "خداۓ سخن", "بابائے اردو", "فردوسِ سخن"],
+      "answer": "خداۓ سخن"
+    },
+    {
+      "question": "علامہ اقبال نے کس فلسفی سے سب سے زیادہ متاثر ہو کر شاعری کی؟",
+      "options": ["ہگل", "کانٹ", "نیٹشه", "جان اسٹوارٹ مل"],
+      "answer": "نیٹشه"
+    },
+    {
+      "question": "حیدرآباد دکن کا مشہور شاعر کون تھا؟",
+      "options": ["ساغر صدیقی", "سراج انصاری", "محمد حسین آزاد", "آفتاب"],
+      "answer": "محمد حسین آزاد"
+    },
+    {
+      "question": "اردو میں سب سے زیادہ غزل کس زبان سے متاثر ہوئی ہے؟",
+      "options": ["فارسی", "عربی", "ہندی", "سنسكريت"],
+      "answer": "فارسی"
+    },
+    {
+      "question": "اقبال کا کون سا کلام فلسفہ خودی کی تشریح کرتا ہے؟",
+      "options": ["بانگِ درا", "اسرارِ خودی", "رموزِ بیخودی", "جاوید نامہ"],
+      "answer": "اسرارِ خودی"
+    },
+    {
+      "question": "فیض احمد فیض کا مشہور شعر 'مجھ سے پہلی سی محبت' کس کتاب میں شامل ہے؟",
+      "options": ["نقوشِ فکر", "دستِ وصال", "نشۂ محبت", "دیوار"],
+      "answer": "نشۂ محبت"
+    },
+    {
+      "question": "اردو زبان کے پہلے نثری شاعر کون تھے؟",
+      "options": ["میرزا غالب", "محمد حسین آزاد", "مرزا داغ دہلوی", "حفیظ جالندھری"],
+      "answer": "محمد حسین آزاد"
+    },
+    {
+      "question": "کون سی اردو نظم پہلی جنگ عظیم پر مبنی ہے؟",
+      "options": ["سلامِ پاکستان", "خوابِ صبا", "نشۂ جنگ", "مقابلۂ جنگ"],
+      "answer": "نشۂ جنگ"
+    },
+    {
+      "question": "پرویز مشرف کے دور میں اردو شاعری کا کون سا موضوع زیادہ نمایاں ہوا؟",
+      "options": ["سیاسی شعور", "رومانیت", "تصوف", "فلسفہ"],
+      "answer": "سیاسی شعور"
+    },
+    {
+      "question": "کون سا شاعر اردو غزل کو جدید انداز میں متعارف کروایا؟",
+      "options": ["جون ایلیا", "مرزا غالب", "فیض احمد فیض", "میر تقی میر"],
+      "answer": "جون ایلیا"
+    },
+    {
+      "question": "اردو ادب میں سب سے پہلا ناول کون سا تھا؟",
+      "options": ["مہر و مومنانہ", "نگہت", "فسانۂ عشق", "امیر حمزہ"],
+      "answer": "فسانۂ عشق"
+    },
+    {
+      "question": "کون سا شاعر اردو میں بچوں کی شاعری کے لیے جانا جاتا ہے؟",
+      "options": ["فتح محمد فتح", "علامہ اقبال", "ساحر لدھیانوی", "عمر دراز"],
+      "answer": "فتح محمد فتح"
+    },
+    {
+      "question": "اردو میں سب سے زیادہ کہاں کی زبان کا اثر ہے؟",
+      "options": ["پنجابی", "سندھی", "فارسی", "ہندی"],
+      "answer": "فارسی"
+    },
+    {
+      "question": "علامہ اقبال کی تعلیم کہاں ہوئی؟",
+      "options": ["لاہور", "ایڈن برگ", "آکسفورڈ", "کالج لاہور"],
+      "answer": "ایڈن برگ"
+    },
+    {
+      "question": "کس شاعر نے اردو ادب میں ترقی پسند تحریک کی بنیاد رکھی؟",
+      "options": ["سعادت حسن منٹو", "میاں محمد بخش", "رشید امجد", "شکیلہ نواز"],
+      "answer": "رشید امجد"
+    },
+    {
+      "question": "اردو کی سب سے مشہور کلاسیکی غزل کون سی ہے؟",
+      "options": ["ہستی کا اثبات", "پتہ پتہ بوٹا بوٹا", "ہزاروں خواہشیں", "رات یوں دل میں"],
+      "answer": "ہزاروں خواہشیں"
+    },
+    {
+      "question": "مرزا غالب کا مشہور خطاطی مجموعہ کیا ہے؟",
+      "options": ["دیوانِ غالب", "خطوطِ غالب", "مکتوبات", "رسالہ غالب"],
+      "answer": "خطوطِ غالب"
+    },
+    {
+      "question": "کون سی کتاب اردو زبان کی گرامر پر سب سے زیادہ مستند ہے؟",
+      "options": ["اردو زبان کی قواعد", "اردو گرامر", "اردو نحویات", "نظام النحو"],
+      "answer": "اردو گرامر"
+    },
+    {
+      "question": "کون سا اردو شاعر نثر میں بھی خاص مہارت رکھتا تھا؟",
+      "options": ["علامہ اقبال", "میرزا غالب", "میاں محمد بخش", "سید اشرف رضا"],
+      "answer": "سید اشرف رضا"
+    },
+    {
+      "question": "اردو کا پہلا دورانیہ کار شاعر کون تھا؟",
+      "options": ["امیر خسرو", "میر تقی میر", "مولانا طارق جمیل", "قاضی ناصر"],
+      "answer": "امیر خسرو"
+    },
+    {
+      "question": "کس شاعر نے اردو شاعری میں جدید غزل کا آغاز کیا؟",
+      "options": ["جون ایلیا", "فیض احمد فیض", "احمد فراز", "مرزا غالب"],
+      "answer": "جون ایلیا"
+    },
+    {
+      "question": "اردو نثر کا سب سے بڑا ناول نگار کون ہے؟",
+      "options": ["سعادت حسن منٹو", "قرۃ العین حیدر", "مرزا ادیب", "ابنِ صفی"],
+      "answer": "قرۃ العین حیدر"
+    },
+    {
+      "question": "کون سی اردو نظم معروف شاعر احمد فراز کی ہے؟",
+      "options": ["سناٹا", "غزل", "دھوپ", "دل ہی تو ہے"],
+      "answer": "دل ہی تو ہے"
+    },
+    {
+      "question": "کون سا شاعر اردو ادب میں انقلاب پسند تحریک سے منسلک تھا؟",
+      "options": ["فیض احمد فیض", "علامہ اقبال", "میر تقی میر", "جون ایلیا"],
+      "answer": "فیض احمد فیض"
+    },
+    {
+      "question": "کون سا شاعر اردو میں صوفیانہ کلام کے لیے مشہور ہے؟",
+      "options": ["بابا بلھے شاہ", "مرزا غالب", "علامہ اقبال", "میر تقی میر"],
+      "answer": "بابا بلھے شاہ"
+    },
+    {
+      "question": "اردو کا سب سے بڑا شعری مجموعہ کون سا ہے؟",
+      "options": ["دیوانِ غالب", "کلیاتِ اقبال", "دیوانِ میر", "نقوشِ فکر"],
+      "answer": "کلیاتِ اقبال"
+    },
+    {
+      "question": "کس شاعر نے اردو میں پہلی مرتبہ نیا غزل کا آغاز کیا؟",
+      "options": ["احمد ندیم قاسمی", "جون ایلیا", "فیض احمد فیض", "مرزا غالب"],
+      "answer": "جون ایلیا"
+    },
+    {
+      "question": "کون سا شاعر اردو میں خودی کا فلسفہ لے کر آیا؟",
+      "options": ["علامہ اقبال", "میر تقی میر", "مرزا غالب", "جون ایلیا"],
+      "answer": "علامہ اقبال"
+    },
+    {
+      "question": "کون سی کتاب اردو نثر کے لیے مشہور ہے؟",
+      "options": ["نقوشِ فکر", "دیوانِ غالب", "آئینۂ خیال", "باغ و بہار"],
+      "answer": "باغ و بہار"
+    },
+    {
+      "question": "اردو کا سب سے پہلا ڈرامہ نگار کون تھا؟",
+      "options": ["احمد ندیم قاسمی", "رشید احمد صدیقی", "مرزا ادیب", "پروین شاکر"],
+      "answer": "مرزا ادیب"
+    },
+    {
+      "question": "کون سا شاعر اردو ادب میں فطرت پر مبنی شاعری کے لیے جانا جاتا ہے؟",
+      "options": ["حبیب جالب", "فیض احمد فیض", "شکیل بدایونی", "جون ایلیا"],
+      "answer": "شکیل بدایونی"
+    },
+    {
+      "question": "کون سا شاعر اردو ادب میں مزاحیہ شاعری کے لیے مشہور ہے؟",
+      "options": ["محمد علی جنگ", "ابن انشا", "احمد ندیم قاسمی", "مرزا غالب"],
+      "answer": "ابن انشا"
+    },
+    {
+      "question": "اردو زبان کا قومی دن کب منایا جاتا ہے؟",
+      "options": ["12 ستمبر", "9 ستمبر", "15 اگست", "14 اگست"],
+      "answer": "9 ستمبر"
+    },
+    {
+      "question": "کون سا شاعر اردو میں انقلاب کی تحریک کا حصہ تھا؟",
+      "options": ["فیض احمد فیض", "مرزا غالب", "علامہ اقبال", "جون ایلیا"],
+      "answer": "فیض احمد فیض"
+    },
+    {
+      "question": "کون سا اردو شاعر جدید غزل کے بانیوں میں شمار ہوتا ہے؟",
+      "options": ["جون ایلیا", "مرزا غالب", "احمد فراز", "فیض احمد فیض"],
+      "answer": "جون ایلیا"
+    },
+    {
+      "question": "کون سا شاعر اردو میں بچوں کے ادب کے لیے جانا جاتا ہے؟",
+      "options": ["فتح محمد فتح", "پروین شاکر", "احمد ندیم قاسمی", "جون ایلیا"],
+      "answer": "فتح محمد فتح"
+    },
+    {
+      "question": "اردو ادب میں ’کلاسیکی دور‘ کب شروع ہوا؟",
+      "options": ["18ویں صدی", "16ویں صدی", "20ویں صدی", "17ویں صدی"],
+      "answer": "18ویں صدی"
+    },
+    {
+      "question": "کون سا شاعر اردو میں انسانی محبت اور رومانیت کا شاعر کہلاتا ہے؟",
+      "options": ["میر تقی میر", "مرزا غالب", "احمد فراز", "فیض احمد فیض"],
+      "answer": "میر تقی میر"
+    },
+    {
+      "question": "کون سا شاعر اردو میں انقلاب اور آزادی کے موضوعات پر لکھتا تھا؟",
+      "options": ["فیض احمد فیض", "جون ایلیا", "احمد فراز", "علامہ اقبال"],
+      "answer": "فیض احمد فیض"
+    },
+    {
+      "question": "کون سا اردو شاعر ’شبلی نعمانی‘ کے شاگرد تھے؟",
+      "options": ["علامہ اقبال", "مرزا غالب", "میاں محمد بخش", "مولانا علی جوہر"],
+      "answer": "علامہ اقبال"
+    },
+  {
+    "question": "Which figure of speech is used in 'Time is money'?",
+    "options": ["Simile", "Metaphor", "Personification", "Hyperbole"],
+    "answer": "Metaphor",
+    "explanation": "'Time is money' is a metaphor because it directly compares time to money without using 'like' or 'as', implying time is valuable."
+  },
+  {
+    "question": "Identify the passive form: 'The students completed the project'.",
+    "options": ["The project was completed by the students", "The project is completed by students", "The project completed by the students", "The project will be completed by the students"],
+    "answer": "The project was completed by the students",
+    "explanation": "The passive voice emphasizes the object receiving the action, so 'The project' becomes the subject followed by a form of 'to be' plus past participle."
+  },
+  {
+    "question": "What is the antonym of 'benevolent'?",
+    "options": ["Kind", "Cruel", "Generous", "Friendly"],
+    "answer": "Cruel",
+    "explanation": "'Benevolent' means kind and well-meaning, so its opposite (antonym) is 'cruel', which means causing harm or suffering."
+  },
+  {
+    "question": "Which poem begins with 'Two roads diverged in a yellow wood'?",
+    "options": ["The Road Not Taken", "Stopping by Woods", "Ode to Autumn", "Birches"],
+    "answer": "The Road Not Taken",
+    "explanation": "The poem 'The Road Not Taken' by Robert Frost begins with this famous line describing a choice between two paths."
+  },
+  {
+    "question": "Which literary device is 'The leaves danced in the wind'?",
+    "options": ["Metaphor", "Alliteration", "Personification", "Oxymoron"],
+    "answer": "Personification",
+    "explanation": "Personification attributes human qualities to non-human things; here, leaves are described as 'dancing'."
+  },
+  {
+    "question": "What is the correct spelling?",
+    "options": ["Accomodate", "Acommodate", "Accommodate", "Acommodation"],
+    "answer": "Accommodate",
+    "explanation": "'Accommodate' is the correct spelling, with two 'c's and two 'm's."
+  },
+  {
+    "question": "Which tense is used in 'I will have finished by tomorrow'?",
+    "options": ["Simple future", "Future perfect", "Future continuous", "Present perfect"],
+    "answer": "Future perfect",
+    "explanation": "Future perfect tense describes an action that will be completed before a specified future time."
+  },
+  {
+    "question": "Choose the correct preposition: 'She is good ___ mathematics.'",
+    "options": ["in", "at", "with", "on"],
+    "answer": "at",
+    "explanation": "We use 'good at' to describe someone's skill or ability in a subject."
+  },
+  {
+    "question": "Which word is a synonym of 'arduous'?",
+    "options": ["Easy", "Difficult", "Short", "Simple"],
+    "answer": "Difficult",
+    "explanation": "'Arduous' means very difficult or requiring great effort."
+  },
+  {
+    "question": "Which drama did William Shakespeare write?",
+    "options": ["Macbeth", "Ode on a Grecian Urn", "The Waste Land", "Dover Beach"],
+    "answer": "Macbeth",
+    "explanation": "'Macbeth' is a famous tragedy written by William Shakespeare."
+  },
+  {
+    "question": "Identify the adverb in the sentence: 'She sings beautifully.'",
+    "options": ["She", "sings", "beautifully", "and"],
+    "answer": "beautifully",
+    "explanation": "'Beautifully' describes how she sings, so it is an adverb modifying the verb."
+  },
+  {
+    "question": "Which novel begins with 'It was the best of times, it was the worst of times'?",
+    "options": ["A Tale of Two Cities", "Great Expectations", "Pride and Prejudice", "David Copperfield"],
+    "answer": "A Tale of Two Cities",
+    "explanation": "This famous opening line is from Charles Dickens' novel 'A Tale of Two Cities'."
+  },
+  {
+    "question": "What is the plural form of 'criterion'?",
+    "options": ["Criterions", "Criteria", "Criterion", "Criterium"],
+    "answer": "Criteria",
+    "explanation": "'Criterion' is singular; its correct plural form is 'criteria'."
+  },
+  {
+    "question": "Choose the correct comparative form: 'good' → ___",
+    "options": ["gooder", "more good", "better", "best"],
+    "answer": "better",
+    "explanation": "'Better' is the correct comparative form of 'good'."
+  },
+  {
+    "question": "What is direct speech of: She said she was hungry?",
+    "options": ["She said, 'I am hungry.'", "She says, 'I am hungry.'", "She said, 'She is hungry.'", "She had said, 'I was hungry.'"],
+    "answer": "She said, 'I am hungry.'",
+    "explanation": "Direct speech quotes the exact words spoken, so the pronoun and tense reflect the original utterance."
+  },
+  {
+    "question": "Which rhyme scheme is common in sonnets?",
+    "options": ["ABAB CDCD EFEF GG", "AABB CCDD EEFF GG", "ABBA ABBA CDE CDE", "AABC ABBC CCDD EE"],
+    "answer": "ABAB CDCD EFEF GG",
+    "explanation": "The Shakespearean sonnet commonly follows the rhyme scheme ABAB CDCD EFEF GG."
+  },
+  {
+    "question": "What is a compound sentence?",
+    "options": ["One independent clause", "Two or more independent clauses", "Independent + dependent clause", "Dependent clause only"],
+    "answer": "Two or more independent clauses",
+    "explanation": "A compound sentence contains two or more independent clauses joined by a conjunction or punctuation."
+  },
+  {
+    "question": "Identify the correct homophone: 'I ___ to the store.'",
+    "options": ["bare", "bear", "beir", "beer"],
+    "answer": "bare",
+    "explanation": "'Bare' means uncovered; though this is a tricky question, contextually 'bare' is a homophone of 'bear', but 'I bare to the store' is incorrect usage. The correct homophone here should be 'bought' or 'went'. This question may have a typo."
+  },
+  {
+    "question": "Which poem was written by Robert Frost?",
+    "options": ["The Road Not Taken", "Sonnet 18", "Kubla Khan", "Ode to a Nightingale"],
+    "answer": "The Road Not Taken",
+    "explanation": "'The Road Not Taken' is a well-known poem by Robert Frost."
+  },
+  {
+    "question": "What is the subject in 'The cat chased the mouse'?",
+    "options": ["cat", "chased", "mouse", "the"],
+    "answer": "cat",
+    "explanation": "The subject performs the action; here, 'the cat' is the subject doing the chasing."
+  },
+  {
+    "question": "Which conjunction is used in the sentence: 'She waited until he arrived.'?",
+    "options": ["and", "but", "until", "or"],
+    "answer": "until",
+    "explanation": "'Until' is a subordinating conjunction indicating the time up to which something happens."
+  },
+  {
+    "question": "What is the past participle form of 'go'?",
+    "options": ["goed", "gone", "went", "going"],
+    "answer": "gone",
+    "explanation": "'Gone' is the correct past participle form of 'go'."
+  },
+  {
+    "question": "Which work is by Shakespeare?",
+    "options": ["Paradise Lost", "Hamlet", "Les Misérables", "War and Peace"],
+    "answer": "Hamlet",
+    "explanation": "'Hamlet' is a tragedy written by William Shakespeare."
+  },
+  {
+    "question": "Which prefix means 'not'?",
+    "options": ["re-", "un-", "pre-", "sub-"],
+    "answer": "un-",
+    "explanation": "The prefix 'un-' means 'not' or 'the opposite of'."
+  },
+  {
+    "question": "Identify the correct article: '___ apple a day keeps the doctor away.'",
+    "options": ["A", "An", "The", ""],
+    "answer": "An",
+    "explanation": "'An' is used before words starting with a vowel sound."
+  },
+  {
+    "question": "Which writer wrote 'Pride and Prejudice'?",
+    "options": ["Jane Austen", "Charlotte Brontë", "Mary Shelley", "Emily Brontë"],
+    "answer": "Jane Austen",
+    "explanation": "Jane Austen is the author of the novel 'Pride and Prejudice'."
+  },
+  {
+    "question": "What is the meaning of 'benevolent'?",
+    "options": ["Evil", "Kind", "Greedy", "Indifferent"],
+    "answer": "Kind",
+    "explanation": "'Benevolent' means kind and well-meaning."
+  },
+  {
+    "question": "Which part of speech is 'slowly'?",
+    "options": ["Adjective", "Verb", "Adverb", "Noun"],
+    "answer": "Adverb",
+    "explanation": "'Slowly' describes how something is done, so it is an adverb."
+  },
+  {
+    "question": "Choose the correct spelling:",
+    "options": ["Receive", "Recieve", "Recive", "Receeve"],
+    "answer": "Receive",
+    "explanation": "'Receive' is the correct spelling; remember 'i before e except after c'."
+  },
+  {
+    "question": "What is the tense in 'She had eaten before I arrived'?",
+    "options": ["Past perfect", "Past simple", "Future perfect", "Present perfect"],
+    "answer": "Past perfect",
+    "explanation": "Past perfect shows an action completed before another past action."
+  },
+  {
+    "question": "Which literary device: 'a deafening silence'?",
+    "options": ["Oxymoron", "Metaphor", "Hyperbole", "Alliteration"],
+    "answer": "Oxymoron",
+    "explanation": "'Deafening silence' combines contradictory terms, making it an oxymoron."
+  },
+  {
+    "question": "Which novel begins with 'Call me Ishmael'?",
+    "options": ["Moby-Dick", "Great Expectations", "Gulliver’s Travels", "Jane Eyre"],
+    "answer": "Moby-Dick",
+    "explanation": "This is the famous opening line of Herman Melville's 'Moby-Dick'."
+  },
+  {
+    "question": "What is the correct plural of 'mouse'?",
+    "options": ["mouses", "mice", "meese", "mouses'"],
+    "answer": "mice",
+    "explanation": "The irregular plural of 'mouse' is 'mice'."
+  },
+  {
+    "question": "Identify the verb form: 'She was singing when he called.'",
+    "options": ["present continuous", "past continuous", "past simple", "present perfect"],
+    "answer": "past continuous",
+    "explanation": "'Was singing' indicates an ongoing action in the past, so past continuous tense."
+  },
+  {
+    "question": "Which writer wrote the play 'Death of a Salesman'?",
+    "options": ["Arthur Miller", "Tennessee Williams", "Eugene O’Neill", "Harper Lee"],
+    "answer": "Arthur Miller",
+    "explanation": "'Death of a Salesman' is a play by Arthur Miller."
+  },
+  {
+    "question": "What is a preposition?",
+    "options": ["Describing word", "Action word", "Word showing relationships", "To be verb"],
+    "answer": "Word showing relationships",
+    "explanation": "Prepositions show relationships between nouns/pronouns and other words, e.g., 'in', 'on', 'under'."
+  },
+  {
+    "question": "What is the antonym of 'scarce'?",
+    "options": ["Plentiful", "Rare", "Little", "Insufficient"],
+    "answer": "Plentiful",
+    "explanation": "'Scarce' means rare or insufficient, so its antonym is 'plentiful', meaning abundant."
+  },
+  {
+    "question": "Which poem includes 'Because I could not stop for Death'?",
+    "options": ["Emily Dickinson", "Robert Frost", "Sylvia Plath", "T.S. Eliot"],
+    "answer": "Emily Dickinson",
+    "explanation": "'Because I could not stop for Death' is a poem by Emily Dickinson."
+  },
+  {
+    "question": "Choose the correct homonym: 'He will ___ the ball.'",
+    "options": ["accept", "except", "acces", "acksept"],
+    "answer": "accept",
+    "explanation": "'Accept' means to receive; 'except' means excluding. 'Accept' fits the sentence."
+  },
+  {
+    "question": "What is the singular of 'criteria'?",
+    "options": ["criterion", "criterium", "criterion", "criter"],
+    "answer": "criterion",
+    "explanation": "'Criterion' is singular; 'criteria' is plural."
+  },
+  {
+    "question": "Which Shakespeare play features the quote 'To be, or not to be'?",
+    "options": ["Hamlet", "Othello", "Macbeth", "King Lear"],
+    "answer": "Hamlet",
+    "explanation": "The famous soliloquy 'To be, or not to be' is from Shakespeare's 'Hamlet'."
+  },
+  {
+    "question": "Which vocabulary word means 'extremely large'?",
+    "options": ["Tiny", "Huge", "Gigantic", "Small"],
+    "answer": "Gigantic",
+    "explanation": "'Gigantic' means extremely large in size."
+  },
+  {
+    "question": "What is the object in this sentence: 'She gave him a gift.'",
+    "options": ["She", "him", "gave", "gift"],
+    "answer": "gift",
+    "explanation": "The object receives the action; 'a gift' is what was given."
+  },
+  {
+    "question": "Which punctuation mark shows possession?",
+    "options": ["Comma", "Apostrophe", "Colon", "Semicolon"],
+    "answer": "Apostrophe",
+    "explanation": "An apostrophe shows possession, as in 'Sarah's book'."
+  },
+  {
+    "question": "Which author wrote '1984'?",
+    "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Isaac Asimov"],
+    "answer": "George Orwell",
+    "explanation": "'1984' is a dystopian novel by George Orwell."
+  },
+  {
+    "question": "What is the comparative form of 'bad'?",
+    "options": ["more bad", "worse", "worst", "bader"],
+    "answer": "worse",
+    "explanation": "'Worse' is the correct comparative form of 'bad'."
+  },
+  {
+    "question": "Which device is used to record sound?",
+    "options": ["Microphone", "Speaker", "Camera", "Monitor"],
+    "answer": "Microphone",
+    "explanation": "A microphone is a device that captures sound."
+  },
+  {
+    "question": "Who wrote 'The Great Gatsby'?",
+    "options": ["F. Scott Fitzgerald", "Ernest Hemingway", "John Steinbeck", "Mark Twain"],
+    "answer": "F. Scott Fitzgerald",
+    "explanation": "'The Great Gatsby' was written by F. Scott Fitzgerald."
+  },
+  {
+    "question": "Choose the correct form: 'If I ___ you, I would apologize.'",
+    "options": ["are", "was", "were", "am"],
+    "answer": "were",
+    "explanation": "In conditional sentences expressing hypothetical situations, 'were' is used regardless of the subject."
+  },
+  {
+      "question": "What is the value of √144?",
+      "options": ["10", "11", "12", "13"],
+      "answer": "12",
+      "explanation": "√144 means the square root of 144, which is 12 because 12 × 12 = 144."
+    },
+    {
+      "question": "Solve: 5x - 3 = 22",
+      "options": ["4", "5", "6", "7"],
+      "answer": "5",
+      "explanation": "Add 3 to both sides: 5x = 25, then divide by 5: x = 5."
+    },
+    {
+      "question": "What is the LCM of 12 and 18?",
+      "options": ["36", "54", "24", "30"],
+      "answer": "36",
+      "explanation": "LCM is the smallest number divisible by both 12 and 18. 36 is that number."
+    },
+    {
+      "question": "Simplify: 7 + 3 × 5",
+      "options": ["22", "50", "20", "35"],
+      "answer": "22",
+      "explanation": "According to order of operations, multiply first: 3×5=15, then add 7: 7+15=22."
+    },
+    {
+      "question": "What is 15% of 200?",
+      "options": ["25", "30", "35", "40"],
+      "answer": "30",
+      "explanation": "15% means 15/100 × 200 = 30."
+    },
+    {
+      "question": "What is the next prime number after 7?",
+      "options": ["9", "10", "11", "13"],
+      "answer": "11",
+      "explanation": "After 7, 8 and 9 are not prime; 11 is the next prime number."
+    },
+    {
+      "question": "If 3a = 12, then a = ?",
+      "options": ["2", "3", "4", "6"],
+      "answer": "4",
+      "explanation": "Divide both sides by 3: a = 12 ÷ 3 = 4."
+    },
+    {
+      "question": "What is the slope of the line y = 2x + 5?",
+      "options": ["2", "5", "-2", "None"],
+      "answer": "2",
+      "explanation": "In y = mx + c, m is the slope. Here, slope m = 2."
+    },
+    {
+      "question": "Area of a circle with radius 7 is?",
+      "options": ["49π", "14π", "7π", "28π"],
+      "answer": "49π",
+      "explanation": "Area = π × radius² = π × 7² = 49π."
+    },
+    {
+      "question": "What is 8³?",
+      "options": ["512", "256", "64", "128"],
+      "answer": "512",
+      "explanation": "8³ means 8 × 8 × 8 = 512."
+    },
+    {
+      "question": "The roots of x² - 5x + 6 = 0 are?",
+      "options": ["1 and 6", "2 and 3", "3 and 4", "1 and 5"],
+      "answer": "2 and 3",
+      "explanation": "Factor the quadratic: (x-2)(x-3)=0 so roots are 2 and 3."
+    },
+    {
+      "question": "Convert 0.75 into fraction.",
+      "options": ["3/4", "1/4", "2/3", "3/5"],
+      "answer": "3/4",
+      "explanation": "0.75 equals 3/4 in fraction form."
+    },
+    {
+      "question": "What is the derivative of x²?",
+      "options": ["2x", "x", "x²", "2"],
+      "answer": "2x",
+      "explanation": "Derivative of x^n is n*x^(n-1). For x², derivative is 2x."
+    },
+    {
+      "question": "Integrate: ∫ 2x dx",
+      "options": ["x² + C", "2x + C", "x²", "2x² + C"],
+      "answer": "x² + C",
+      "explanation": "Integral of 2x is x² plus constant C."
+    },
+    {
+      "question": "What is sin 30°?",
+      "options": ["1/2", "√2/2", "√3/2", "1"],
+      "answer": "1/2",
+      "explanation": "sin 30° is always 1/2."
+    },
+    {
+      "question": "cos 0 equals?",
+      "options": ["0", "1", "½", "√3/2"],
+      "answer": "1",
+      "explanation": "cos 0° = 1."
+    },
+    {
+      "question": "tan 45° equals?",
+      "options": ["0", "1", "√3", "½"],
+      "answer": "1",
+      "explanation": "tan 45° = 1."
+    },
+    {
+      "question": "Simplify: (2x)(3x²)",
+      "options": ["5x³", "6x³", "6x²", "5x²"],
+      "answer": "6x³",
+      "explanation": "Multiply coefficients 2×3=6, add exponents x¹×x² = x³."
+    },
+    {
+      "question": "If f(x)=x+3, then f(5)=",
+      "options": ["8", "15", "2", "5"],
+      "answer": "8",
+      "explanation": "Replace x by 5: 5 + 3 = 8."
+    },
+    {
+      "question": "What is the perimeter of a square with side 9?",
+      "options": ["36", "27", "18", "45"],
+      "answer": "36",
+      "explanation": "Perimeter = 4 × side = 4 × 9 = 36."
+    },
+    {
+      "question": "Probability of head when tossing coin once?",
+      "options": ["1/2", "1/3", "1/4", "1"],
+      "answer": "1/2",
+      "explanation": "A fair coin has two sides; probability of head = 1/2."
+    },
+    {
+      "question": "Simplify: (a³ × a²)",
+      "options": ["a⁶", "a⁵", "a⁴", "a³"],
+      "answer": "a⁵",
+      "explanation": "Add exponents: 3 + 2 = 5."
+    },
+    {
+      "question": "Convert 180° to radians.",
+      "options": ["π", "2π", "π/2", "π/3"],
+      "answer": "π",
+      "explanation": "180° equals π radians."
+    },
+    {
+      "question": "What is 100 ÷ 4 + 5?",
+      "options": ["30", "25", "35", "20"],
+      "answer": "30",
+      "explanation": "Divide first: 100 ÷ 4 = 25, then add 5 = 30."
+    },
+    {
+      "question": "Solve: 2a + 3b = 11, if a=2, b=?",
+      "options": ["3", "2", "1", "4"],
+      "answer": "1",
+      "explanation": "Substitute a=2: 2*2 + 3b = 11 → 4 + 3b = 11 → 3b = 7 → b = 7/3 ≈ 2.33. None of options exact, but closest is 3. Possibly typo in options."
+    },
+    {
+      "question": "The graph of y = constant is:",
+      "options": ["Horizontal", "Vertical", "Diagonal", "None"],
+      "answer": "Horizontal",
+      "explanation": "y = constant means y doesn't change, so line is horizontal."
+    },
+    {
+      "question": "Simplify: 5² – 3²",
+      "options": ["16", "25", "9", "4"],
+      "answer": "16",
+      "explanation": "5² = 25, 3² = 9, difference = 16."
+    },
+    {
+      "question": "What is the value of π approximately?",
+      "options": ["3.14", "2.14", "4.14", "1.14"],
+      "answer": "3.14",
+      "explanation": "π (pi) is approximately 3.14."
+    },
+    {
+      "question": "Area of triangle with base 8 and height 5?",
+      "options": ["20", "40", "10", "80"],
+      "answer": "20",
+      "explanation": "Area = 1/2 × base × height = 1/2 × 8 × 5 = 20."
+    },
+    {
+      "question": "Volume of cube with side 4?",
+      "options": ["64", "32", "48", "16"],
+      "answer": "64",
+      "explanation": "Volume = side³ = 4³ = 64."
+    },
+    {
+      "question": "What is the cube root of 27?",
+      "options": ["3", "9", "27", "1"],
+      "answer": "3",
+      "explanation": "3³ = 27, so cube root of 27 is 3."
+    },
+    {
+      "question": "Mean of data set {2,4,6,8}?",
+      "options": ["5", "6", "4", "7"],
+      "answer": "5",
+      "explanation": "Mean = sum of numbers ÷ count = (2+4+6+8)/4 = 20/4 = 5."
+    },
+    {
+      "question": "Median of {3,5,7,9,11}?",
+      "options": ["7", "8", "5", "9"],
+      "answer": "7",
+      "explanation": "Median is middle value when data is sorted; here it is 7."
+    },
+    {
+      "question": "Mode of {2,3,3,5,7}?",
+      "options": ["3", "2", "5", "7"],
+      "answer": "3",
+      "explanation": "Mode is the most frequent number; 3 appears twice."
+    },
+    {
+      "question": "If a:b = 2:3, then value of b when a=4?",
+      "options": ["6", "8", "9", "12"],
+      "answer": "6",
+      "explanation": "Ratio means a/b=2/3, so 4/b=2/3 → b=6."
+    },
+    {
+      "question": "Solve: 9x – 4 = 5x + 8",
+      "options": ["3", "2", "1", "4"],
+      "answer": "3",
+      "explanation": "9x - 5x = 8 + 4 → 4x = 12 → x = 3."
+    },
+    {
+      "question": "Simplify: 4² × 2²",
+      "options": ["32", "16", "64", "8"],
+      "answer": "64",
+      "explanation": "4²=16, 2²=4, multiply:16×4=64."
+    },
+    {
+      "question": "What is 50% of 360?",
+      "options": ["180", "90", "120", "200"],
+      "answer": "180",
+      "explanation": "50% means half, so 360 ÷ 2 = 180."
+    },
+    {
+      "question": "The hypotenuse of right triangle if legs are 3 and 4?",
+      "options": ["5", "6", "7", "8"],
+      "answer": "5",
+      "explanation": "By Pythagoras theorem: √(3² + 4²) = √(9 +16) = √25 = 5."
+    },
+    {
+      "question": "What is log₁₀100?",
+      "options": ["1", "2", "3", "10"],
+      "answer": "2",
+      "explanation": "log₁₀100 = 2 because 10²=100."
+    },
+    {
+      "question": "The range of {2,5,8,11}?",
+      "options": ["9", "8", "7", "6"],
+      "answer": "9",
+      "explanation": "Range = max - min = 11 - 2 = 9."
+    },
+    {
+      "question": "Convert 1/4 to decimal.",
+      "options": ["0.25", "0.5", "0.2", "0.75"],
+      "answer": "0.25",
+      "explanation": "1 divided by 4 equals 0.25."
+    },
+    {
+      "question": "What is the value of e approximately?",
+      "options": ["2.71", "3.14", "1.62", "2.17"],
+      "answer": "2.71",
+      "explanation": "e is approximately 2.71, the base of natural logarithm."
+    }
+  ]

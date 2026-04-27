@@ -1,0 +1,638 @@
+[
+    {
+      "question": "What is the approximate literacy rate of Pakistan according to PPSC 2025?",
+      "options": ["58%", "60%", "65%", "70%"],
+      "answer": "60%",
+      "explanation": "PPSC 2025 data estimates Pakistan's overall literacy rate at about 60%."
+    },
+    {
+      "question": "Which province has the highest literacy rate in Pakistan as per PPSC 2025?",
+      "options": ["Punjab", "Sindh", "Khyber Pakhtunkhwa", "Balochistan"],
+      "answer": "Punjab",
+      "explanation": "Punjab records the highest literacy rate, close to 65%, per 2025 data."
+    },
+    {
+      "question": "What is the literacy rate of Punjab province according to PPSC 2025?",
+      "options": ["58%", "63%", "65%", "68%"],
+      "answer": "65%",
+      "explanation": "Punjab's literacy rate is approximately 65%, highest among provinces."
+    },
+    {
+      "question": "What percentage of Pakistan’s GDP is allocated to education as per PPSC 2025?",
+      "options": ["1.5%", "2%", "2.5%", "3%"],
+      "answer": "2%",
+      "explanation": "Pakistan allocates about 2% of its GDP to education according to PPSC 2025."
+    },
+    {
+      "question": "Which educational level has the highest enrollment rate in Punjab?",
+      "options": ["Primary", "Secondary", "Higher Secondary", "Tertiary"],
+      "answer": "Primary",
+      "explanation": "Primary education has the highest enrollment in Punjab."
+    },
+    {
+      "question": "What is the gender parity index (GPI) for primary education in Pakistan (PPSC 2025)?",
+      "options": ["0.85", "0.90", "0.95", "1.00"],
+      "answer": "0.90",
+      "explanation": "Pakistan’s GPI for primary education is 0.90, indicating a gender gap favoring boys."
+    },
+    {
+      "question": "What is the dropout rate at the secondary school level in Punjab?",
+      "options": ["15%", "20%", "25%", "30%"],
+      "answer": "25%",
+      "explanation": "About 25% of students drop out before completing secondary school in Punjab."
+    },
+    {
+      "question": "Which body is responsible for curriculum development in Punjab?",
+      "options": ["Punjab Curriculum and Textbook Board", "Federal Ministry of Education", "Higher Education Commission", "Punjab Education Department"],
+      "answer": "Punjab Curriculum and Textbook Board",
+      "explanation": "Punjab Curriculum and Textbook Board develops curriculum for schools in Punjab."
+    },
+    {
+      "question": "What is the official language of instruction in public schools in Punjab?",
+      "options": ["Urdu", "English", "Punjabi", "Arabic"],
+      "answer": "Urdu",
+      "explanation": "Urdu is the official language of instruction in most Punjab public schools."
+    },
+    {
+      "question": "How many years of compulsory education are mandated in Punjab?",
+      "options": ["5 years", "8 years", "10 years", "12 years"],
+      "answer": "8 years",
+      "explanation": "Punjab mandates 8 years of compulsory education under the Right to Education."
+    },
+    {
+      "question": "What is the teacher-student ratio in Punjab’s public primary schools?",
+      "options": ["1:30", "1:40", "1:50", "1:60"],
+      "answer": "1:40",
+      "explanation": "Punjab’s average teacher-student ratio at the primary level is around 1:40."
+    },
+    {
+      "question": "Which act governs the education system in Punjab as of 2025?",
+      "options": ["Punjab Free and Compulsory Education Act", "Education Act 2017", "Punjab School Education Act", "National Education Policy"],
+      "answer": "Punjab Free and Compulsory Education Act",
+      "explanation": "This act mandates free and compulsory education for children in Punjab."
+    },
+    {
+      "question": "Which is the largest public university in Punjab by student enrollment?",
+      "options": ["University of the Punjab", "Lahore University of Management Sciences (LUMS)", "Government College University", "University of Engineering and Technology (UET) Lahore"],
+      "answer": "University of the Punjab",
+      "explanation": "University of the Punjab is the largest public university by enrollment."
+    },
+    {
+      "question": "Which authority regulates higher education in Punjab?",
+      "options": ["Higher Education Commission (HEC)", "Punjab Higher Education Department", "Ministry of Education", "Pakistan Education Council"],
+      "answer": "Higher Education Commission (HEC)",
+      "explanation": "HEC regulates higher education standards across Pakistan, including Punjab."
+    },
+    {
+      "question": "What is the approximate literacy gap between males and females in Punjab?",
+      "options": ["5%", "10%", "15%", "20%"],
+      "answer": "10%",
+      "explanation": "There is about a 10% literacy gap favoring males in Punjab."
+    },
+    {
+      "question": "Which sector has the highest share in Punjab’s education budget?",
+      "options": ["Primary Education", "Secondary Education", "Higher Education", "Technical Education"],
+      "answer": "Primary Education",
+      "explanation": "Primary education receives the largest budget allocation in Punjab."
+    },
+    {
+      "question": "Which initiative focuses on improving girls' education in rural Punjab?",
+      "options": ["Punjab Girls Education Program", "Educate Pakistan", "National Literacy Campaign", "Punjab School Enrollment Drive"],
+      "answer": "Punjab Girls Education Program",
+      "explanation": "This program targets increasing girls’ enrollment in rural areas."
+    },
+    {
+      "question": "What percentage of Pakistan’s population is enrolled in higher education?",
+      "options": ["5%", "10%", "15%", "20%"],
+      "answer": "10%",
+      "explanation": "About 10% of Pakistan’s population is enrolled in universities and colleges."
+    },
+    {
+      "question": "What is the average number of years of schooling completed in Punjab?",
+      "options": ["5 years", "7 years", "9 years", "11 years"],
+      "answer": "7 years",
+      "explanation": "The average schooling duration in Punjab is approximately 7 years."
+    },
+    {
+      "question": "Which program provides stipend support to poor students in Punjab?",
+      "options": ["Punjab Education Stipend Program", "Benazir Income Support Program", "National Scholarship Scheme", "Punjab Merit Scholarship"],
+      "answer": "Punjab Education Stipend Program",
+      "explanation": "This program offers financial support to underprivileged students."
+    },
+    {
+      "question": "Which international organization supports education reforms in Punjab?",
+      "options": ["UNICEF", "World Bank", "UNESCO", "All of the above"],
+      "answer": "All of the above",
+      "explanation": "UNICEF, World Bank, and UNESCO actively support Punjab education reforms."
+    },
+    {
+      "question": "Which exam is mandatory for matriculation students in Punjab?",
+      "options": ["Secondary School Certificate (SSC)", "Intermediate Exam", "Primary School Certificate", "National Aptitude Test"],
+      "answer": "Secondary School Certificate (SSC)",
+      "explanation": "SSC exam is mandatory for matriculation in Punjab."
+    },
+    {
+      "question": "What is the medium of instruction for science subjects in Punjab public schools?",
+      "options": ["English", "Urdu", "Punjabi", "Arabic"],
+      "answer": "English",
+      "explanation": "Science subjects are taught in English in Punjab public schools."
+    },
+    {
+      "question": "Which body conducts teacher training in Punjab?",
+      "options": ["Punjab Teachers Training Academy", "National Institute of Education", "Higher Education Commission", "Federal Ministry of Education"],
+      "answer": "Punjab Teachers Training Academy",
+      "explanation": "PTTA is responsible for teacher training programs in Punjab."
+    },
+    {
+      "question": "Which sector has seen the fastest growth in enrollment in Punjab?",
+      "options": ["Primary Education", "Vocational Training", "Higher Education", "Early Childhood Education"],
+      "answer": "Vocational Training",
+      "explanation": "Vocational and technical education enrollment has increased rapidly."
+    },
+    {
+      "question": "What is the average pupil-teacher ratio at secondary level in Punjab?",
+      "options": ["1:35", "1:40", "1:45", "1:50"],
+      "answer": "1:40",
+      "explanation": "Secondary level pupil-teacher ratio averages 1:40 in Punjab."
+    },
+    {
+      "question": "Which policy aims to enhance ICT use in Punjab schools?",
+      "options": ["Punjab Digital Education Policy", "National ICT Policy", "Education Technology Framework", "Punjab e-Learning Strategy"],
+      "answer": "Punjab Digital Education Policy",
+      "explanation": "This policy promotes digital learning in Punjab schools."
+    },
+    {
+      "question": "What is the dropout rate at primary level in Pakistan?",
+      "options": ["10%", "15%", "20%", "25%"],
+      "answer": "20%",
+      "explanation": "Approximately 20% of students drop out before completing primary education."
+    },
+    {
+      "question": "Which subject is mandatory at all levels of education in Punjab?",
+      "options": ["Islamic Studies", "Mathematics", "English", "Social Studies"],
+      "answer": "Islamic Studies",
+      "explanation": "Islamic Studies is compulsory in all Punjab schools."
+    },
+    {
+      "question": "How many public sector universities are there in Punjab?",
+      "options": ["20", "30", "40", "50"],
+      "answer": "40",
+      "explanation": "Punjab has approximately 40 public universities as of 2025."
+    },
+    {
+      "question": "What is the gross enrollment ratio in secondary education in Punjab?",
+      "options": ["50%", "60%", "70%", "80%"],
+      "answer": "60%",
+      "explanation": "Gross enrollment ratio at secondary level is about 60% in Punjab."
+    },
+    {
+      "question": "What is the role of Punjab Education Foundation?",
+      "options": ["Regulate private schools", "Provide scholarships", "Promote public-private partnerships", "All of the above"],
+      "answer": "All of the above",
+      "explanation": "PEF regulates, supports, and promotes private education in Punjab."
+    },
+    {
+      "question": "Which is the oldest university in Punjab?",
+      "options": ["University of the Punjab", "Government College University", "UET Lahore", "COMSATS University"],
+      "answer": "University of the Punjab",
+      "explanation": "Founded in 1882, it is the oldest university in Punjab."
+    },
+    {
+      "question": "What is the target literacy rate for Pakistan by 2030 according to PPSC?",
+      "options": ["75%", "80%", "85%", "90%"],
+      "answer": "75%",
+      "explanation": "PPSC targets 75% literacy rate by 2030."
+    },
+    {
+      "question": "What is the percentage of out-of-school children in Pakistan?",
+      "options": ["20%", "25%", "30%", "35%"],
+      "answer": "30%",
+      "explanation": "Around 30% of children are out of school in Pakistan."
+    },
+    {
+      "question": "Which program promotes early childhood education in Punjab?",
+      "options": ["Punjab Early Learning Initiative", "National Child Education Program", "Punjab Pre-School Scheme", "Educate Early Punjab"],
+      "answer": "Punjab Early Learning Initiative",
+      "explanation": "This initiative focuses on early childhood education in Punjab."
+    },
+    {
+      "question": "What is the main challenge in Punjab’s education sector?",
+      "options": ["Quality of education", "Lack of infrastructure", "Teacher absenteeism", "All of the above"],
+      "answer": "All of the above",
+      "explanation": "Punjab faces multiple challenges including quality, infrastructure, and teacher attendance."
+    },
+    {
+      "question": "Which ministry oversees education in Punjab?",
+      "options": ["Punjab School Education Department", "Federal Ministry of Education", "Higher Education Commission", "Punjab Literacy Department"],
+      "answer": "Punjab School Education Department",
+      "explanation": "The provincial department manages education affairs in Punjab."
+    },
+    {
+      "question": "What is the purpose of National Education Policy 2025 in Pakistan?",
+      "options": ["Increase enrollment", "Improve education quality", "Promote technical education", "All of the above"],
+      "answer": "All of the above",
+      "explanation": "NEP 2025 aims for holistic improvement in Pakistan’s education."
+    },
+    {
+      "question": "Which assessment system is used in Punjab schools?",
+      "options": ["Continuous Assessment System", "Annual Exams", "Semester System", "Modular Testing"],
+      "answer": "Continuous Assessment System",
+      "explanation": "Punjab uses continuous assessment to evaluate students."
+    },
+    {
+      "question": "Which province has the lowest literacy rate in Pakistan?",
+      "options": ["Balochistan", "Sindh", "Khyber Pakhtunkhwa", "Punjab"],
+      "answer": "Balochistan",
+      "explanation": "Balochistan has the lowest literacy rate, under 50%."
+    },
+    {
+      "question": "How does Punjab ensure education for differently-abled children?",
+      "options": ["Special schools", "Inclusive education", "Scholarships", "All of the above"],
+      "answer": "All of the above",
+      "explanation": "Punjab provides multiple support mechanisms for differently-abled students."
+    },
+    {
+      "question": "What is the main language used in primary schools in rural Punjab?",
+      "options": ["Punjabi", "Urdu", "English", "Sindhi"],
+      "answer": "Punjabi",
+      "explanation": "Punjabi is commonly used in rural primary education in Punjab."
+    },
+    {
+      "question": "Which international exam is recognized for higher education admissions in Punjab?",
+      "options": ["SAT", "GRE", "GAT", "IELTS"],
+      "answer": "GAT",
+      "explanation": "GAT is widely recognized for admissions in Pakistani universities."
+    },
+    {
+      "question": "Which program supports adult literacy in Punjab?",
+      "options": ["Punjab Adult Literacy Program", "National Literacy Drive", "Community Education Initiative", "All of the above"],
+      "answer": "Punjab Adult Literacy Program",
+      "explanation": "This program targets adult education in Punjab."
+    },
+    {
+      "question": "Which is the focus of Punjab Technical Education and Vocational Training Authority (TEVTA)?",
+      "options": ["Technical skills development", "Primary education", "Higher education", "Teacher training"],
+      "answer": "Technical skills development",
+      "explanation": "TEVTA focuses on vocational and technical skill training."
+    },
+    {
+      "question": "What percentage of education in Punjab is provided by private sector schools?",
+      "options": ["20%", "30%", "40%", "50%"],
+      "answer": "30%",
+      "explanation": "Private sector provides approximately 30% of education in Punjab."
+    },
+    {
+      "question": "What is the literacy rate of women in Punjab as per PPSC 2025?",
+      "options": ["50%", "55%", "60%", "65%"],
+      "answer": "55%",
+      "explanation": "Women’s literacy rate in Punjab is about 55%."
+    },
+    {
+      "question": "What is the annual growth rate of education budget in Punjab?",
+      "options": ["5%", "7%", "10%", "12%"],
+      "answer": "7%",
+      "explanation": "Punjab’s education budget grows at approximately 7% per year."
+    },
+    {
+      "question": "Which program promotes ICT education in Punjab’s schools?",
+      "options": ["Punjab Digital Literacy Program", "National ICT Initiative", "Education Tech Punjab", "School Tech Drive"],
+      "answer": "Punjab Digital Literacy Program",
+      "explanation": "This program focuses on improving digital literacy among students."
+    },
+    {
+      "question": "Which international organization partners with Punjab for teacher training?",
+      "options": ["UNESCO", "World Bank", "USAID", "DFID"],
+      "answer": "UNESCO",
+      "explanation": "UNESCO supports teacher training initiatives in Punjab."
+    },
+    {
+      "question": "What is the projected literacy rate of Pakistan by 2025?",
+      "options": ["70%", "75%", "80%", "85%"],
+      "answer": "75%",
+      "explanation": "Pakistan aims to achieve a literacy rate of 75% by 2025 as per PPSC targets."
+    },
+    {
+      "question": "Which province has the highest literacy rate in Pakistan?",
+      "options": ["Punjab", "Sindh", "Khyber Pakhtunkhwa", "Balochistan"],
+      "answer": "Punjab",
+      "explanation": "Punjab has the highest literacy rate among provinces."
+    },
+    {
+      "question": "How many years of compulsory education are mandated in Punjab?",
+      "options": ["5 years", "8 years", "10 years", "12 years"],
+      "answer": "8 years",
+      "explanation": "Punjab mandates 8 years of compulsory education under the law."
+    },
+    {
+      "question": "What percentage of Pakistan’s GDP is allocated to education?",
+      "options": ["1.5%", "2%", "2.5%", "3%"],
+      "answer": "2%",
+      "explanation": "Pakistan allocates approximately 2% of GDP to education."
+    },
+    {
+      "question": "Which board is responsible for curriculum development in Punjab?",
+      "options": ["Punjab Curriculum and Textbook Board", "Federal Ministry of Education", "Higher Education Commission", "Punjab Education Department"],
+      "answer": "Punjab Curriculum and Textbook Board",
+      "explanation": "The Punjab Curriculum and Textbook Board develops educational curriculum for Punjab."
+    },
+    {
+      "question": "What is the teacher to student ratio in Punjab’s primary schools?",
+      "options": ["1:30", "1:40", "1:50", "1:60"],
+      "answer": "1:40",
+      "explanation": "The average teacher-student ratio in Punjab primary schools is about 1:40."
+    },
+    {
+      "question": "What is the dropout rate at secondary level in Punjab?",
+      "options": ["15%", "20%", "25%", "30%"],
+      "answer": "25%",
+      "explanation": "Approximately 25% of students drop out before completing secondary education in Punjab."
+    },
+    {
+      "question": "Which language is primarily used as the medium of instruction in Punjab public schools?",
+      "options": ["Urdu", "English", "Punjabi", "Sindhi"],
+      "answer": "Urdu",
+      "explanation": "Urdu is the official medium of instruction in most Punjab public schools."
+    },
+    {
+      "question": "What is the gender parity index (GPI) for primary education in Pakistan?",
+      "options": ["0.85", "0.90", "0.95", "1.00"],
+      "answer": "0.90",
+      "explanation": "GPI of 0.90 indicates gender gap favoring boys in primary education."
+    },
+    {
+      "question": "Which act governs free and compulsory education in Punjab?",
+      "options": ["Punjab Free and Compulsory Education Act", "Education Act 2017", "Punjab School Education Act", "National Education Policy"],
+      "answer": "Punjab Free and Compulsory Education Act",
+      "explanation": "This act mandates free and compulsory education for all children in Punjab."
+    },
+    {
+      "question": "Which university is the largest public university in Punjab by enrollment?",
+      "options": ["University of the Punjab", "LUMS", "Government College University", "UET Lahore"],
+      "answer": "University of the Punjab",
+      "explanation": "University of the Punjab is the largest public university by enrollment."
+    },
+    {
+      "question": "Which organization regulates higher education in Pakistan including Punjab?",
+      "options": ["Higher Education Commission", "Punjab Education Department", "Federal Ministry of Education", "Pakistan Education Council"],
+      "answer": "Higher Education Commission",
+      "explanation": "HEC regulates higher education standards across Pakistan."
+    },
+    {
+      "question": "What is the approximate literacy gap between males and females in Punjab?",
+      "options": ["5%", "10%", "15%", "20%"],
+      "answer": "10%",
+      "explanation": "There is an approximate 10% literacy gap favoring males in Punjab."
+    },
+    {
+      "question": "Which sector receives the highest share of Punjab’s education budget?",
+      "options": ["Primary Education", "Secondary Education", "Higher Education", "Technical Education"],
+      "answer": "Primary Education",
+      "explanation": "Primary education receives the largest budget allocation in Punjab."
+    },
+    {
+      "question": "What is the main language used in rural primary schools in Punjab?",
+      "options": ["Punjabi", "Urdu", "English", "Sindhi"],
+      "answer": "Punjabi",
+      "explanation": "Punjabi is commonly used in rural primary schools in Punjab."
+    },
+    {
+      "question": "Which program supports girls' education in rural Punjab?",
+      "options": ["Punjab Girls Education Program", "Educate Pakistan", "National Literacy Campaign", "Punjab Enrollment Drive"],
+      "answer": "Punjab Girls Education Program",
+      "explanation": "This program aims to increase girls’ enrollment in rural Punjab."
+    },
+    {
+      "question": "Which body conducts teacher training in Punjab?",
+      "options": ["Punjab Teachers Training Academy", "National Institute of Education", "Higher Education Commission", "Federal Ministry of Education"],
+      "answer": "Punjab Teachers Training Academy",
+      "explanation": "PTTA is responsible for teacher training in Punjab."
+    },
+    {
+      "question": "What percentage of students in Punjab attend private schools?",
+      "options": ["20%", "30%", "40%", "50%"],
+      "answer": "30%",
+      "explanation": "About 30% of students in Punjab are enrolled in private schools."
+    },
+    {
+      "question": "Which international organization supports education reforms in Punjab?",
+      "options": ["UNICEF", "World Bank", "UNESCO", "All of the above"],
+      "answer": "All of the above",
+      "explanation": "UNICEF, World Bank, and UNESCO support education reforms in Punjab."
+    },
+    {
+      "question": "What is the gross enrollment ratio in secondary education in Punjab?",
+      "options": ["50%", "60%", "70%", "80%"],
+      "answer": "60%",
+      "explanation": "Gross enrollment in secondary education is about 60% in Punjab."
+    },
+    {
+      "question": "Which program provides financial stipends to poor students in Punjab?",
+      "options": ["Punjab Education Stipend Program", "Benazir Income Support Program", "National Scholarship Scheme", "Punjab Merit Scholarship"],
+      "answer": "Punjab Education Stipend Program",
+      "explanation": "This program supports underprivileged students financially."
+    },
+    {
+      "question": "Which subject is mandatory in all schools of Punjab?",
+      "options": ["Islamic Studies", "Mathematics", "English", "Science"],
+      "answer": "Islamic Studies",
+      "explanation": "Islamic Studies is compulsory at all levels."
+    },
+    {
+      "question": "What is the average years of schooling completed in Punjab?",
+      "options": ["5 years", "7 years", "9 years", "11 years"],
+      "answer": "7 years",
+      "explanation": "The average schooling duration in Punjab is approximately 7 years."
+    },
+    {
+      "question": "Which policy promotes ICT integration in Punjab schools?",
+      "options": ["Punjab Digital Education Policy", "National ICT Policy", "Education Technology Framework", "Punjab e-Learning Strategy"],
+      "answer": "Punjab Digital Education Policy",
+      "explanation": "This policy promotes digital learning in Punjab’s education system."
+    },
+    {
+      "question": "Which authority manages technical and vocational training in Punjab?",
+      "options": ["Punjab TEVTA", "Higher Education Commission", "Punjab Education Department", "Federal Ministry of Education"],
+      "answer": "Punjab TEVTA",
+      "explanation": "TEVTA manages technical and vocational training in Punjab."
+    },
+    {
+      "question": "What is the dropout rate at the primary education level in Pakistan?",
+      "options": ["10%", "15%", "20%", "25%"],
+      "answer": "20%",
+      "explanation": "About 20% of students drop out before completing primary education."
+    },
+    {
+      "question": "Which exam is mandatory for matric students in Punjab?",
+      "options": ["Secondary School Certificate (SSC)", "Intermediate Exam", "Primary School Certificate", "National Aptitude Test"],
+      "answer": "Secondary School Certificate (SSC)",
+      "explanation": "SSC exam is mandatory for matriculation students."
+    },
+    {
+      "question": "Which body regulates private schools in Punjab?",
+      "options": ["Punjab Education Foundation", "Punjab Curriculum Board", "Higher Education Commission", "Federal Ministry of Education"],
+      "answer": "Punjab Education Foundation",
+      "explanation": "PEF regulates and supports private schools in Punjab."
+    },
+    {
+      "question": "How many public universities are there in Punjab approximately?",
+      "options": ["20", "30", "40", "50"],
+      "answer": "40",
+      "explanation": "Punjab has around 40 public universities."
+    },
+    {
+      "question": "What is the main challenge faced by Punjab’s education sector?",
+      "options": ["Quality of education", "Lack of infrastructure", "Teacher absenteeism", "All of the above"],
+      "answer": "All of the above",
+      "explanation": "Punjab faces multiple challenges including quality, infrastructure, and attendance."
+    },
+    {
+      "question": "Which language is mostly used for science subjects in Punjab schools?",
+      "options": ["English", "Urdu", "Punjabi", "Arabic"],
+      "answer": "English",
+      "explanation": "Science subjects are mainly taught in English."
+    },
+    {
+      "question": "Which program targets adult literacy in Punjab?",
+      "options": ["Punjab Adult Literacy Program", "National Literacy Drive", "Community Education Initiative", "All of the above"],
+      "answer": "Punjab Adult Literacy Program",
+      "explanation": "This program focuses on adult education."
+    },
+    {
+      "question": "Which is the oldest university in Punjab?",
+      "options": ["University of the Punjab", "Government College University", "UET Lahore", "COMSATS University"],
+      "answer": "University of the Punjab",
+      "explanation": "Founded in 1882, it is the oldest university in Punjab."
+    },
+    {
+      "question": "Which examination is widely accepted for higher education admission in Punjab?",
+      "options": ["SAT", "GRE", "GAT", "IELTS"],
+      "answer": "GAT",
+      "explanation": "GAT is a common entrance test for universities in Punjab."
+    },
+    {
+      "question": "Which ministry manages education in Punjab province?",
+      "options": ["Punjab School Education Department", "Federal Ministry of Education", "Higher Education Commission", "Punjab Literacy Department"],
+      "answer": "Punjab School Education Department",
+      "explanation": "This provincial department manages Punjab’s education affairs."
+    },
+    {
+      "question": "What is the annual growth rate of the education budget in Punjab?",
+      "options": ["5%", "7%", "10%", "12%"],
+      "answer": "7%",
+      "explanation": "Punjab’s education budget grows at about 7% annually."
+    },
+    {
+      "question": "Which policy framework focuses on continuous assessment in Punjab schools?",
+      "options": ["Continuous Assessment System", "Annual Exams", "Semester System", "Modular Testing"],
+      "answer": "Continuous Assessment System",
+      "explanation": "Punjab uses continuous assessment to evaluate student performance."
+    },
+    {
+      "question": "What is the literacy rate of women in Punjab according to PPSC 2025?",
+      "options": ["50%", "55%", "60%", "65%"],
+      "answer": "55%",
+      "explanation": "Women’s literacy rate in Punjab is about 55%."
+    },
+    {
+      "question": "Which initiative promotes digital literacy among students in Punjab?",
+      "options": ["Punjab Digital Literacy Program", "National ICT Initiative", "Education Tech Punjab", "School Tech Drive"],
+      "answer": "Punjab Digital Literacy Program",
+      "explanation": "This program aims to enhance ICT skills in students."
+    },
+    {
+      "question": "Which organization partners with Punjab for teacher training?",
+      "options": ["UNESCO", "World Bank", "USAID", "DFID"],
+      "answer": "UNESCO",
+      "explanation": "UNESCO supports teacher training programs in Punjab."
+    },
+    {
+      "question": "What is the role of Punjab Education Foundation?",
+      "options": ["Regulate private schools", "Provide scholarships", "Promote public-private partnerships", "All of the above"],
+      "answer": "All of the above",
+      "explanation": "PEF performs multiple roles to enhance private education."
+    },
+    {
+      "question": "What percentage of students drop out before completing primary education in Pakistan?",
+      "options": ["15%", "20%", "25%", "30%"],
+      "answer": "20%",
+      "explanation": "Dropout rate at primary level is approximately 20%."
+    },
+    {
+      "question": "Which program focuses on early childhood education in Punjab?",
+      "options": ["Punjab Early Learning Initiative", "National Child Education Program", "Punjab Pre-School Scheme", "Educate Early Punjab"],
+      "answer": "Punjab Early Learning Initiative",
+      "explanation": "This initiative promotes education at early childhood level."
+    },
+    {
+      "question": "Which sector is growing fastest in Punjab education enrollment?",
+      "options": ["Primary Education", "Vocational Training", "Higher Education", "Early Childhood Education"],
+      "answer": "Vocational Training",
+      "explanation": "Vocational training enrollment is increasing rapidly."
+    },
+    {
+      "question": "Which test is required for teacher certification in Punjab?",
+      "options": ["Punjab Teacher Eligibility Test", "National Teacher Test", "PTA Certification", "Punjab Education Board Exam"],
+      "answer": "Punjab Teacher Eligibility Test",
+      "explanation": "This test certifies teachers for employment."
+    },
+    {
+      "question": "What is the status of inclusive education in Punjab?",
+      "options": ["Limited", "Expanding", "Well Established", "Nonexistent"],
+      "answer": "Expanding",
+      "explanation": "Inclusive education is gradually expanding in Punjab."
+    },
+    {
+      "question": "What is the focus of Punjab Skills Development Program?",
+      "options": ["Enhance vocational skills", "Improve primary education", "Provide scholarships", "Teacher training"],
+      "answer": "Enhance vocational skills",
+      "explanation": "This program targets skill enhancement for youth."
+    },
+    {
+      "question": "Which body manages curriculum reforms in Punjab?",
+      "options": ["Punjab Curriculum and Textbook Board", "Higher Education Commission", "Federal Ministry of Education", "Punjab Education Department"],
+      "answer": "Punjab Curriculum and Textbook Board",
+      "explanation": "PCTB manages curriculum and textbook development."
+    },
+    {
+      "question": "Which digital platform provides online education resources in Punjab?",
+      "options": ["Punjab Virtual School", "eLearning Punjab", "Digital Punjab Academy", "Punjab Online Learning"],
+      "answer": "Punjab Virtual School",
+      "explanation": "This platform offers digital learning materials."
+    },
+    {
+      "question": "What percentage of Punjab’s education budget is spent on infrastructure?",
+      "options": ["15%", "20%", "25%", "30%"],
+      "answer": "20%",
+      "explanation": "20% of the budget goes toward improving school infrastructure."
+    },
+    {
+      "question": "What is the average class size in Punjab’s secondary schools?",
+      "options": ["35", "40", "45", "50"],
+      "answer": "40",
+      "explanation": "Average class size in secondary schools is about 40 students."
+    },
+    {
+      "question": "Which examination is necessary for university admission in Punjab?",
+      "options": ["Matriculation", "Intermediate", "GAT", "NTS Test"],
+      "answer": "GAT",
+      "explanation": "GAT scores are required for admission to many universities."
+    },
+    {
+      "question": "Which initiative promotes STEM education in Punjab schools?",
+      "options": ["Punjab STEM Program", "National Science Initiative", "Tech Punjab", "Science for All"],
+      "answer": "Punjab STEM Program",
+      "explanation": "This initiative encourages science, technology, engineering, and math."
+    },
+    {
+      "question": "Which sector faces major challenges in Punjab education?",
+      "options": ["Rural education", "Urban education", "Higher education", "Private education"],
+      "answer": "Rural education",
+      "explanation": "Rural areas face significant educational challenges."
+    },
+    {
+      "question": "What is the role of the Higher Education Commission (HEC)?",
+      "options": ["Regulates universities", "Funds schools", "Manages curriculum", "Conducts exams"],
+      "answer": "Regulates universities",
+      "explanation": "HEC regulates and accredits higher education institutions."
+    }
+  ]

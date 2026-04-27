@@ -1,0 +1,518 @@
+[
+  {
+    "question": "What is the total outlay of Punjab’s 2025–26 budget?",
+    "options": ["Rs 4.8 trillion", "Rs 5.335 trillion", "Rs 6 trillion", "Rs 3.5 trillion"],
+    "answer": "Rs 5.335 trillion",
+    "explanation": "Punjab’s FY 2025–26 budget outlay was Rs 5.335 trillion, the province’s largest ever."
+  },
+  {
+    "question": "What percentage increase was recorded in Punjab’s Annual Development Programme for 2025–26?",
+    "options": ["30%", "47%", "20%", "60%"],
+    "answer": "47%",
+    "explanation": "ADP allocation surged by 47%, reaching Rs 1.24 trillion."
+  },
+  {
+    "question": "Punjab’s budget declared the fiscal plan as:",
+    "options": ["Tax‑free", "Inflation‑triggering", "Borrowing‑based", "Unbalanced"],
+    "answer": "Tax‑free",
+    "explanation": "No new taxes or higher rates were introduced—budget dubbed tax‑free."
+  },
+  {
+    "question": "Forecasted budget surplus for Punjab in FY 2025–26 was approximately:",
+    "options": ["Rs 630 bn", "Rs 740 bn", "Rs 1 trillion", "Rs 500 bn"],
+    "answer": "Rs 740 bn",
+    "explanation": "Punjab projected a surplus of around Rs 740 billion."
+  },
+  {
+    "question": "Punjab’s own revenue target for the 2025–26 fiscal year is:",
+    "options": ["Rs 500 bn", "Rs 828.2 bn", "Rs 1 trillion", "Rs 340 bn"],
+    "answer": "Rs 828.2 bn",
+    "explanation": "Own‑source revenue (tax + non‑tax) target was set at Rs 828.2 billion."
+  },
+  {
+    "question": "What was the target assigned to Punjab Revenue Authority (PRA) for revenue collection?",
+    "options": ["Rs 300 bn", "Rs 170 bn", "Rs 340 bn", "Rs 400 bn"],
+    "answer": "Rs 340 bn",
+    "explanation": "PRA’s revenue collection target was stabilized at Rs 340 billion."
+  },
+  {
+    "question": "Which sector received Rs 811.8 billion in the Punjab budget 2025–26?",
+    "options": ["Agriculture", "Education", "Industry", "Transport"],
+    "answer": "Education",
+    "explanation": "Education outlay at Rs 811.8 billion reflects a 21% increase."
+  },
+  {
+    "question": "How much was allocated for healthcare in Punjab’s FY 2025–26 budget?",
+    "options": ["Rs 539 bn", "Rs 630.5 bn", "Rs 450 bn", "Rs 800 bn"],
+    "answer": "Rs 630.5 bn",
+    "explanation": "Health sector was allocated Rs 630.5 billion (~17% growth)."
+  },
+  {
+    "question": "What minimum monthly wage was announced in Punjab budget 2025–26?",
+    "options": ["Rs 32,000", "Rs 37,000", "Rs 40,000", "Rs 44,000"],
+    "answer": "Rs 40,000",
+    "explanation": "Minimum wage increased to Rs 40,000 per month."
+  },
+  {
+    "question": "By what percent were government employees’ salaries increased in Punjab budget 2025–26?",
+    "options": ["5%", "10%", "15%", "20%"],
+    "answer": "10%",
+    "explanation": "Public sector salaries were raised by 10%."
+  },
+  {
+    "question": "Punjab allocated roughly how much for the agriculture sector in 2025–26?",
+    "options": ["Rs 117 bn", "Rs 129.8 bn", "Rs 181 bn", "Rs 66 bn"],
+    "answer": "Rs 129.8 bn",
+    "explanation": "Agriculture received Rs 129.8 billion (~10.7% increase)."
+  },
+  {
+    "question": "How much did Punjab budget for local governments (PFC transfers) in FY 2025–26?",
+    "options": ["Rs 600 bn", "Rs 764.2 bn", "Rs 500 bn", "Rs 1 trillion"],
+    "answer": "Rs 764.2 bn",
+    "explanation": "Transfers to local governments via PFC estimated at Rs 764.2 billion."
+  },
+  {
+    "question": "What was the federal growth forecast for Pakistan’s economy in FY 2025–26?",
+    "options": ["2.7%", "3.6%", "4.2%", "5.0%"],
+    "answer": "4.2%",
+    "explanation": "Growth target revised upward to 4.2% amid cautious fiscal planning."
+  },
+  {
+    "question": "Pakistan’s projected GDP growth for FY 2024‑25 (Economic Survey) is:",
+    "options": ["2.5%", "2.7%", "3.6%", "4.0%"],
+    "answer": "2.7%",
+    "explanation": "Economic Survey recorded 2.7% growth for FY 2024‑25."
+  },
+  {
+    "question": "What was Pakistan’s inflation rate in FY 2024‑25?",
+    "options": ["3.5%", "4.6%", "5.5%", "6.2%"],
+    "answer": "4.6%",
+    "explanation": "Inflation stood at approximately 4.6% in that fiscal year."
+  },
+  {
+    "question": "What is the name of Pakistan’s 5‑year economic plan (2024–29)?",
+    "options": ["Naya Pakistan", "Vision 2047", "Uraan Pakistan", "Quest for Growth"],
+    "answer": "Uraan Pakistan",
+    "explanation": "‘Uraan Pakistan’ is the national economic transformation plan launched December 2024."
+  },
+  {
+    "question": "Which one of the following is *not* a pillar in Uraan Pakistan?",
+    "options": ["Water security", "Quantum Valley", "Defense expansion", "Export-led growth"],
+    "answer": "Defense expansion",
+    "explanation": "Uraan focuses on economic transformation, not military expansion."
+  },
+  {
+    "question": "Which major infrastructure initiative was included under Uraan Pakistan?",
+    "options": ["Diamer‑Bhasha Dam", "Orange Line Metro", "K-IV project", "Both a & c"],
+    "answer": "Both a & c",
+    "explanation": "Diamer‑Bhasha Dam and K-IV water project are featured projects."
+  },
+  {
+    "question": "Pakistan’s projected current account surplus in FY 2024‑25 was approximately:",
+    "options": ["$0.2 b", "$1.9 b", "$5.0 b", "$3.2 b"],
+    "answer": "$1.9 b",
+    "explanation": "Current account surplus recorded at ~$1.9 b between July‑April."
+  },
+  {
+    "question": "What was Pakistan’s fiscal deficit for FY 2024‑25 as % of GDP (survey)?",
+    "options": ["2.6%", "3.5%", "4.2%", "5.0%"],
+    "answer": "2.6%",
+    "explanation": "Fiscal deficit narrowed to 2.6% of GDP in FY 2024‑25."
+  },
+  {
+    "question": "Federal defence spending growth for 2025‑26 was projected to be:",
+    "options": ["5%", "10%", "17%", "25%"],
+    "answer": "17%",
+    "explanation": "Pakistan planned a ~17% increase in defence allocation despite overall cuts."
+  },
+  {
+    "question": "Which province was planning to raise ₹2,500 crore via 15‑year stock in July 2025?",
+    "options": ["Punjab (India)", "Punjab (Pakistan)", "Sindh", "Khyber Pakhtunkhwa"],
+    "answer": "Punjab (India)",
+    "explanation": "Punjab state in India aimed to issue ₹2,500 crore bonds."
+  },
+  {
+    "question": "Which state recorded a 32% growth in GST revenue in July 2025?",
+    "options": ["Punjab (India)", "Punjab (Pakistan)", "Balochistan", "Sindh"],
+    "answer": "Punjab (India)",
+    "explanation": "Punjab in India recorded 32% year‑on‑year GST growth in July."
+  },
+  {
+    "question": "Punjab CM announced a scheme that increased canal irrigation usage from 21% to:",
+    "options": ["45%", "63%", "75%", "50%"],
+    "answer": "63%",
+    "explanation": "CM Mann stated canal irrigation coverage rose from 21% to 63%. (Indian Punjab)"
+  },
+  {
+    "question": "Punjab’s public debt projection by March 2026 was expected to reach:",
+    "options": ["Rs 2.8 lakh crore", "Rs 3.5 lakh crore", "Rs 4.17 lakh crore", "Rs 5 lakh crore"],
+    "answer": "Rs 4.17 lakh crore",
+    "explanation": "Debt load projected to rise to Rs 4.17 lakh crore in Indian Punjab."
+  },
+  {
+    "question": "Center cut Punjab’s borrowing limit by how much in 2025?",
+    "options": ["₹5,000 cr", "₹10,000 cr", "₹16,676 cr", "₹25,000 cr"],
+    "answer": "₹16,676 cr",
+    "explanation": "India’s Centre reduced Punjab’s borrowing cap by ₹16,676 crore."
+  },
+  {
+    "question": "In Punjab’s 2025 budget, expenditure under Account-II (Food) was slashed by:",
+    "options": ["50%", "70%", "88%", "25%"],
+    "answer": "88%",
+    "explanation": "Food welfare expenditure reduced by about 88% compared to previous year."
+  },
+  {
+    "question": "Under Punjab’s budget, nearly what number of projects were completed in FY 24?",
+    "options": ["3,000", "6,104", "10,000", "2,000"],
+    "answer": "6,104",
+    "explanation": "Approximately 6,104 development schemes were completed in FY 2024."
+  },
+  {
+    "question": "Which sector was allocated Rs 314 bn for electric bus purchase in Punjab’s 2025‑26 plan?",
+    "options": ["Transport", "Energy", "Digital", "None"],
+    "answer": "Transport",
+    "explanation": "Punjab invested heavily in electric vehicle rollout for public transport."
+  },
+  {
+    "question": "How much was allocated for Khelta Punjab (sports) in Punjab’s FY 2024‑25?",
+    "options": ["Rs 5 bn", "Rs 7 bn", "Rs 10 bn", "Rs 3 bn"],
+    "answer": "Rs 7 bn",
+    "explanation": "Approximately Rs 7 billion allocated to promote sports under that scheme."
+  },
+  {
+    "question": "What was the primary objective of Uraan Pakistan?",
+    "options": ["Reduce fiscal deficit", "Boost export‑led growth", "Digitize economy", "All of these"],
+    "answer": "All of these",
+    "explanation": "Uraan covers macro stability, exports expansion, digital push & social equity."
+  },
+  {
+    "question": "Under Uraan, Pakistan aims to reach approximately how much in exports by 2029?",
+    "options": ["$40 bn", "$50 bn", "$60 bn", "$70 bn"],
+    "answer": "$60 bn",
+    "explanation": "Target export goal is about $60 billion by 2029."
+  },
+  {
+    "question": "Punjab’s ADP financed nearly how many development projects in FY 25‑26?",
+    "options": ["500", "850+", "300", "1000+"],
+    "answer": "850+",
+    "explanation": "Punjab planned to support over 850 ongoing/new development schemes."
+  },
+  {
+    "question": "Which key health initiative received Rs 14.5 bn in Punjab’s 2025‑26 budget?",
+    "options": ["Cancer Institute Lahore", "Telemedicine units", "Burn units", "Clinic on Wheels"],
+    "answer": "Cancer Institute Lahore",
+    "explanation": "Nawaz Sharif Institute of Cancer Treatment in Lahore got Rs 14.5 bn."
+  },
+  {
+    "question": "What amount was designated for the Maryam Nawaz Laptop Scheme in Punjab’s budget?",
+    "options": ["Rs 10 bn", "Rs 15 bn", "Rs 27 bn", "Rs 20 bn"],
+    "answer": "Rs 27 bn",
+    "explanation": "Rs 27 billion for university laptop distribution under CM scheme."
+  },
+  {
+    "question": "Punjab reduced how many vacant posts to improve fiscal efficiency?",
+    "options": ["10,000", "28,330", "50,000", "5,000"],
+    "answer": "28,330",
+    "explanation": "Budget document reported that 28,330 vacant posts were abolished."
+  },
+  {
+    "question": "Which programme covers unemployed youth jobs and health insurance in Indian Punjab?",
+    "options": ["Green Punjab", "Sehat Yojna", "Youth Udaan", "Punjab Rozgar"],
+    "answer": "Sehat Yojna",
+    "explanation": "Chief Minister’s Sehat Yojna provides jobs and Rs 10 lakh cashless health cover."
+  },
+  {
+    "question": "Pakistan’s finance minister visited the US in July 2025 to negotiate a:",
+    "options": ["Military deal", "Trade agreement", "Debt waiver", "Visa policy"],
+    "answer": "Trade agreement",
+    "explanation": "Minister traveled to finalize a bilateral trade deal focused on oil and markets."
+  },
+  {
+    "question": "Under the federal budget, Pakistan’s projected fiscal deficit for 2025‑26 is:",
+    "options": ["2.7%", "3.6%", "4.8%", "5.9%"],
+    "answer": "4.8%",
+    "explanation": "Fiscal deficit target set at 4.8% in the 2025‑26 federal budget."
+  },
+  {
+    "question": "Pakistan’s real GDP growth in FY 2024‑25 was approximately?",
+    "options": ["2.5%", "2.7%", "3.6%", "4.0%"],
+    "answer": "2.7%",
+    "explanation": "Economic Survey 2024‑25 recorded growth at around 2.7 % :contentReference[oaicite:1]{index=1}"
+  },
+  {
+    "question": "Average inflation (CPI) for Jul‑Apr in FY 2024‑25 was about?",
+    "options": ["3.5%", "4.7%", "6.2%", "9.1%"],
+    "answer": "4.7%",
+    "explanation": "Inflation averaged 4.7% in Jul‑Apr FY 25 :contentReference[oaicite:2]{index=2}"
+  },
+  {
+    "question": "Fiscal deficit of Pakistan narrowed to about ___ % of GDP in FY 2024‑25 (first 9 months)?",
+    "options": ["3.7%", "2.6%", "4.2%", "5.0%"],
+    "answer": "2.6%",
+    "explanation": "Fiscal deficit narrowed to 2.6% of GDP :contentReference[oaicite:3]{index=3}"
+  },
+  {
+    "question": "Pakistan posted a current account surplus of roughly?",
+    "options": ["$0.2 b", "$1.9 b", "$5 b", "$3 b"],
+    "answer": "$1.9 b",
+    "explanation": "Current account surplus was around $1.9 b :contentReference[oaicite:4]{index=4}"
+  },
+  {
+    "question": "Pakistan’s public debt to GDP ratio by March 2025 was about?",
+    "options": ["73.6%", "76.4%", "68.0%", "80.1%"],
+    "answer": "73.6%",
+    "explanation": "Debt‑to‑GDP stood at ~73.6% by March 2025 :contentReference[oaicite:5]{index=5}"
+  },
+  {
+    "question": "Agriculture sector growth in FY 2024‑25 was approximately?",
+    "options": ["0.56%", "2.5%", "4.0%", "5.5%"],
+    "answer": "0.56%",
+    "explanation": "Agriculture grew by 0.56% despite crop declines :contentReference[oaicite:6]{index=6}"
+  },
+  {
+    "question": "Industrial sector growth in FY 2024‑25 was around?",
+    "options": ["1.3%", "4.0%", "4.77%", "3.5%"],
+    "answer": "4.77%",
+    "explanation": "Industrial/GDP posted ~4.77% growth :contentReference[oaicite:7]{index=7}"
+  },
+  {
+    "question": "Services sector expansion in FY 2024‑25 reached approximately?",
+    "options": ["2.2%", "2.9%", "4.1%", "5.0%"],
+    "answer": "2.9%",
+    "explanation": "Services expanded by ~2.91% :contentReference[oaicite:8]{index=8}"
+  },
+  {
+    "question": "Investment‑to‑GDP ratio in FY 25 rose to about?",
+    "options": ["13.1%", "13.8%", "14.2%", "12.5%"],
+    "answer": "13.8%",
+    "explanation": "Investment ratio improved to 13.8% :contentReference[oaicite:9]{index=9}"
+  },
+  {
+    "question": "Pakistan’s national savings‑to‑GDP ratio in FY 25 was around?",
+    "options": ["12.6%", "13.3%", "14.1%", "15.0%"],
+    "answer": "14.1%",
+    "explanation": "Savings‑to‑GDP rose to 14.1% :contentReference[oaicite:10]{index=10}"
+  },
+  {
+    "question": "Punjab’s total budget outlay for FY 2025‑26 was?",
+    "options": ["Rs 4.8 trillion", "Rs 5.335 trillion", "Rs 6 trillion", "Rs 5 trillion"],
+    "answer": "Rs 5.335 trillion",
+    "explanation": "It was the largest-ever budget for Punjab, amounting to Rs 5.335 trillion :contentReference[oaicite:11]{index=11}"
+  },
+  {
+    "question": "Punjab’s ADP allocation for FY 25‑26 was roughly?",
+    "options": ["Rs 842 bn", "Rs 1,240 bn", "Rs 930 bn", "Rs 1,000 bn"],
+    "answer": "Rs 1,240 bn",
+    "explanation": "ADP was set at Rs 1,240 bn (~47% increase) :contentReference[oaicite:12]{index=12}"
+  },
+  {
+    "question": "Punjab’s projected budget surplus for FY 25‑26 was?",
+    "options": ["Rs 630 bn", "Rs 740 bn", "Rs 800 bn", "Rs 500 bn"],
+    "answer": "Rs 740 bn",
+    "explanation": "Surplus projected at Rs 740 bn :contentReference[oaicite:13]{index=13}"
+  },
+  {
+    "question": "Punjab’s own‑source revenue target for FY 25‑26 was approximately?",
+    "options": ["Rs 828 bn", "Rs 700 bn", "Rs 900 bn", "Rs 760 bn"],
+    "answer": "Rs 828 bn",
+    "explanation": "Own‑source revenue target around Rs 828.1 bn :contentReference[oaicite:14]{index=14}"
+  },
+  {
+    "question": "Revenue target assigned to Punjab Revenue Authority (PRA) was about?",
+    "options": ["Rs 300 bn", "Rs 340 bn", "Rs 400 bn", "Rs 360 bn"],
+    "answer": "Rs 340 bn",
+    "explanation": "PRA target set at Rs 340 bn (~13% growth) :contentReference[oaicite:15]{index=15}"
+  },
+  {
+    "question": "Education sector allocation in Punjab FY 25‑26 was around?",
+    "options": ["Rs 660 bn", "Rs 812 bn", "Rs 900 bn", "Rs 750 bn"],
+    "answer": "Rs 811.8 bn",
+    "explanation": "Education got Rs 811.8 bn (~21.2% rise) :contentReference[oaicite:16]{index=16}"
+  },
+  {
+    "question": "Punjab’s health sector received approximately?",
+    "options": ["Rs 539 bn", "Rs 630 bn", "Rs 700 bn", "Rs 600 bn"],
+    "answer": "Rs 630.5 bn",
+    "explanation": "Health allocation was Rs 630.5 bn (~17% increase) :contentReference[oaicite:17]{index=17}"
+  },
+  {
+    "question": "Punjab allocated about Rs 129.8 bn to which sector in FY 25‑26?",
+    "options": ["Agriculture", "Transport", "Industry", "Housing"],
+    "answer": "Agriculture",
+    "explanation": "Agriculture allocation stood at Rs 129.8 bn (~10.7% rise) :contentReference[oaicite:18]{index=18}"
+  },
+  {
+    "question": "Punjab transferred approximately how much to local governments via PFC?",
+    "options": ["Rs 700 bn", "Rs 764 bn", "Rs 850 bn", "Rs 600 bn"],
+    "answer": "Rs 764 bn",
+    "explanation": "PFC transfers estimated at Rs 764 bn :contentReference[oaicite:19]{index=19}"
+  },
+  {
+    "question": "Punjab abolished how many vacant posts in FY 25‑26 budget?",
+    "options": ["10,000", "28,330", "5,000", "20,000"],
+    "answer": "28,330",
+    "explanation": "They abolished 28,330 posts to improve efficiency :contentReference[oaicite:20]{index=20}"
+  },
+  {
+    "question": "Under Uraan Pakistan exports target by 2029 is about?",
+    "options": ["$50 bn", "$55 bn", "$60 bn", "$70 bn"],
+    "answer": "$60 bn",
+    "explanation": "Goal set to reach $60 b by 2029 :contentReference[oaicite:21]{index=21}"
+  },
+  {
+    "question": "Uraan Pakistan launched in?",
+    "options": ["Dec 2023", "Dec 2024", "Jan 2025", "Jun 2025"],
+    "answer": "Dec 2024",
+    "explanation": "National Economic Transformation Plan launched Dec 2024 :contentReference[oaicite:22]{index=22}"
+  },
+  {
+    "question": "One of the 5 Es framework pillars of Uraan is?",
+    "options": ["Quantum Valley", "Defense expansion", "Bank recapitalization", "Subsidy increase"],
+    "answer": "Quantum Valley",
+    "explanation": "Focus includes digital transformation & Quantum Valley :contentReference[oaicite:23]{index=23}"
+  },
+  {
+    "question": "Single‑year growth target under Uraan Pakistan for FY 26 is?",
+    "options": ["3.6%", "4.2%", "5.0%", "2.7%"],
+    "answer": "4.2%",
+    "explanation": "Growth target revised upward to 4.2% :contentReference[oaicite:24]{index=24}"
+  },
+  {
+    "question": "Pakistan's defense spending change in 2025‑26 federal budget was?",
+    "options": ["10%", "17%", "5%", "25%"],
+    "answer": "17%",
+    "explanation": "Defense allocation increased ~17% :contentReference[oaicite:25]{index=25}"
+  },
+  {
+    "question": "Interest rate anticipated cut by State Bank to about?",
+    "options": ["11%", "10.5%", "12%", "9.5%"],
+    "answer": "10.5%",
+    "explanation": "Analysts expect rate cut to 10.5% amid low inflation :contentReference[oaicite:26]{index=26}"
+  },
+  {
+    "question": "Inflation in Pakistan rose to ___% in July 2025?",
+    "options": ["3.2%", "4.1%", "4.7%", "5.0%"],
+    "answer": "4.1%",
+    "explanation": "Annual inflation in July accelerated to 4.1% :contentReference[oaicite:27]{index=27}"
+  },
+  {
+    "question": "Pakistan’s export growth in FY 25 was about?",
+    "options": ["5.0%", "6.4%", "4.0%", "7.5%"],
+    "answer": "6.4%",
+    "explanation": "Exports grew ~6.4% to $26.9 b :contentReference[oaicite:28]{index=28}"
+  },
+  {
+    "question": "Installed electricity generation capacity in Pakistan by Mar 2025 reached about?",
+    "options": ["42,000 MW", "46,605 MW", "50,000 MW", "40,000 MW"],
+    "answer": "46,605 MW",
+    "explanation": "Installed capacity reached ~46,605 MW :contentReference[oaicite:29]{index=29}"
+  },
+  {
+    "question": "Solar power as share of electricity production in Pakistan in 2025 was about?",
+    "options": ["10%", "25%", "30%", "40%"],
+    "answer": "25%",
+    "explanation": "Solar accounted for ~25% of production :contentReference[oaicite:30]{index=30}"
+  },
+  {
+    "question": "Remittances grew by what percent YoY in FY 25?",
+    "options": ["11%", "30.9%", "20%", "25%"],
+    "answer": "30.9%",
+    "explanation": "Remittances rose ~30.9% YoY :contentReference[oaicite:31]{index=31}"
+  },
+  {
+    "question": "Pakistan’s foreign exchange reserves by mid‑2025 stood near?",
+    "options": ["$14.3 b", "$16.6 b", "$20 b", "$10 b"],
+    "answer": "$16.6 b",
+    "explanation": "Reserves rose to ~US $16.6 b :contentReference[oaicite:32]{index=32}"
+  },
+  {
+    "question": "State Bank policy rate by mid‑2025 was approximately?",
+    "options": ["11%", "12%", "10.5%", "13%"],
+    "answer": "11%",
+    "explanation": "SBP paused at ~11% :contentReference[oaicite:33]{index=33}"
+  },
+  {
+    "question": "Large‑Scale Manufacturing contracted by about ___% in FY 25?",
+    "options": ["10%", "1.5%", "5%", "2%"],
+    "answer": "1.5%",
+    "explanation": "LSM contracted ~1.5% :contentReference[oaicite:34]{index=34}"
+  },
+  {
+    "question": "Public servants’ salaries in Punjab FY 25‑26 increased by?",
+    "options": ["5%", "10%", "15%", "20%"],
+    "answer": "10%",
+    "explanation": "Salaries raised by 10% :contentReference[oaicite:35]{index=35}"
+  },
+  {
+    "question": "Minimum wage in Punjab FY 25‑26 was set at?",
+    "options": ["Rs 37,000", "Rs 40,000", "Rs 44,000", "Rs 32,000"],
+    "answer": "Rs 40,000",
+    "explanation": "Minimum wage increased to Rs 40,000 per month :contentReference[oaicite:36]{index=36}"
+  },
+  {
+    "question": "Development projects supported by Punjab ADP were about?",
+    "options": ["600+", "850+", "1000+", "500+"],
+    "answer": "850+",
+    "explanation": "Over 850 projects financed under ADP :contentReference[oaicite:37]{index=37}"
+  },
+  {
+    "question": "Punjab allocated around Rs 48 bn for electric buses in FY 25‑26 plan?",
+    "options": ["Rs 46 bn", "Rs 48 bn", "Rs 50 bn", "Rs 52 bn"],
+    "answer": "Rs 46 bn",
+    "explanation": "Electric buses investment ~Rs 46 bn :contentReference[oaicite:38]{index=38}"
+  },
+  {
+    "question": "Punjab housing scheme “Apni Chhat Apna Ghar” was allocated around?",
+    "options": ["Rs 150 bn", "Rs 100 bn", "Rs 200 bn", "Rs 120 bn"],
+    "answer": "Rs 150 bn",
+    "explanation": "Housing scheme got ~Rs 150 bn :contentReference[oaicite:39]{index=39}"
+  },
+  {
+    "question": "Punjab climate observatory initiative budget was about?",
+    "options": ["Rs 3 bn", "Rs 5 bn", "Rs 1.9 bn", "Rs 4 bn"],
+    "answer": "Rs 3 bn",
+    "explanation": "Climate observatory allocated ~Rs 3 bn :contentReference[oaicite:40]{index=40}"
+  },
+  {
+    "question": "Social security rashan card (Maryam Nawaz) in Punjab got about?",
+    "options": ["Rs 30 bn", "Rs 40 bn", "Rs 50 bn", "Rs 20 bn"],
+    "answer": "Rs 40 bn",
+    "explanation": "Rashan card program allocation ~Rs 40 bn :contentReference[oaicite:41]{index=41}"
+  },
+  {
+    "question": "Punjab’s PSDP (development spending) share dedicated to welfare was roughly?",
+    "options": ["60%", "70‑75%", "50%", "40%"],
+    "answer": "70‑75%",
+    "explanation": "Approx 73% of budget for public welfare & inclusive growth :contentReference[oaicite:42]{index=42}"
+  },
+  {
+    "question": "Pakistan faces external debt repayment of about ___ in 2025‑26?",
+    "options": ["$23 b", "$20 b", "$30 b", "$15 b"],
+    "answer": "$23 b",
+    "explanation": "External debt repayment over ~$23 b in 2025‑26 :contentReference[oaicite:43]{index=43}"
+  },
+  {
+    "question": "Punjab state borrowing limit cut by center by?",
+    "options": ["Rs 10,000 cr", "Rs 16,676 cr", "Rs 5,000 cr", "Rs 20,000 cr"],
+    "answer": "Rs 16,676 cr",
+    "explanation": "Centre reduced Punjab’s borrowing limit by Rs 16,676 cr :contentReference[oaicite:44]{index=44}"
+  },
+  {
+    "question": "Punjab (India) recorded a GST revenue growth of ___% in July 2025?",
+    "options": ["30%", "32%", "35%", "25%"],
+    "answer": "32%",
+    "explanation": "Indian Punjab recorded 32.08% GST growth in July 2025 :contentReference[oaicite:45]{index=45}"
+  },
+  {
+    "question": "Study flagged Punjab’s economic decline over decades with annual growth ~?",
+    "options": ["5.67%", "4.62%", "3.50%", "4.0%"],
+    "answer": "4.62%",
+    "explanation": "Punjab (Indian) decadal avg growth only ~4.62% vs national 5.67% :contentReference[oaicite:46]{index=46}"
+  },
+  {
+    "question": "Punjab planned to raise around ___ via 15‑yr stock issue in July 2025 (India)?",
+    "options": ["₹2,000 cr", "₹2,500 cr", "₹3,000 cr", "₹1,500 cr"],
+    "answer": "₹2,500 cr",
+    "explanation": "India’s Punjab planned ₹2,500 cr via 15‑year bonds :contentReference[oaicite:47]{index=47}"
+  }
+]
